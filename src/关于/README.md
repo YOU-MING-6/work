@@ -51,6 +51,7 @@ sidebar: false
 - 因为觉得飞书太好用了`（不是）` - [查看源文档](https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe?from=from_copylink)
 - 建立时间：`2024年7月19日`
 - 这是一个 YM 网站项目 旗下项目
+- 最新版本：`2.0.0`  `（已固定版本号）`
 - 作者：YOU MING 柚明
 - 工作室：YOU MING 工作室
 
