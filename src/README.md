@@ -34,7 +34,7 @@ features:
     icon: user-pen
     details: 此文档由 @柚明 维护；YOU MING 工作室 所有。
     link: /intro.html
-    
+
   - title: 有什么问题吗？
     icon: circle-question
     details: 欢迎给我们发送反馈。
