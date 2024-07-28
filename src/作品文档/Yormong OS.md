@@ -41,7 +41,7 @@ copyright:
 
 ---
 
-![](https://www.freeimg.cn/i/2024/07/28/66a6171e75e75.png)
+![](https://www.freeimg.cn/i/2024/07/28/66a6174272b91.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
