@@ -32,7 +32,7 @@ copyright:
 ---
 
 ::: warning 更新状态
-此作品目前已 `暂停更新`
+此作品目前已 `暂停更新`\
 当前状态为 `正式版`
 :::
 
@@ -42,6 +42,8 @@ copyright:
 :::
 
 ---
+
+![](https://www.freeimg.cn/i/2024/07/28/66a60f4b4221a.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 

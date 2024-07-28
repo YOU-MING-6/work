@@ -31,7 +31,8 @@ copyright:
 ---
 
 ::: tip 更新状态
-此作品目前 `正在更新`
+此作品目前 `正在更新`\
+当前为 `公测版`
 :::
 
 ::: info 项目
@@ -39,6 +40,8 @@ copyright:
 :::
 
 ---
+
+![](https://www.freeimg.cn/i/2024/07/28/66a6171e75e75.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 

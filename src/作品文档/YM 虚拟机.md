@@ -30,8 +30,8 @@ copyright:
 ---
 
 ::: tip 更新状态
-此作品目前 `正在托更`
-当前状态为 `内测版`
+此作品目前 `正在托更`\
+当前为 `内测版`
 :::
 
 ::: info 项目
@@ -39,6 +39,8 @@ copyright:
 :::
 
 ---
+
+![](https://www.freeimg.cn/i/2024/07/28/66a61e2450412.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 

@@ -33,11 +33,8 @@ copyright:
 
 ::: caution 状态
 此作品目前已 `停止支持`\
+当前状态为 `正式版`\
 这是一个早期作品
-:::
-
-::: tip 更新状态
-当前状态为 `正式版`
 :::
 
 ::: info 项目
@@ -46,6 +43,8 @@ copyright:
 :::
 
 ---
+
+![](https://www.freeimg.cn/i/2024/07/28/66a616411c3f5.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
