@@ -29,8 +29,6 @@ star: false
 footer:
 # 自定义版权信息
 copyright:
-# 当前文章是否为原创
-isoriginal: true
 ---
 
 ::: warning 更新状态
