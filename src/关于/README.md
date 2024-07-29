@@ -6,7 +6,7 @@ cover:
 # 页面图标
 icon: circle-info
 # 侧边栏顺序
-order: 2
+order: 1
 # 设置作者
 author:
 # 设置写作时间
