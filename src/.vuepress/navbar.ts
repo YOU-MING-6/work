@@ -73,6 +73,13 @@ export default navbar([
           { text: "举报违规行为", icon: "triangle-exclamation", link: "举报违规行为" },
           { text: "关于工作室", icon: "circle-info", link: "YOU MING 工作室" },
         ],
+      },
+      {
+        text: "关于",
+        prefix: "反馈中心/",
+        children: [
+          { text: "关于工作室", icon: "circle-info", link: "YOU MING 工作室" },
+        ],
       }
     ],
   },
@@ -105,7 +112,15 @@ export default navbar([
           { text: "标签地图页", icon: "tag", link: "tag/" },
         ],
       },
+      {
+        text: "关于",
+        prefix: "",
+        children: [
+          { text: "关于", link: "/关于/", icon: "circle-info" },
+          { text: "指南", link: "/关于/指南.html", icon: "compass" },
+          { text: "指南", link: "/关于/指南.html#问题", icon: "circle-question" },
+        ],
+      },
     ],
   },
-  { text: "关于", link: "/关于/", icon: "circle-info" },
 ]);

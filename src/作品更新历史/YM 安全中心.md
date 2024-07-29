@@ -27,7 +27,7 @@ footer:
 copyright:
 ---
 
-::: info 这是哪？
+::: important 这是哪？
 这是作品文档的更新历史文档\
 [返回主文档](/作品更新历史/YM%安全中心.html)
 :::
@@ -49,15 +49,16 @@ copyright:
 
 ::: info 创作人员
 参与创作的人员：`@柚明`
-::: 
 
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
   logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
   link="/关于/工作室.html#you-ming-柚明"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.1)"
 />
+
+::: 
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
 
@@ -131,7 +132,6 @@ copyright:
 ---
 
 ## <HopeIcon icon="rotate-left" /> 返回
-::: info 返回
-这是作品文档的更新历史文档
+::: center
 [返回主文档](/作品文档/YM%20安全中心.html)
 :::

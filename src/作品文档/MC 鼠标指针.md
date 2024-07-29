@@ -63,15 +63,16 @@ copyright:
 
 ::: info 创作人员
 参与创作的人员：`@柚明`
-::: 
 
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
   logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
   link="/关于/工作室.html#you-ming-柚明"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.1)"
 />
+
+::: 
 
 ::: tip 开源
 这是一个开源项目。
