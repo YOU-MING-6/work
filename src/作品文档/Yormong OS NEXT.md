@@ -60,6 +60,22 @@ copyright:
 参与创作的人员：`@柚明` `@某团一笑`
 ::: 
 
+<VPCard
+  title="YOU MING 柚明"
+  desc="一个不知名创作者"
+  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  link="/intro.html"
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
+<VPCard
+  title="某团一笑"
+  desc="现在，让我们来看看答案。"
+  logo="https://www.freeimg.cn/i/2024/07/29/66a6ffca63151.jpg"
+  link=""
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
 ::: important 编辑与发布
 `这是一个概念作品，你不能进行编辑和发布。`
 :::

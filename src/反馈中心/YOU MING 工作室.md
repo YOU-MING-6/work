@@ -1,0 +1,107 @@
+---
+# 文章标题
+title: YOU MING 工作室
+# 自定义封面图片
+cover:
+# 页面图标
+icon: circle-info
+# 侧边栏顺序
+order: 5
+# 设置作者
+author: YOU MING 柚明,
+# 设置写作时间
+date: 2024-07-29
+# 分类
+category:
+  - 关于
+# 标签
+tag:
+  - 关于
+  - 工作室
+# 此页面会在文章列表置顶
+sticky: false
+# 此页面会出现在星标文章中
+star: false
+# 自定义页脚
+footer:
+# 自定义版权信息
+copyright:
+---
+
+::: info 这是哪？
+这是 `YOU MING 工作室` 的介绍文档
+:::
+
+---
+
+## <HopeIcon icon="circle-info" /> 基本信息
+
+- **成立时间：**`2023.2.1`
+- **室长：**`YOU MING 柚明`
+
+## <HopeIcon icon="clipboard-user" /> 成员简介
+
+### YOU MING 柚明
+
+<VPCard
+  title="YOU MING 柚明"
+  desc="一个不知名创作者"
+  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  link="/intro.html"
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
+- **身份：** <Badge text="工作室室长" type="tip" vertical="middle" />
+- **性别：** `男 ♂`
+- **加入时间：** `2023.2.1`
+- **参与开发的项目：**
+
+  - **所有项目**
+
+---
+
+### 某团一笑
+
+<VPCard
+  title="某团一笑"
+  desc="现在，让我们来看看答案。"
+  logo="https://www.freeimg.cn/i/2024/07/29/66a6ffca63151.jpg"
+  link=""
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
+- **身份：** <Badge text="工作室成员" type="info" vertical="middle" />
+- **性别：** `男 ♂`
+- **加入时间：** `2023.7.22`  `21:14`
+- **参与开发的项目：**
+
+  - [Yormong OS](/作品文档/Yormong%20OS.html)
+  - [Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html)
+  - [YM 虚拟机](/作品文档/YM%20虚拟机.html)
+
+---
+
+### Shadow
+
+<VPCard
+  title="Shadow"
+  desc="有梦想，才能有希望。"
+  logo="https://www.freeimg.cn/i/2024/07/29/66a7008974be7.jpg"
+  link=""
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
+- **身份：** <Badge text="工作室成员" type="info" vertical="middle" />
+- **性别：** `男 ♂`
+- **加入时间：** `2024.5.1`  `19:46`
+- **参与开发的项目：**
+
+  - [Yormong OS](/作品文档/Yormong%20OS.html)
+
+---
+
+## <HopeIcon icon="message" /> 更多
+
+- 有什么要向我们 [反馈](https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb?iframeFrom=docx&ccm_open=iframe) 的吗？
+- 欢迎 [来 QQ 水群](https://qm.qq.com/q/K3Lqokpdm0)（群号: 248965719）
+- [柚明︱主页🍀](https://home.youming.dns.army/)

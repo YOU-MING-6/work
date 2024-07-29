@@ -13,13 +13,15 @@ export default hopeTheme({
   author: {
     name: "YOU MING 柚明",
     url: "/intro.html",
+    email: "无",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png",
 
-  repo: "YOU-MING-6/work",
+  // 导航栏 Github 链接
+  repo: "",
 
   // 导航栏
   navbar,
@@ -43,6 +45,8 @@ export default hopeTheme({
         link: "https://qm.qq.com/q/K3Lqokpdm0",
       },
     },
+    // 时间轴的顶部文字
+    timeline: "🍀未来可期！"
   },
 
   // 加密配置

@@ -8,7 +8,7 @@ icon: display
 # 侧边栏顺序
 order: 2
 # 设置作者
-author:
+author: YOU MING 柚明,某团一笑
 # 设置写作时间
 date: 2024-07-27
 # 分类
@@ -206,6 +206,7 @@ copyright:
 
 ---
 
+## <HopeIcon icon="rotate-left" /> 返回
 ::: info 返回
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::

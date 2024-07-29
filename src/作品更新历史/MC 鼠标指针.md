@@ -160,6 +160,7 @@ copyright:
 
 ---
 
+## <HopeIcon icon="rotate-left" /> 返回
 ::: info 返回
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::

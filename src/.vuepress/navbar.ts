@@ -71,6 +71,7 @@ export default navbar([
           { text: "发送灵感", icon: "lightbulb", link: "发送灵感" },
           { text: "申请编辑发布权", icon: "key", link: "申请编辑发布权" },
           { text: "举报违规行为", icon: "triangle-exclamation", link: "举报违规行为" },
+          { text: "关于工作室", icon: "circle-info", link: "YOU MING 工作室" },
         ],
       }
     ],

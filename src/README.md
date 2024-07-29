@@ -44,7 +44,7 @@ copyright: false
 footer: © 2024 - YOU MING 工作室 - 保留所有权利
 ---
 
-## 更多
+## <HopeIcon icon="message" /> 更多
 
 - 有什么要向我们 [反馈](https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb?iframeFrom=docx&ccm_open=iframe) 的吗？
 - 欢迎 [来 QQ 水群](https://qm.qq.com/q/K3Lqokpdm0)（群号: 248965719）

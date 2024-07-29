@@ -8,7 +8,7 @@ icon: display
 # 侧边栏顺序
 order: 4
 # 设置作者
-author:
+author: YOU MING 柚明,某团一笑
 # 设置写作时间
 date: 2024-07-27
 # 分类
@@ -50,6 +50,22 @@ copyright:
 ::: info 创作人员
 参与创作的人员：`@柚明` `@某团一笑`
 ::: 
+
+<VPCard
+  title="YOU MING 柚明"
+  desc="一个不知名创作者"
+  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  link="/intro.html"
+  background="rgba(62, 175, 124, 0.05)"
+/>
+
+<VPCard
+  title="某团一笑"
+  desc="现在，让我们来看看答案。"
+  logo="https://www.freeimg.cn/i/2024/07/29/66a6ffca63151.jpg"
+  link=""
+  background="rgba(62, 175, 124, 0.05)"
+/>
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
 
@@ -105,6 +121,7 @@ copyright:
 
 ---
 
+## <HopeIcon icon="rotate-left" /> 返回
 ::: info 返回
 [返回主文档](/作品文档/Yormong%20OS%20NEXT.html)
 :::
