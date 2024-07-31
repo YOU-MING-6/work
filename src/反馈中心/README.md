@@ -44,10 +44,9 @@ copyright:
 
 - 遇到过长时间没有审核，可尝试重新发送反馈，并仔细检查邮箱是否可用。
 :::
-
-
-
----
+::: details 审核通过结果预览
+![](https://www.freeimg.cn/i/2024/07/30/66a8e469c8199.png)
+:::
 
 ## <HopeIcon icon="envelope" /> 反馈
 ::: tip 反馈
