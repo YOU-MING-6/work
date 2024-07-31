@@ -8,9 +8,9 @@ icon: hourglass-half
 # 侧边栏顺序
 order: 100
 # 设置作者
-author: false
+author: 自动更新
 # 设置写作时间
-date: 2024-07-23
+date: 2024-07-27
 # 分类
 category:
   - 进度
@@ -35,32 +35,25 @@ copyright:
 
 ---
 
+## 目前我们正在：
 - 本次更新时间[^更新时间]
 
 ## <HopeIcon icon="hourglass-half" /> 目前我们正在：
 
-### <HopeIcon icon="pen" /> 更新作品：
+### 更新作品
 
----
+- [Yormong OS](/作品文档/Yormong%20OS.html)
+- [Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html)
+- [YM 虚拟机](/作品文档/YM%20虚拟机.html)
+- [YM 安全中心](/作品文档/YM%20安全中心.html)
 
-- **YM 作品项目**
+### 维护&更新 我们的网站
 
-  - `无`
-
-- **YM PPT项目**
-
-  - [Yormong OS](/作品文档/Yormong%20OS.html)
-  - [Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html)
-  - [YM 虚拟机](/作品文档/YM%20虚拟机.html)
-  - [YM 安全中心](/作品文档/YM%20安全中心.html)
-
-- **YM 网站项目**
-
-  - [柚明︱主页🍀](/作品文档/柚明主页.html)
-  - [作品文档](/作品文档/作品文档.html) <Badge text="当前网站" type="tip" vertical="middle" />
-  - [维护 反馈 问卷](https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb)
-  - [维护 申请编辑发布权 问卷](https://you-ming.feishu.cn/share/base/form/shrcn0cy7MvgHQiajVARK7OmSZf)
-  - [维护 举报违规行为 问卷](https://you-ming.feishu.cn/share/base/form/shrcngg2h2f2X7RJOiwy28tDjFf)
+- [柚明︱主页🍀](/作品文档/柚明主页.html)
+- [作品文档](/作品文档/作品文档.html) <Badge text="当前网站" type="tip" vertical="middle" />
+- [维护 反馈 问卷](https://you-ming.feishu.cn/share/base/form/shrcnPXFd1kjeiaoPTkQlHZ1jhb)
+- [维护 申请编辑发布权 问卷](https://you-ming.feishu.cn/share/base/form/shrcn0cy7MvgHQiajVARK7OmSZf)
+- [维护 举报违规行为 问卷](https://you-ming.feishu.cn/share/base/form/shrcngg2h2f2X7RJOiwy28tDjFf)
 
 ### <HopeIcon icon="pen-to-square" /> 维护问卷：
 
@@ -72,9 +65,12 @@ copyright:
   - [申请编辑发布权 问卷](https://you-ming.feishu.cn/share/base/form/shrcn0cy7MvgHQiajVARK7OmSZf)
   - [举报违规行为 问卷](https://you-ming.feishu.cn/share/base/form/shrcngg2h2f2X7RJOiwy28tDjFf)
 
-### <HopeIcon icon="magnifying-glass" /> YOU MING 审核：
+### <HopeIcon icon="pen-to-square" /> YOU MING 审核：
 - 我们最近（一周）共审核了 
 
-  - `4 份` 提交的飞书问卷
+  - `4 份` 提交的问卷
 
-[^更新时间]: **本次更新时间：**`2024.7.29` `18:24 (U+8:00)`，**此页更新频率：**`1~7 天`
+本数据于 更新时间[^审核更新时间] 更新
+
+[^更新时间]: **更新时间：**`2024.7.29` `18:24 (U+8:00)`，**更新频率：**`1~7 天`
+[^审核更新时间]: **审核更新时间：**`2024.7.29` `18:24 (U+8:00)`

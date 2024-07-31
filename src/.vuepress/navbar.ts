@@ -72,7 +72,7 @@ export default navbar([
           { text: "申请编辑发布权", icon: "key", link: "申请编辑发布权" },
           { text: "举报违规行为", icon: "triangle-exclamation", link: "举报违规行为" },
         ],
-      },
+      }
     ],
   },
   {
@@ -98,20 +98,12 @@ export default navbar([
         ],
       },
       {
-        text: "个人",
-        prefix: "",
-        children: [
-          { text: "个人页", icon: "compass", link: "intro.html" },
-        ],
-      },
-      {
         text: "关于",
         prefix: "",
         children: [
           { text: "关于", link: "/关于/", icon: "circle-info" },
           { text: "指南", link: "/关于/指南.html", icon: "compass" },
           { text: "指南", link: "/关于/指南.html#问题", icon: "circle-question" },
-          { text: "关于工作室", link: "/关于/工作室.html", icon: "circle-info" },
         ],
       },
     ],
