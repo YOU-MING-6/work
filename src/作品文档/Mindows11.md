@@ -80,7 +80,7 @@ copyright:
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <HopeIcon icon="circle-play" /> 预览
+## <HopeIcon icon="magnifying-glass" /> 预览
 
 ::: details 视频预览 <HopeIcon icon="film" />
 <HopeIcon icon="circle-play" /> [哔哩哔哩 - 安装过程预览](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)

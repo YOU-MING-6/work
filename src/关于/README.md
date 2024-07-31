@@ -25,22 +25,20 @@ star: false
 footer:
 # 自定义版权信息
 copyright:
-# 禁用侧边栏
-sidebar: false
 ---
 
 ::: important 这是哪？
 这是一个`关于`页面
 :::
 ::: info 第一次来？
-查看适用于小白的 [指南](/关于/指南.html)
+查看适用于小白的 [指南](/关于/指南.html) 页面
 :::
 
 ---
 
 ## <HopeIcon icon="circle-question" /> 这是什么网站？
 
-- 这是一个基于 VuePress Theme Hope 的网站
+- 这是一个基于 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 的网站
 - 这是 `@柚明` 的官方作品文档
 - 用于显示作品信息、更新历史、下载链接 及其他功能
 - 由 `@柚明` 维护

@@ -28,16 +28,16 @@ footer:
 copyright:
 ---
 
-::: info 这是什么？
+::: important 这是哪？
 这是一个用于`显示进度`的文档；\
-这不是一个作品文档。
+**这不是一个作品文档。**
 :::
 
 ---
 
 - 本次更新时间[^更新时间]
 
-## <HopeIcon icon="hourglass-start" /> 目前我们正在：
+## <HopeIcon icon="hourglass-half" /> 目前我们正在：
 
 ### <HopeIcon icon="pen" /> 更新作品：
 
@@ -72,12 +72,9 @@ copyright:
   - [申请编辑发布权 问卷](https://you-ming.feishu.cn/share/base/form/shrcn0cy7MvgHQiajVARK7OmSZf)
   - [举报违规行为 问卷](https://you-ming.feishu.cn/share/base/form/shrcngg2h2f2X7RJOiwy28tDjFf)
 
-### <HopeIcon icon="pen-to-square" /> YOU MING 审核：
+### <HopeIcon icon="magnifying-glass" /> YOU MING 审核：
 - 我们最近（一周）共审核了 
 
-  - `4 份` 提交的问卷
+  - `4 份` 提交的飞书问卷
 
-本数据于 更新时间[^审核更新时间] 更新
-
-[^更新时间]: **更新时间：**`2024.7.29` `18:24 (U+8:00)`，**更新频率：**`1~7 天`
-[^审核更新时间]: **审核更新时间：**`2024.7.29` `18:24 (U+8:00)`
+[^更新时间]: **本次更新时间：**`2024.7.29` `18:24 (U+8:00)`，**此页更新频率：**`1~7 天`
