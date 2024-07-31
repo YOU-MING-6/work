@@ -80,7 +80,7 @@ copyright:
 目前为内测版，暂不支持申请编辑发布权。
 :::
 
-## <HopeIcon icon="magnifying-glass" /> 预览
+## <HopeIcon icon="circle-play" /> 预览
 
 ::: caution 无法预览
 这是一个内测版作品，你不能进行预览，也不支持进行编辑和发布。

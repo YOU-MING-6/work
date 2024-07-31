@@ -20,10 +20,8 @@ export default hopeTheme({
 
   logo: "https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png",
 
-  // 是否显示导航栏 Github 或其他链接
-  repoDisplay: false,
-  // 导航栏 Github 或其他链接
-  repo: "https://qm.qq.com/q/K3Lqokpdm0",
+  // 导航栏 Github 链接
+  repo: "",
 
   // 导航栏
   navbar,
