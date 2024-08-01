@@ -29,8 +29,6 @@ star: false
 footer:
 # 自定义版权信息
 copyright:
-# 评论
-comment: true
 ---
 
 ::: warning 更新状态
@@ -128,5 +126,3 @@ comment: true
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
 :::
-
-<CommentService />
