@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      node.js:
-        specifier: 0.0.1-security
-        version: 0.0.1-security
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.14
@@ -1201,9 +1197,6 @@ packages:
 
   node-releases@2.0.18:
     resolution: {integrity: sha512-d9VeXT4SJ7ZeOqGX6R5EM022wpL+eWPooLI+5UpWn2jCT1aosUQEhQP214x33Wkwx3JQMvIm+tIoVOdodFS40g==}
-
-  node.js@0.0.1-security:
-    resolution: {integrity: sha512-8tWQiyg/3ggdLTrtfgj/NxmZpC20eB1U5VNkqt2dbelpcr3NrfjpEE3DgifpBOCJ4Xu9Obvu8iju63ViQW3Hvg==}
 
   normalize-path@3.0.0:
     resolution: {integrity: sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==}
@@ -2883,8 +2876,6 @@ snapshots:
   nanoid@5.0.7: {}
 
   node-releases@2.0.18: {}
-
-  node.js@0.0.1-security: {}
 
   normalize-path@3.0.0: {}
 
