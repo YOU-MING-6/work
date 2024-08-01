@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { commentPlugin } from '@vuepress/plugin-comment'
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -36,6 +37,14 @@ export default hopeTheme({
   // 页脚
   footer: "YOU MING 工作室",
   displayFooter: true,
+
+  // 评论系统
+  plugins: [
+    commentPlugin({
+      provider: "Waline",
+      serverURL: "https://work.youming.dns.army",
+    }),
+  ],
 
   // 博客相关
   blog: {
