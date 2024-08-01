@@ -29,6 +29,8 @@ star: false
 footer:
 # 自定义版权信息
 copyright:
+# 评论
+comment: true
 ---
 
 ::: warning 更新状态
