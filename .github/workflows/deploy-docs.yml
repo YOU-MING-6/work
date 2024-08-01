@@ -36,6 +36,8 @@ jobs:
         run: |
           corepack enable
           pnpm install --frozen-lockfile
+          pnpm i -D @vuepress/plugin-comment@next
+          pnpm i -D @waline/client
 
       - name: 构建文档
         env:
