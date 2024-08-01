@@ -15,5 +15,5 @@
     "vue": "^3.4.34",
     "vuepress": "2.0.0-rc.14",
     "vuepress-theme-hope": "2.0.0-rc.52"
-  },
+  }
 }
