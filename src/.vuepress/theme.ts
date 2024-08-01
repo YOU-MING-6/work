@@ -38,14 +38,6 @@ export default hopeTheme({
   footer: "YOU MING 工作室",
   displayFooter: true,
 
-  // 评论系统
-  plugins: [
-    commentPlugin({
-      provider: "Waline",
-      serverURL: "https://work.youming.dns.army",
-    }),
-  ],
-
   // 博客相关
   blog: {
     medias: {
