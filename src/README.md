@@ -22,7 +22,12 @@ actions:
 features:
   - title: 这是什么网站？
     icon: circle-question
-    details: 这是一个用于显示作品信息的介绍文档网站。
+    details: 这是一个用于显示作品信息的介绍文档。
+    link: /关于/
+
+  - title: 关于此文档
+    icon: circle-info
+    details: 此文档由我们之前的「飞书作品文档」迁移至此。
     link: /关于/
 
   - title: 作者
@@ -30,13 +35,8 @@ features:
     details: 此文档由 @柚明 维护；YOU MING 工作室 所有。
     link: /intro.html
 
-  - title: 关于
-    icon: circle-info
-    details: 这是一个基于 VuePress Theme Hope 的网站
-    link: /关于/
-
   - title: 有什么问题吗？
-    icon: message
+    icon: circle-question
     details: 欢迎给我们发送反馈。
     link: /反馈中心/
 

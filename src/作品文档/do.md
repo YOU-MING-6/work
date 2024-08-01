@@ -28,9 +28,9 @@ footer:
 copyright:
 ---
 
-::: important 这是哪？
+::: info 这是什么？
 这是一个用于`显示进度`的文档；\
-**这不是一个作品文档。**
+这不是一个作品文档。
 :::
 
 ---
@@ -38,7 +38,7 @@ copyright:
 ## 目前我们正在：
 - 本次更新时间[^更新时间]
 
-## <HopeIcon icon="hourglass-half" /> 目前我们正在：
+## <HopeIcon icon="hourglass-start" /> 目前我们正在：
 
 ### 更新作品
 

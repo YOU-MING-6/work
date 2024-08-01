@@ -5,7 +5,8 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-// “编辑此页” 配置
+
+  // “编辑此页” 配置
   docsRepo: "https://github.com/YOU-MING-6/work",
   docsDir: "src",
   docsBranch: "main",
@@ -22,6 +23,7 @@ export default hopeTheme({
 
   // 是否显示导航栏 Github 或其他链接
   repoDisplay: false,
+  
   // 导航栏 Github 或其他链接
   repo: "https://qm.qq.com/q/K3Lqokpdm0",
 

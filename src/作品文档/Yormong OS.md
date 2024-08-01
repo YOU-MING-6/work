@@ -88,7 +88,7 @@ copyright:
 目前为公测版，暂不支持申请编辑发布权。
 :::
 
-## <HopeIcon icon="magnifying-glass" /> 预览
+## <HopeIcon icon="circle-play" /> 预览
 
 ::: details 视频预览 <HopeIcon icon="film" />
 [哔哩哔哩 - 宣传片](https://www.bilibili.com/video/BV1Dq421c7EC)

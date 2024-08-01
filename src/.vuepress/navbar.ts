@@ -109,15 +109,3 @@ export default navbar([
     ],
   },
 ]);
-
-export type NavbarComponent = "Brand" | "Links" | "Language" | "Search" | "Outlook" | "Repo";
-/**
- * Navbar layout options
- *
- * 导航栏布局选项
- */
-export interface NavbarLayoutOptions {
-    start?: string[];
-    center?: string[];
-    end?: string[];
-}
