@@ -103,7 +103,7 @@ export default navbar([
         children: [
           { text: "关于", link: "/关于/", icon: "circle-info" },
           { text: "指南", link: "/关于/指南.html", icon: "compass" },
-          { text: "指南", link: "/关于/指南.html#问题", icon: "circle-question" },
+          { text: "问题", link: "/关于/指南.html#问题", icon: "circle-question" },
         ],
       },
     ],

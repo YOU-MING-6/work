@@ -77,6 +77,21 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       serverURL: "https://waline.youming.us.kg/", // your server url
+      emoji: [
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji",
+        "//unpkg.com/@waline/emojis@1.2.0/bilibili",
+        '//unpkg.com/@waline/emojis@1.1.0/weibo'
+      ],
+      requiredMeta: ['nick'],
+      wordLimit: 1000,
+      pageSize: 20,
+      reaction: [
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_unavailble_doge.png",
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_wow.png",
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_thumb_up.png",
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_onlooker.png",
+        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_not_open.png",
+      ],
     },
     components: {
       components: ["Badge", "VPCard"],

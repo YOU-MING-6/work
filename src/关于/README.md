@@ -27,6 +27,8 @@ footer:
 copyright:
 # 禁用侧边栏
 sidebar: false
+# 在此页面禁用评论
+comment: false
 ---
 
 ::: important 这是哪？
