@@ -90,12 +90,16 @@ copyright:
 :::
 
 ## <HopeIcon icon="circle-play" /> 预览
+::: tabs#yl
 
-::: details 宣传片 <HopeIcon icon="film" />
+@tab <HopeIcon icon="film" /> 宣传片#xcp
+## <HopeIcon icon="film" /> 宣传片
 <BiliBili bvid="BV1Dq421c7EC" />
-:::
-::: details 视频预览 <HopeIcon icon="film" />
-[哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
+
+@tab <HopeIcon icon="film" /> 视频预览
+## <HopeIcon icon="film" /> 视频预览
+无法预览合集，请手动打开链接：
+- <HopeIcon icon="circle-play" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
@@ -103,19 +107,20 @@ copyright:
 [查看更新历史](/作品更新历史/Yormong%20OS.html)
 
 ## <HopeIcon icon="download" /> 下载链接
+::: tabs#xz
 
-::: details 123 网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
+## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-UnLov.html](https://www.123pan.com/s/9ZtpTd-UnLov.html)
 - 提取码：`0MRN`
 
-::: right
-当前文件为公测版，不代表最终产品。
-:::
+  - 当前文件为公测版，不代表最终产品。
 
-::: details 夸克网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 夸克网盘#kuake
+## <HopeIcon icon="cloud-arrow-down" /> 夸克网盘
 - 下载链接：[https://pan.quark.cn/s/23d9fa54bde4](https://pan.quark.cn/s/23d9fa54bde4)
 - 提取码：`MMiL`
 
-::: right
-当前文件为公测版，不代表最终产品。
+  - 当前文件为公测版，不代表最终产品。
+
 :::

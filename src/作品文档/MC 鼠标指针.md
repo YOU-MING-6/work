@@ -103,9 +103,9 @@ copyright:
 ::: 
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
-::: tabs
+::: tabs#yl
 
-@tab <HopeIcon icon="image" /> 图片预览
+@tab <HopeIcon icon="image" /> 图片预览#tp
 ![](https://image.youming.dns.army/sbzz-yl.png)
 
 :::
@@ -115,23 +115,26 @@ copyright:
 [查看更新历史](/作品更新历史/MC%20鼠标指针.html)
 
 ## <HopeIcon icon="download" /> 下载链接
+::: tabs#xz
 
-::: details 蓝奏云
+@tab <HopeIcon icon="cloud-arrow-down" /> 蓝奏云#laizou
+## <HopeIcon icon="cloud-arrow-down" /> 蓝奏云
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
-:::
 
-::: details 123 网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
+## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
-:::
 
-::: details 夸克网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 夸克网盘#kuake
+## <HopeIcon icon="cloud-arrow-down" /> 夸克网盘
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
-:::
 
-::: details 百度网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 百度网盘#baidu
+## <HopeIcon icon="cloud-arrow-down" /> 百度网盘
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
+
 :::

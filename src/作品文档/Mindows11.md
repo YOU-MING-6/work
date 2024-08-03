@@ -80,10 +80,11 @@ copyright:
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <HopeIcon icon="circle-play" /> 预览
-::: tabs
+## <HopeIcon icon="magnifying-glass" /> 预览
+::: tabs#yl
 
-@tab 视频预览
+@tab <HopeIcon icon="film" /> 视频预览#sp
+## <HopeIcon icon="film" /> 视频预览
 无法预览合集，请手动打开链接：
 - <HopeIcon icon="circle-play" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
 
@@ -94,23 +95,26 @@ copyright:
 [查看更新历史](/作品更新历史/Mindows11.html)
 
 ## <HopeIcon icon="download" /> 下载链接
+::: tabs#xz
 
-::: details 蓝奏云
+@tab <HopeIcon icon="cloud-arrow-down" /> 蓝奏云#laizou
+## <HopeIcon icon="cloud-arrow-down" /> 蓝奏云
 - 下载链接：[https://mclanzou.lanzoup.com/b032kbvra](https://mclanzou.lanzoup.com/b032kbvra)
 - 提取码：`hanx`
-:::
 
-::: details 123 网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
+## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
-:::
 
-::: details 夸克网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 夸克网盘#kuake
+## <HopeIcon icon="cloud-arrow-down" /> 夸克网盘
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
-:::
 
-::: details 百度网盘
+@tab <HopeIcon icon="cloud-arrow-down" /> 百度网盘#baidu
+## <HopeIcon icon="cloud-arrow-down" /> 百度网盘
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`
+
 :::
