@@ -36,8 +36,12 @@ jobs:
         run: |
           corepack enable
           pnpm install --frozen-lockfile
-          pnpm i -D @vuepress/plugin-comment@next
-          pnpm i -D @waline/client
+          pnpm add -D vuepress-plugin-components
+          pnpm install @waline/client
+          pnpm install artplayer
+          pnpm install dashjs
+          pnpm install hls.js
+          pnpm install mpegts.js
 
       - name: 构建文档
         env:

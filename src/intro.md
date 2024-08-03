@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-avatar: https://www.freeimg.cn/i/2024/07/20/669b42b446a08.png
+avatar: https://image.youming.dns.army/ym-tx-1.png
 welcome: 👋你好，这里是
 titles:
   - 一个不知名创作者

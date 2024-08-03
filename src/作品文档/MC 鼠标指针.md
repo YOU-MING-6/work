@@ -13,7 +13,7 @@ author:
 date: 2024-07-27
 # 分类
 category:
-  - YM 网站项目
+  - YM 作品项目
 # 标签
 tag:
   - 暂停更新
@@ -43,7 +43,7 @@ copyright:
 
 ---
 
-![](https://www.freeimg.cn/i/2024/07/28/66a60f4b4221a.png)
+![](https://image.youming.dns.army/sbzz.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -63,15 +63,16 @@ copyright:
 
 ::: info 创作人员
 参与创作的人员：`@柚明`
-::: 
 
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
-  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  logo="https://image.youming.dns.army/ym.png"
   link="/关于/工作室.html#you-ming-柚明"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.05)"
 />
+
+::: 
 
 ::: tip 开源
 这是一个开源项目。
@@ -83,12 +84,18 @@ copyright:
 :::
 
 ## <HopeIcon icon="circle-play" /> 教程
-::: details <HopeIcon icon="wrench" /> 自动安装
-<HopeIcon icon="circle-play" /> [哔哩哔哩 - 自动安装视频教程](https://www.bilibili.com/video/BV16e411n7sr)
-:::
+::: tabs
 
-::: details <HopeIcon icon="hand-pointer" /> 手动安装
-<HopeIcon icon="circle-play" /> [哔哩哔哩 - 手动安装视频教程](https://www.bilibili.com/video/BV1Jk4y1u7nL)
+@tab <HopeIcon icon="wrench" /> 自动安装
+<BiliBili bvid="BV16e411n7sr" />
+
+- 不行吗？尝试 [手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL) ！
+- 或者在评论区提出来！
+
+@tab <HopeIcon icon="hand-pointer" /> 手动安装
+不支持预览，请手动打开链接：
+- [哔哩哔哩 - 手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL)
+
 :::
 
 ::: info 提示
@@ -96,9 +103,11 @@ copyright:
 ::: 
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
+::: tabs
 
-::: details 图片预览 <HopeIcon icon="image" /> 
-![预览](https://www.freeimg.cn/i/2024/07/24/66a0511da7e48.png)
+@tab <HopeIcon icon="image" /> 图片预览
+![](https://image.youming.dns.army/sbzz-yl.png)
+
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史

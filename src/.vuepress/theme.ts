@@ -19,7 +19,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png",
+  logo: "https://image.youming.dns.army/ym.png",
 
   // 是否显示导航栏 Github 或其他链接
   repoDisplay: false,
@@ -41,11 +41,11 @@ export default hopeTheme({
   blog: {
     medias: {
       bilibili: {
-        icon: "https://www.freeimg.cn/i/2024/07/20/669b4ca031a35.png",
+        icon: "https://image.youming.dns.army/bilibili.png",
         link: "https://space.bilibili.com/1337092956",
       },
       QQ: {
-        icon: "https://www.freeimg.cn/i/2024/07/20/669b4ce432446.png",
+        icon: "https://image.youming.dns.army/qq.png",
         link: "https://qm.qq.com/q/K3Lqokpdm0",
       },
     },
@@ -71,40 +71,49 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     blog: true,
+    // Markdown 增强
 
     // 启用之前需安装 @waline/client
     // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
+
     comment: {
       provider: "Waline",
       serverURL: "https://waline.youming.us.kg/", // your server url
       emoji: [
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji",
-        "//unpkg.com/@waline/emojis@1.2.0/bilibili",
-        '//unpkg.com/@waline/emojis@1.1.0/weibo'
+        'https://emoji.youming.dns.army/',
+        '//unpkg.com/@waline/emojis@1.1.0/weibo',
       ],
       requiredMeta: ['nick'],
-      wordLimit: 1000,
+      wordLimit: 2000,
       pageSize: 20,
       reaction: [
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_unavailble_doge.png",
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_wow.png",
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_thumb_up.png",
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_onlooker.png",
-        "//unpkg.com/@waline/emojis@1.2.0/bmoji/bmoji_not_open.png",
+        "https://image.youming.dns.army/yes.png",
+        "https://image.youming.dns.army/no.png",
       ],
     },
+
     components: {
-      components: ["Badge", "VPCard"],
+      // 你想使用的组件
+      components: [
+        "ArtPlayer", // 一个视频播放器
+        "Badge", // 支持自定义颜色的徽章
+        "BiliBili", // 哔哩哔哩视频组件
+        "Share", // 分享组件
+        "SiteInfo", // 站点信息组件
+        "VPBanner", // 横幅组件
+        "VPCard", // 卡片组件
+      ],
     },
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
-      align: true,
+      align: true, //
       attrs: true,
       codetabs: true,
       component: true,
       demo: true,
       figure: true,
+      footnote: true, // 脚注
       imgLazyload: true,
       imgSize: true,
       include: true,

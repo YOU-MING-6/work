@@ -2,7 +2,7 @@
 home: true
 title: 主页
 icon: home
-heroImage: https://www.freeimg.cn/i/2024/07/22/669dea6783255.png
+heroImage: https://image.youming.dns.army/work.png
 heroText: 作品文档
 tagline: 这里是「柚明」的官方作品文档
 actions:
@@ -22,18 +22,13 @@ actions:
 features:
   - title: 这是什么网站？
     icon: circle-question
-    details: 这是一个用于显示作品信息的介绍文档。
-    link: /关于/
-
-  - title: 关于此文档
-    icon: circle-info
-    details: 此文档由我们之前的「飞书作品文档」迁移至此。
+    details: 这是一个用于 显示作品信息 的介绍文档；由我们之前的「飞书作品文档」迁移至此。
     link: /关于/
 
   - title: 作者
     icon: user-pen
-    details: 此文档由 @柚明 维护；YOU MING 工作室 所有。
-    link: /intro.html
+    details: 此文档由 @柚明 维护；YOU-MING-工作室 所有。
+    link: /关于/工作室.html#you-ming-柚明
 
   - title: 有什么问题吗？
     icon: circle-question

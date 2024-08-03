@@ -56,17 +56,17 @@ comment: false
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
-  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  logo="https://image.youming.dns.army/ym.png"
   link="/关于/工作室.html#you-ming-柚明"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.05)"
 />
 
 <VPCard
   title="某团一笑"
   desc="现在，让我们来看看答案。"
-  logo="https://www.freeimg.cn/i/2024/07/29/66a6ffca63151.jpg"
+  logo="https://image.youming.dns.army/tx-2.jpg"
   link="/关于/工作室.html#某团一笑"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.05)"
 />
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史

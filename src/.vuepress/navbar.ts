@@ -106,6 +106,13 @@ export default navbar([
           { text: "问题", link: "/关于/指南.html#问题", icon: "circle-question" },
         ],
       },
+      {
+        text: "工作室",
+        prefix: "",
+        children: [
+          { text: "关于工作室", link: "/关于/工作室.html", icon: "circle-info" },
+        ],
+      },
     ],
   },
 ]);

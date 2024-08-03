@@ -44,7 +44,7 @@ copyright:
 
 ---
 
-![](https://www.freeimg.cn/i/2024/07/28/66a616411c3f5.png)
+![](https://image.youming.dns.army/min11.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -60,15 +60,16 @@ copyright:
 
 ::: info 创作人员
 参与创作的人员：`@柚明`
-::: 
 
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
-  logo="https://www.freeimg.cn/i/2024/02/16/65cf55b606cd6.png"
+  logo="https://image.youming.dns.army/ym.png"
   link="/关于/工作室.html#you-ming-柚明"
-  background="rgba(62, 175, 124, 0.05)"
+  background="rgba(255, 255, 255, 0.05)"
 />
+
+::: 
 
 ::: tip 开源
 这是一个开源项目。
@@ -80,9 +81,12 @@ copyright:
 :::
 
 ## <HopeIcon icon="circle-play" /> 预览
+::: tabs
 
-::: details 视频预览 <HopeIcon icon="film" />
-<HopeIcon icon="circle-play" /> [哔哩哔哩 - 安装过程预览](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
+@tab 视频预览
+无法预览合集，请手动打开链接：
+- <HopeIcon icon="circle-play" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
+
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
