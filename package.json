@@ -15,6 +15,7 @@
     "vue": "^3.4.34",
     "vuepress": "2.0.0-rc.14",
     "vuepress-plugin-components": "2.0.0-rc.52",
+    "vuepress-plugin-search-pro": "2.0.0-rc.52",
     "vuepress-theme-hope": "2.0.0-rc.52",
     "yarn": "^1.22.22"
   },
