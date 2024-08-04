@@ -105,41 +105,6 @@ export default hopeTheme({
       ],
     },
 
-    // 公告
-    notice: [
-      {
-        path: "/",
-        title: "公告", //  标题
-        content: "搬迁公告此网站原 飞书文档 搬迁而来，目前原文档已删除，请不要再访问旧的 飞书文档，因为它已经废弃。",  // 公告内容
-        actions: [
-          {
-            text: "确定",  // 操作按钮内容
-            link: "",  // 链接
-            type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
-          },
-        ],  // 操作按钮
-        confirm: true,  // 只能点击操作按钮关闭
-        fullscreen: false,  // 全屏
-      },
-      {
-        path: "/作品文档/",
-        title: "新手指南", //  标题
-        content: "第一次来？点击按钮查看新手指南！",  // 公告内容
-        actions: [
-          {
-            text: "查看",  // 操作按钮内容
-            link: "/关于/指南.html",  // 链接
-            type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
-          },
-          {
-            text: "关闭",  // 操作按钮内容
-          },
-        ],  // 操作按钮
-        confirm: true,  // 只能点击操作按钮关闭
-        fullscreen: false,  // 全屏
-      },
-    ],
-
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
       align: true, //
