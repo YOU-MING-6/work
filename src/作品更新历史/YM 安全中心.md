@@ -51,7 +51,6 @@ comment: false
 
 ::: info 创作人员
 参与创作的人员：`@柚明`
-::: 
 
 <VPCard
   title="YOU MING 柚明"
@@ -60,6 +59,8 @@ comment: false
   link="/关于/工作室.html#you-ming-柚明"
   background="rgba(255, 255, 255, 0.05)"
 />
+
+::: 
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
 
