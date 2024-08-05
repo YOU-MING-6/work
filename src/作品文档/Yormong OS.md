@@ -45,7 +45,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Yormong OS** 是一个由 `YOU MING 工作室` 的用户 `@柚明` 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
+**Yormong OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
 - `Yormong OS` 是一个基于 `Mindows11` 制作的 `PPT 系统`
 
@@ -56,7 +56,7 @@ copyright:
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑` `@Shadow`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -124,3 +124,8 @@ copyright:
   - 当前文件为公测版，不代表最终产品。
 
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
+> <Badge text="Shadow" type="tip" vertical="middle" />

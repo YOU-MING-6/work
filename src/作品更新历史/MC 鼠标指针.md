@@ -51,7 +51,7 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -66,7 +66,7 @@ comment: false
 ## <HopeIcon icon="clock-rotate-left" /> 历史记录
 
 ::: warning 暂停更新
-- `YOU MING 工作室` 的用户 `@柚明` 已暂停更新作品 `MC 鼠标指针`
+- <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 已暂停更新作品 `MC 鼠标指针`
 
 ::: right
 **2024.7.26**
@@ -97,7 +97,7 @@ comment: false
 ---
 
 ::: tip 继续更新
-- `YOU MING 工作室` 的用户 `@柚明` 继续更新作品 `MC 鼠标指针`
+- <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `MC 鼠标指针`
 
 ::: right
 **2024.1.12**
@@ -106,7 +106,7 @@ comment: false
 ---
 
 ::: warning 暂停更新
-- `YOU MING 工作室` 的用户 `@柚明` 已暂停更新作品 `MC 鼠标指针`
+- <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 已暂停更新作品 `MC 鼠标指针`
 
 ::: right
 **2023.5**
@@ -114,7 +114,7 @@ comment: false
 
 ---
 
-### 1.0 - <Badge text="正式版" type="tip" vertical="middle" />
+### 1.0 <Badge text="正式版" type="tip" vertical="middle" />
 - 🚀优化提升
 
   - 优化了鼠标指针外观
@@ -125,7 +125,7 @@ comment: false
 
 ---
 
-### 0.5 - 公测版  <Badge text="公测版" type="info" vertical="middle" />
+### 0.5 <Badge text="公测版" type="info" vertical="middle" />
 - ✨更新
 
   - 将"忙"的鼠标指针画到64帧
@@ -163,7 +163,7 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 `YOU MING 工作室` 的用户 `@柚明` 想到灵感，而后开始创作
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2023.2**
@@ -175,3 +175,7 @@ comment: false
 ::: info 返回
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

@@ -50,7 +50,7 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -102,7 +102,7 @@ comment: false
 ---
 
 ::: tip 共同更新
-- 由 `YOU MING 工作室` 的用户 `@某团一笑` 共同更新作品 `Yormong OS`
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="某团一笑" type="tip" vertical="middle" /> 共同更新作品 `Yormong OS`
 
 ::: right
 **2024.7.7**
@@ -155,7 +155,7 @@ comment: false
 ### 1.0.1 <Badge text="公测版" type="info" vertical="middle" />
 - 🔥重磅更新
 
-  - 系统全面应用`深色模式``(半成品)`
+  - 系统全面应用`深色模式`(半成品)`
 
 - 🪐优化提升
 
@@ -442,7 +442,7 @@ comment: false
 ---
 
 ::: tip 继续更新
-- 由 `YOU MING 工作室` 的用户 `@柚明` 继续更新作品 `Yormong OS`
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `Yormong OS`
 
 ::: right
 **2024.2.19**
@@ -540,7 +540,7 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 `YOU MING 工作室` 的用户 `@柚明` 想到灵感，而后开始创作
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2024.1.24**
@@ -552,3 +552,7 @@ comment: false
 ::: info 返回
 [返回主文档](/作品文档/Yormong%20OS.html)
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

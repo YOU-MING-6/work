@@ -46,6 +46,7 @@ copyright:
 - [Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html)
 - [YM 虚拟机](/作品文档/YM%20虚拟机.html)
 - [YM 安全中心](/作品文档/YM%20安全中心.html)
+- [Floating OS](/作品文档/Floating%20OS.html)
 
 ### 维护&更新 我们的网站
 

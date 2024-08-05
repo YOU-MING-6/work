@@ -16,7 +16,7 @@ category:
   - YM 作品项目
 # 标签
 tag:
-  - 正在更新
+  - 正在构建
   - YM 作品项目
 # 此页面会在文章列表置顶
 sticky: false
@@ -42,7 +42,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**xxx** 是一个由 `YOU MING 工作室` 的用户 `Shadow` 于 `2024` 开始制作的一个基于 Windows11 的 `系统`。
+**Floating OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始基于 Windows11 制作的一个 的 `系统`。
 
 - 这是一个真实的系统，不是 PPT
 - 更多内容，等待填写...
@@ -51,13 +51,13 @@ copyright:
 
 
 ::: tip 版本
-当前最新版本：`v0.0.构建版` `(v0.0.Build 2024080501)`
+当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024080501)`
 :::
 
 ---
 
 ::: info 创作人员
-参与创作的人员：`@Shadow` `@某团一笑`
+参与创作的人员：<Badge text="某团一笑" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />
 
 <VPCard
   title="某团一笑"
@@ -82,27 +82,9 @@ copyright:
 :::
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
-::: tabs#yl
 
-@tab <HopeIcon icon="film" /> 视频预览#sp
-## <HopeIcon icon="film" /> 视频预览
-<ArtPlayer
-  src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"
-  poster=""
-/>
-
-@tab <HopeIcon icon="film" /> 宣传片#xcp
-## <HopeIcon icon="film" /> 宣传片
-<BiliBili bvid="BV1Dq421c7EC" />
-
-@tab <HopeIcon icon="image" /> 图片预览#tp
-## <HopeIcon icon="image" /> 图片预览
-![](https://www.freeimg.cn/i/2024/02/16/65cf55b488198.png =100x100)
-
-@tab <HopeIcon icon="images" /> GIF预览#gif
-## <HopeIcon icon="images" /> GIF预览
-![](https://www.freeimg.cn/i/2024/02/16/65cf55b488198.png =100x100)
-
+::: caution 无法预览
+这是一个内测版作品，你不能进行预览，也不支持进行编辑和发布。
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
@@ -110,26 +92,11 @@ copyright:
 [查看更新历史](/作品更新历史/Floating%20OS.html)
 
 ## <HopeIcon icon="download" /> 下载链接
-::: tabs#xz
 
-@tab <HopeIcon icon="cloud-arrow-down" /> 蓝奏云#lanzou
-## <HopeIcon icon="cloud-arrow-down" /> 蓝奏云
-- 下载链接：等待上传
-- 提取码：`1234`
-
-@tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
-## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
-- 下载链接：等待上传
-- 提取码：`1234`
-
-@tab <HopeIcon icon="cloud-arrow-down" /> 夸克网盘#kuake
-## <HopeIcon icon="cloud-arrow-down" /> 夸克网盘
-- 下载链接：等待上传
-- 提取码：`1234`
-
-@tab <HopeIcon icon="cloud-arrow-down" /> 百度网盘#baidu
-## <HopeIcon icon="cloud-arrow-down" /> 百度网盘
-- 下载链接：等待上传
-- 提取码：`1234`
-
+::: caution 无法下载
+这是一个内测版作品，你不能进行下载，也不支持进行编辑和发布。
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />

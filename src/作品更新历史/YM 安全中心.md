@@ -50,7 +50,7 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -87,7 +87,7 @@ comment: false
 ---
 
 ::: tip 继续更新
-- 由 `YOU MING 工作室` 的用户 `@柚明` 继续更新作品 `YM 安全中心`
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `YM 安全中心`
 
 ::: right
 **2024.6.23**
@@ -96,7 +96,7 @@ comment: false
 ---
 
 ::: warning 暂停更新
-- 由 `YOU MING 工作室` 的用户 `@柚明` 提出暂停更新作品 `YM 安全中心`
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 提出暂停更新作品 `YM 安全中心`
 
 ::: right
 **2023**
@@ -125,7 +125,7 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 `YOU MING 工作室` 的用户 `@柚明` 想到灵感，而后开始创作
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2023.5.2**
@@ -138,3 +138,7 @@ comment: false
 这是作品文档的更新历史文档
 [返回主文档](/作品文档/YM%20安全中心.html)
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

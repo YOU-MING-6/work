@@ -52,7 +52,7 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -75,7 +75,7 @@ comment: false
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
 
 ::: caution 停止支持
-- 由 `YOU MING 工作室` 的用户 `@柚明` 停止支持作品 `Mindows11`
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 停止支持作品 `Mindows11`
 
 ::: right
 **2024.1.23**
@@ -217,7 +217,7 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 `YOU MING 工作室` 的用户 `@柚明` 想到灵感，而后开始创作
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2023.4.14**
@@ -229,3 +229,8 @@ comment: false
 ::: info 返回
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
+> <Badge text="Shadow" type="tip" vertical="middle" />

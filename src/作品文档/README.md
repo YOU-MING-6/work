@@ -40,7 +40,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="arrow-pointer" /> MC 鼠标指针
-- [MC 鼠标指针](/作品文档/MC%20鼠标指针.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.2** 想到灵感并由其用户 **@柚明** 开始制作的一个 **鼠标指针**；
+**MC 鼠标指针** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 - 使用的是「新版 MC 材质」制作，而不是网上的 老版材质。
 
   - 这是一个 `YM 作品项目`
@@ -49,7 +49,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="display" /> Mindows11
-- [Mindows11](/作品文档/Mindows11.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.4.14** 想到灵感并由其用户 **@柚明** 开始制作的 PPT 系统；
+**Mindows11** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的  `PPT 系统`；
 
   - 这是一个 `YM PPT项目`
   - 点击 [查看详情](/作品文档/Mindows11.html)
@@ -57,7 +57,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="display" /> Yormong OS
-- [Yormong OS](/作品文档/Yormong%20OS.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.1.24** 想到灵感并由其用户 **@柚明** 开始制作的一个 **PPT 系统**；
+**Yormong OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
   - 这是一个 `YM PPT项目`
   - 点击 [查看详情](/作品文档/Yormong%20OS.html)
@@ -65,7 +65,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="display" /> Yormong OS NEXT
-- [Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.7.16** 想到灵感并由其用户 **@柚明** 开始制作的一个 **PPT 系统**；
+**Yormong OS NEXT** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
   - 这是一个 `YM PPT项目`
   - 点击 [查看详情](/作品文档/Yormong%20OS%20NEXT.html)
@@ -73,7 +73,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="hard-drive" /> YM 虚拟机
-- [YM 虚拟机](/作品文档/YM%20虚拟机.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.5.2** 想到灵感并由其用户 **@柚明** 开始制作的一个 **PPT 系统**；
+**YM 虚拟机** 是由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的一个 `PPT 软件`；
 
   - 这是一个 `YM PPT项目`
   - 点击 [查看详情](/作品文档/YM%20虚拟机.html)
@@ -81,7 +81,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="shield" /> YM 安全中心
-- [YM 安全中心](/作品文档/YM%20安全中心.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2023.5.2** 想到灵感并由其用户 **@柚明** 开始制作的一个 **PPT 系统**；
+**YM 安全中心** 是由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的一个 `PPT 软件`；
 
   - 这是一个 `YM PPT项目`
   - 点击 [查看详情](/作品文档/YM%20安全中心.html)
@@ -89,7 +89,7 @@ comment: false
 ---
 
 ## <HopeIcon icon="home" /> 柚明主页
-- [柚明主页](/作品文档/柚明主页.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2024.7.10** 想到灵感并由其用户 **@柚明** 开始制作的一个 **网页**；
+**柚明主页** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.7.10` 开始制作的一个 `网页`。
 
   - 这是一个 `YM 网站项目`
   - 点击 [查看详情](/作品文档/柚明主页.html)
@@ -97,7 +97,15 @@ comment: false
 ---
 
 ## <HopeIcon icon="book" /> 作品文档
-- [作品文档](/作品文档/作品文档.html) 是一个由 **YOU MING 工作室** 的用户 [@柚明](/intro.html) 于 **2024.7.19** 想到灵感并由其用户 **@柚明** 开始制作的一个 **网页**；
+**作品文档** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.7.19` 开始制作的一个 `网页`。
 
   - 这是一个 `YM 网站项目`
   - 点击 [查看详情](/作品文档/作品文档.html)
+
+---
+
+## <HopeIcon icon="computer" /> Floating OS
+**Floating OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始基于 Windows11 制作的一个 的 `系统`。
+
+  - 这是一个 `YM 作品项目`
+  - 查看 [查看详情](/作品文档/Floating%20OS.html)

@@ -50,7 +50,7 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -114,17 +114,17 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 `YOU MING 工作室` 的用户 `@柚明` 想到灵感，而后开始创作
+- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2024.7.16**
 :::
 
-## <HopeIcon icon="download" /> 下载链接
-
----
-
 ## <HopeIcon icon="rotate-left" /> 返回
 ::: info 返回
 [返回主文档](/作品文档/Yormong%20OS%20NEXT.html)
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

@@ -48,7 +48,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Mindows11** 是一个由 `YOU MING 工作室` 的用户 `@柚明` 于 `2023.4.14` 想到灵感并由其用户 `@柚明` 开始制作的  `PPT 系统`；
+**Mindows11** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的  `PPT 系统`；
 
 - 名称及系统界面均参考 `Windows 系统及网络`
 
@@ -59,7 +59,7 @@ copyright:
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -126,3 +126,7 @@ copyright:
 - 提取码：`9ba8`
 
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

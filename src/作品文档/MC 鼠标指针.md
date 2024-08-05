@@ -47,7 +47,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**MC 鼠标指针** 是一个由 `YOU MING 工作室` 的用户 `@柚明` 于 `2023.2` 开始制作的一个 `鼠标指针`。
+**MC 鼠标指针** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 
 - 使用了`「新版 MC 材质」`制作，**~~而不是网上的 老版材质~~**。
 - 在 `2.0` 版本中，支持了右键自动安装（.inf）
@@ -62,7 +62,7 @@ copyright:
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -138,3 +138,7 @@ copyright:
 - 提取码：`i7o8`
 
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />

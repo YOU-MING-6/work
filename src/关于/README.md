@@ -25,8 +25,6 @@ star: false
 footer:
 # 自定义版权信息
 copyright:
-# 禁用侧边栏
-sidebar: false
 # 在此页面禁用评论
 comment: false
 ---
@@ -43,9 +41,9 @@ comment: false
 ## <HopeIcon icon="circle-question" /> 这是什么网站？
 
 - 这是一个基于 VuePress Theme Hope 的网站
-- 这是 `@柚明` 的官方作品文档
+- 这是 <Badge text="柚明" type="tip" vertical="middle" /> 的官方作品文档
 - 用于显示作品信息、更新历史、下载链接 及其他功能
-- 由 `@柚明` 维护
+- 由 <Badge text="柚明" type="tip" vertical="middle" /> 维护
 
 ## <HopeIcon icon="circle-info" /> 关于此网站
 

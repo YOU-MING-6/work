@@ -46,7 +46,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Yormong OS NEXT** 是一个由 `YOU MING 工作室` 的用户 `@柚明` 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
+**Yormong OS NEXT** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
 - `Yormong OS NEXT` 是一个基于 `Yormong OS` 制作的 `PPT 系统`
 
@@ -57,7 +57,7 @@ copyright:
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明` `@某团一笑`
+参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
 
 <VPCard
   title="YOU MING 柚明"
@@ -96,3 +96,7 @@ copyright:
 ::: caution 无法下载
 这是一个概念作品，你不能进行下载，也不支持进行编辑和发布。
 :::
+
+---
+
+> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />
