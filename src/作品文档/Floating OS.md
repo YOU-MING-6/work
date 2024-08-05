@@ -8,7 +8,7 @@ icon: computer
 # 侧边栏顺序
 order: 9
 # 设置作者
-author: YOU MING 柚明︱某团一笑︱Shadow
+author: 某团一笑︱Shadow
 # 设置写作时间
 date: 2024-08-05
 # 分类
@@ -29,8 +29,8 @@ copyright:
 ---
 
 ::: tip 更新状态
-此作品目前 `正在更新`\
-当前为 `正式版`
+此作品目前 `正在构建`\
+当前为 `构建版`
 :::
 
 ::: info 项目
@@ -42,7 +42,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**xxx** 是一个由 `YOU MING 工作室` 的用户 `@柚明` 于 `2024` 开始制作的一个基于 Windows11 的 `系统`。
+**xxx** 是一个由 `YOU MING 工作室` 的用户 `Shadow` 于 `2024` 开始制作的一个基于 Windows11 的 `系统`。
 
 - 这是一个真实的系统，不是 PPT
 - 更多内容，等待填写...
@@ -51,7 +51,7 @@ copyright:
 
 
 ::: tip 版本
-当前最新版本：`v1.0.0 正式版` `(v1.0.0)`
+当前最新版本：`v0.0.构建版` `(v0.0.Build 2024080501)`
 :::
 
 ---
