@@ -82,9 +82,27 @@ copyright:
 :::
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
+::: tabs#yl
 
-::: caution 无法预览
-我们暂时没有提供任何预览
+@tab <HopeIcon icon="film" /> 视频预览#sp
+## <HopeIcon icon="film" /> 视频预览
+<ArtPlayer
+  src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"
+  poster=""
+/>
+
+@tab <HopeIcon icon="film" /> 宣传片#xcp
+## <HopeIcon icon="film" /> 宣传片
+<BiliBili bvid="BV1Dq421c7EC" />
+
+@tab <HopeIcon icon="image" /> 图片预览#tp
+## <HopeIcon icon="image" /> 图片预览
+![](https://www.freeimg.cn/i/2024/02/16/65cf55b488198.png =100x100)
+
+@tab <HopeIcon icon="images" /> GIF预览#gif
+## <HopeIcon icon="images" /> GIF预览
+![](https://www.freeimg.cn/i/2024/02/16/65cf55b488198.png =100x100)
+
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
@@ -95,22 +113,22 @@ copyright:
 ::: tabs#xz
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 蓝奏云#lanzou
-## <HopeIcon icon="cloud-arrow-down" /> 
+## <HopeIcon icon="cloud-arrow-down" /> 蓝奏云
 - 下载链接：等待上传
 - 提取码：`1234`
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
-## <HopeIcon icon="cloud-arrow-down" /> 
+## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
 - 下载链接：等待上传
 - 提取码：`1234`
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 夸克网盘#kuake
-## <HopeIcon icon="cloud-arrow-down" /> 
+## <HopeIcon icon="cloud-arrow-down" /> 夸克网盘
 - 下载链接：等待上传
 - 提取码：`1234`
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 百度网盘#baidu
-## <HopeIcon icon="cloud-arrow-down" /> 
+## <HopeIcon icon="cloud-arrow-down" /> 百度网盘
 - 下载链接：等待上传
 - 提取码：`1234`
 
