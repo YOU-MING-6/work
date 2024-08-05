@@ -52,13 +52,21 @@ comment: false
 ---
 
 ::: info 创作人员
-参与创作的人员：`@柚明`
+参与创作的人员：`@柚明` `@某团一笑`
 
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
   logo="https://image.youming.dns.army/ym.png"
   link="/关于/工作室.html#you-ming-柚明"
+  background="rgba(255, 255, 255, 0.05)"
+/>
+
+<VPCard
+  title="某团一笑"
+  desc="现在，让我们来看看答案。"
+  logo="https://image.youming.dns.army/tx-2.png"
+  link="/关于/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />
 

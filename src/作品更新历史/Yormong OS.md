@@ -63,7 +63,7 @@ comment: false
 <VPCard
   title="某团一笑"
   desc="现在，让我们来看看答案。"
-  logo="https://image.youming.dns.army/tx-2.jpg"
+  logo="https://image.youming.dns.army/tx-2.png"
   link="/关于/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />
@@ -71,7 +71,7 @@ comment: false
 <VPCard
   title="Shadow"
   desc="有梦想，才能有希望。"
-  logo="https://image.youming.dns.army/tx-3.jpg"
+  logo="https://image.youming.dns.army/tx-3.png"
   link="/关于/工作室.html#shadow"
   background="rgba(255, 255, 255, 0.05)"
 />
