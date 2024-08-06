@@ -44,7 +44,7 @@ copyright:
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**YM 虚拟机** 是由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的一个 `PPT 软件`；
+**YM 虚拟机** 是由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 软件`；
 
 - `YM 虚拟机`是一个`YM 软件项目`旗下项目。
 
@@ -61,7 +61,7 @@ copyright:
   title="YOU MING 柚明"
   desc="一个不知名创作者"
   logo="https://image.youming.dns.army/ym.png"
-  link="/关于/工作室.html#you-ming-柚明"
+  link="/更多/工作室.html#you-ming-柚明"
   background="rgba(255, 255, 255, 0.05)"
 />
 
@@ -69,7 +69,7 @@ copyright:
   title="某团一笑"
   desc="现在，让我们来看看答案。"
   logo="https://image.youming.dns.army/tx-2.png"
-  link="/关于/工作室.html#某团一笑"
+  link="/更多/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />
 
@@ -92,9 +92,10 @@ copyright:
 ## <HopeIcon icon="download" /> 下载链接
 
 ::: caution 无法下载
-这是一个内测版作品，你不能进行下载，也不支持进行编辑和发布。
+这是一个xx作品，目前不能进行下载。
 :::
 
 ---
 
-> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />
+::: center
+<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" />

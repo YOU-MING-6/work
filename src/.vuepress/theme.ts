@@ -7,9 +7,12 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   // “编辑此页” 配置
+  editLink: true,  // 是否展示编辑此页链接
   docsRepo: "https://github.com/YOU-MING-6/work",
   docsDir: "src",
   docsBranch: "main",
+  lastUpdated: true,  // 是否显示页面最后更新时间
+  contributors: false,  // 是否显示页面贡献者
 
   author: {
     name: "YOU MING 柚明",
@@ -86,10 +89,6 @@ export default hopeTheme({
       requiredMeta: ['nick'],
       wordLimit: 2000,
       pageSize: 20,
-      reaction: [
-        "https://image.youming.dns.army/yes.png",
-        "https://image.youming.dns.army/no.png",
-      ],
     },
 
     components: {
@@ -138,7 +137,6 @@ export default hopeTheme({
       tabs: true,
       tasklist: true,
       vPre: true,
-
       // 在启用之前安装 chart.js
       // chart: true,
 

@@ -25,9 +25,9 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "关于",
-      icon: "signs-post",
-      prefix: "/关于/",
+      text: "更多",
+      icon: "bars",
+      prefix: "/更多/",
       collapsible: true,  // 可折叠
       children: "structure",
     },

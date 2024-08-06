@@ -63,7 +63,7 @@ copyright:
   title="某团一笑"
   desc="现在，让我们来看看答案。"
   logo="https://image.youming.dns.army/tx-2.png"
-  link="/关于/工作室.html#某团一笑"
+  link="/更多/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />
 
@@ -71,20 +71,20 @@ copyright:
   title="Shadow"
   desc="有梦想，才能有希望。"
   logo="https://image.youming.dns.army/tx-3.png"
-  link="/关于/工作室.html#shadow"
+  link="/更多/工作室.html#shadow"
   background="rgba(255, 255, 255, 0.05)"
 />
 
 ::: 
 
 ::: important 编辑与发布
-目前暂时不支持编辑和发布。
+目前为构建版，暂不支持申请编辑发布权。
 :::
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
 
 ::: caution 无法预览
-这是一个内测版作品，你不能进行预览，也不支持进行编辑和发布。
+这个作品正在构建，你不能进行预览，也不支持进行编辑和发布。
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
@@ -94,9 +94,10 @@ copyright:
 ## <HopeIcon icon="download" /> 下载链接
 
 ::: caution 无法下载
-这是一个内测版作品，你不能进行下载，也不支持进行编辑和发布。
+这是一个构建中的作品，目前不能进行下载。
 :::
 
 ---
 
-> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />
+::: center
+<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />

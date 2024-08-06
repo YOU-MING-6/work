@@ -12,7 +12,7 @@ actions:
     type: primary
 
   - text: 指南
-    link: /关于/指南
+    link: /更多/指南
     icon: compass
 
   - text: 柚明主页
@@ -23,12 +23,12 @@ features:
   - title: 这是什么网站？
     icon: circle-question
     details: 这是一个用于 显示作品信息 的介绍文档；由我们之前的「飞书作品文档」迁移至此。
-    link: /关于/
+    link: /更多/
 
   - title: 作者
     icon: user-pen
     details: 此文档由 @柚明 维护；YOU-MING-工作室 所有。
-    link: /关于/工作室.html#you-ming-柚明
+    link: /更多/工作室.html#you-ming-柚明
 
   - title: 有什么问题吗？
     icon: circle-question

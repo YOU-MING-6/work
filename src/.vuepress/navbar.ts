@@ -11,7 +11,7 @@ export default navbar([
         text: "导航",
         prefix: "作品文档/",
         children: [
-          { text: "作品文档 - 导航", icon: "signs-post", link: "" },
+          { text: "作品文档 - 导航", icon: "bars", link: "" },
         ],
       },
       {
@@ -19,6 +19,7 @@ export default navbar([
         prefix: "作品文档/",
         children: [
           { text: "MC 鼠标指针", icon: "arrow-pointer", link: "MC 鼠标指针" },
+          { text: "Floating OS", icon: "computer", link: "Floating OS" },
         ],
       },
       {
@@ -60,7 +61,7 @@ export default navbar([
         prefix: "反馈中心/",
         children: [
           { text: "反馈中心 - 导航", icon: "signs-post", link: "" },
-          { text: "问题帮助文档", icon: "signs-post", link: "/关于/指南.html#问题" },
+          { text: "问题帮助文档", icon: "signs-post", link: "/更多/指南.html#问题" },
         ],
       },
       {
@@ -77,7 +78,7 @@ export default navbar([
   },
   {
     text: "更多",
-    icon: "signs-post",
+    icon: "bars",
     prefix: "/",
     children: [
       {
@@ -101,16 +102,16 @@ export default navbar([
         text: "关于",
         prefix: "",
         children: [
-          { text: "关于", link: "/关于/", icon: "circle-info" },
-          { text: "指南", link: "/关于/指南.html", icon: "compass" },
-          { text: "问题", link: "/关于/指南.html#问题", icon: "circle-question" },
+          { text: "关于", link: "/更多/", icon: "circle-info" },
+          { text: "指南", link: "/更多/指南.html", icon: "compass" },
+          { text: "问题", link: "/更多/指南.html#问题", icon: "circle-question" },
         ],
       },
       {
         text: "工作室",
         prefix: "",
         children: [
-          { text: "关于工作室", link: "/关于/工作室.html", icon: "circle-info" },
+          { text: "关于工作室", link: "/更多/工作室.html", icon: "https://image.youming.dns.army/ym-work-icon.svg" },
         ],
       },
     ],

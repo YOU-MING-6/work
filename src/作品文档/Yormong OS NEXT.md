@@ -63,7 +63,7 @@ copyright:
   title="YOU MING 柚明"
   desc="一个不知名创作者"
   logo="https://image.youming.dns.army/ym.png"
-  link="/关于/工作室.html#you-ming-柚明"
+  link="/更多/工作室.html#you-ming-柚明"
   background="rgba(255, 255, 255, 0.05)"
 />
 
@@ -71,14 +71,14 @@ copyright:
   title="某团一笑"
   desc="现在，让我们来看看答案。"
   logo="https://image.youming.dns.army/tx-2.png"
-  link="/关于/工作室.html#某团一笑"
+  link="/更多/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />
 
 ::: 
 
 ::: important 编辑与发布
-`这是一个概念作品，你不能进行编辑和发布。`
+目前为概念版，暂不支持申请编辑发布权。
 :::
 
 ## <HopeIcon icon="circle-play" /> 预览
@@ -99,4 +99,5 @@ copyright:
 
 ---
 
-> 本文档协作者: <Badge text="柚明" type="tip" vertical="middle" />
+::: center
+<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" />

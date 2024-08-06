@@ -1,12 +1,12 @@
 ---
 # 文章标题
-title: 作品更新历史
+title: 导航
 # 自定义封面图片
 cover:
 # 页面图标
-icon: clock-rotate-left
+icon: list-ul
 # 侧边栏顺序
-order: 100
+order: 0
 # 设置作者
 author:
 # 设置写作时间
