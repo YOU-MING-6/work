@@ -29,54 +29,12 @@ copyright: Copyright © 2024 YOU MING 工作室
 comment: false
 ---
 
-::: important这是哪？
+::: important 这是哪？
 这是作品文档的更新历史文档\
 [返回主文档](/作品文档/Yormong%20OS.html)
 :::
 
-## <HopeIcon icon="circle-info" /> 基本信息
-
-::: tip 更新状态
-此作品目前 `正在更新`
-当前为 `公测版`
-:::
-
-::: info 项目
-这是一个 `YM PPT项目`
-:::
-
----
-
-::: info 创作人员
-参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="某团一笑" type="tip" vertical="middle" />
-
-<VPCard
-  title="YOU MING 柚明"
-  desc="一个不知名创作者"
-  logo="https://image.youming.dns.army/ym.png"
-  link="/更多/工作室.html#you-ming-柚明"
-  background="rgba(255, 255, 255, 0.05)"
-/>
-
-<VPCard
-  title="某团一笑"
-  desc="现在，让我们来看看答案。"
-  logo="https://image.youming.dns.army/tx-2.png"
-  link="/更多/工作室.html#某团一笑"
-  background="rgba(255, 255, 255, 0.05)"
-/>
-
-<VPCard
-  title="Shadow"
-  desc="有梦想，才能有希望。"
-  logo="https://image.youming.dns.army/tx-3.png"
-  link="/更多/工作室.html#shadow"
-  background="rgba(255, 255, 255, 0.05)"
-/>
-
-::: 
-
-## <HopeIcon icon="clock-rotate-left" /> 历史记录
+## <HopeIcon icon="clock" /> 历史记录
 
 ### 1.0.4 <Badge text="公测版" type="info" vertical="middle" />
 - 🔥重磅更新
@@ -528,7 +486,7 @@ comment: false
 ### 0.0.1 <Badge text="内测版" type="note" vertical="middle" />
 - ⭐更新
 
-  - 基于 `Mindows11` 进行开发
+  - 基于 `Mindows** 进行开发
   - 制作基本内容
 
 ::: right

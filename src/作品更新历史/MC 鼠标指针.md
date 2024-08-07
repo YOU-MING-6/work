@@ -29,39 +29,12 @@ copyright: Copyright © 2024 YOU MING 工作室
 comment: false
 ---
 
-::: important这是哪？
+::: important 这是哪？
 这是作品文档的`更新历史`文档\
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::
 
-## <HopeIcon icon="circle-info" /> 基本信息
-
-::: warning 更新状态
-此作品目前已 `暂停更新`\
-当前状态为 `正式版`
-:::
-
-::: info 项目
-这是一个 `YM 作品项目`\
-这是一个开源项目。
-:::
-
----
-
-::: info 创作人员
-参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" />
-
-<VPCard
-  title="YOU MING 柚明"
-  desc="一个不知名创作者"
-  logo="https://image.youming.dns.army/ym.png"
-  link="/更多/工作室.html#you-ming-柚明"
-  background="rgba(255, 255, 255, 0.05)"
-/>
-
-::: 
-
-## <HopeIcon icon="clock-rotate-left" /> 历史记录
+## <HopeIcon icon="clock" /> 历史记录
 
 ::: warning 暂停更新
 - <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 已暂停更新作品 `MC 鼠标指针`

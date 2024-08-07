@@ -50,7 +50,7 @@ export default navbar([
       },
     ],
   },
-  { text: "更新历史", link: "/作品更新历史/", icon: "clock-rotate-left" },
+  { text: "更新历史", link: "/作品更新历史/", icon: "clock" },
   {
     text: "反馈中心",
     icon: "envelopes-bulk",

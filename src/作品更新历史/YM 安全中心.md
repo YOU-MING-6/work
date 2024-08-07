@@ -29,38 +29,12 @@ copyright: Copyright © 2024 YOU MING 工作室
 comment: false
 ---
 
-::: important这是哪？
+::: important 这是哪？
 这是作品文档的更新历史文档\
 [返回主文档](/作品更新历史/YM%安全中心.html)
 :::
 
-## <HopeIcon icon="circle-info" /> 基本信息
-
-::: tip 更新状态
-此作品目前 `正在托更`\
-当前为 `内测版`
-:::
-
-::: info 项目
-这是一个 `YM PPT项目`
-:::
-
----
-
-::: info 创作人员
-参与创作的人员：<Badge text="柚明" type="tip" vertical="middle" />
-
-<VPCard
-  title="YOU MING 柚明"
-  desc="一个不知名创作者"
-  logo="https://image.youming.dns.army/ym.png"
-  link="/更多/工作室.html#you-ming-柚明"
-  background="rgba(255, 255, 255, 0.05)"
-/>
-
-::: 
-
-## <HopeIcon icon="clock-rotate-left" /> 更新历史
+## <HopeIcon icon="clock" /> 更新历史
 
 ### 0.0.3 <Badge text="内测版" type="note" vertical="middle" />
 - 🔥重磅更新

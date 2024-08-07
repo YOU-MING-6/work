@@ -42,16 +42,16 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 |作品名称                                     |更新状态|
 |:-                                          |:-:    |
-|**==YM 作品项目==**                          ||
+|**YM 作品项目**                          ||
 |[MC 鼠标指针](/作品文档/MC%20鼠标指针.html)   | <Badge text="更新中" type="tip" vertical="middle" /> |
 |[Floating OS](/作品文档/Floating%20OS.html)   | <Badge text="更新中" type="tip" vertical="middle" /> |
-|**==YM PPT项目==**                           ||
+|**YM PPT项目**                           ||
 |[Mindows11](/作品文档/Mindows11.html)        | <Badge text="停止支持" type="danger" vertical="middle" /> |
 |[Yormong OS](/作品文档/Yormong%20OS.html)    | <Badge text="更新中" type="tip" vertical="middle" />|
 |[Yormong OS NEXT](/作品文档/Yormong%20OS%20NEXT.html)| <Badge text="更新中" type="tip" vertical="middle" /> |
 |[YM 虚拟机](/作品文档/YM%20虚拟机.html)       | <Badge text="更新中" type="tip" vertical="middle" /> |
 |[YM 安全中心](/作品文档/YM%20安全中心.html)   | <Badge text="托更中" type="warning" vertical="middle" /> |
-|**==YM 网站项目==**                          ||
+|**YM 网站项目**                          ||
 |[柚明主页](/作品文档/柚明主页.html)           | <Badge text="维护更新中" type="info" vertical="middle" /> |
 |[作品文档](/作品文档/作品文档.html)           | <Badge text="维护更新中" type="info" vertical="middle" /> |
 

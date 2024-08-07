@@ -85,7 +85,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 这是一个内测版作品，你不能进行预览，也不支持进行编辑和发布。
 :::
 
-## <HopeIcon icon="clock-rotate-left" /> 更新历史
+## <HopeIcon icon="clock" /> 更新历史
 
 [查看更新历史](/作品更新历史/YM%20虚拟机.html)
 

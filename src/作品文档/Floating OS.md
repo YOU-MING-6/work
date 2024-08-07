@@ -94,7 +94,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 :::
 
-## <HopeIcon icon="clock-rotate-left" /> 更新历史
+## <HopeIcon icon="clock" /> 更新历史
 
 [查看更新历史](/作品更新历史/Floating%20OS.html)
 
