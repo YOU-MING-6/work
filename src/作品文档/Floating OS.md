@@ -25,7 +25,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
+copyright: Copyright © 2024 YOU MING 工作室
 ---
 
 ::: tip 更新状态
@@ -39,6 +39,8 @@ copyright:
 :::
 
 ---
+
+![](https://image.youming.dns.army/ft.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -83,8 +85,13 @@ copyright:
 
 ## <HopeIcon icon="magnifying-glass" /> 预览
 
-::: caution 无法预览
-这个作品正在构建，你不能进行预览，也不支持进行编辑和发布。
+::: tabs#yl
+
+@tab <HopeIcon icon="image" /> 图片预览#tp
+## <HopeIcon icon="image" /> 图片预览
+![](https://image.youming.dns.army/ym-hei.png)
+
+
 :::
 
 ## <HopeIcon icon="clock-rotate-left" /> 更新历史
@@ -96,8 +103,3 @@ copyright:
 ::: caution 无法下载
 这是一个构建中的作品，目前不能进行下载。
 :::
-
----
-
-::: center
-<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />

@@ -24,15 +24,13 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
+copyright: Copyright © 2024 YOU MING 工作室
 ---
 
-::: info 这是哪？
+::: important这是哪？
 这是作品文档的更新历史文档\
 [返回主文档](/作品文档/Floating%20OS.html)
 :::
-
----
 
 ## <HopeIcon icon="circle-info" /> 基本信息
 
@@ -98,8 +96,3 @@ copyright:
 ::: info 返回
 [返回主文档](/作品文档/Floating%20OS.html)
 :::
-
----
-
-::: center
-<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />

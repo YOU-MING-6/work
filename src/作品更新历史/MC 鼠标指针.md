@@ -8,7 +8,7 @@ icon: arrow-pointer
 # 侧边栏顺序
 order: 1
 # 设置作者
-author:
+author: YOU MING 柚明
 # 设置写作时间
 date: 2024-07-27
 # 分类
@@ -24,17 +24,15 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
-# 在此页面禁用评论
+copyright: Copyright © 2024 YOU MING 工作室
+# 是否在此页面启用评论
 comment: false
 ---
 
-::: info 这是哪？
+::: important这是哪？
 这是作品文档的`更新历史`文档\
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::
-
----
 
 ## <HopeIcon icon="circle-info" /> 基本信息
 
@@ -175,8 +173,3 @@ comment: false
 ::: info 返回
 [返回主文档](/作品文档/MC%20鼠标指针.html)
 :::
-
----
-
-::: center
-<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" />

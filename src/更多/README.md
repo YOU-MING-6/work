@@ -24,41 +24,41 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
-# 在此页面禁用评论
+copyright: Copyright © 2024 YOU MING 工作室
+# 是否在此页面启用评论
 comment: false
 ---
 
 ::: important 这是哪？
 这是一个`关于`页面
 :::
-::: info 第一次来？
-查看适用于小白的 [指南](/更多/指南.html)
-:::
 
 ---
 
 ## <HopeIcon icon="circle-question" /> 这是什么网站？
 
-- 这是一个基于 VuePress Theme Hope 的网站
-- 这是 <Badge text="柚明" type="tip" vertical="middle" /> 的官方作品文档
+- 这是一个基于 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 的网站
+- 这是 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的官方作品文档
 - 用于显示作品信息、更新历史、下载链接 及其他功能
-- 由 <Badge text="柚明" type="tip" vertical="middle" /> 维护
+- 此网站于 `飞书文档` 搬迁而来
+- 因为觉得飞书太好用了`（不是）`
 
 ## <HopeIcon icon="circle-info" /> 关于此网站
 
-- 此网站于 `飞书文档` 搬迁而来
-- 因为觉得飞书太好用了`（不是）` - [查看源文档](https://you-ming.feishu.cn/wiki/E99IwzV0HiGlxNkGhxLc2COxnDe?from=from_copylink)
 - 建立时间：`2024年7月19日`
-- 这是一个 YM 网站项目 旗下项目
+- 这是一个 `YM 网站项目` 旗下项目
 - 最新版本：`2.0.0`  `（已固定版本号）`
-- 作者：YOU MING 柚明
-- 工作室：YOU MING 工作室
+- 作者：<Badge text="柚明" type="tip" vertical="middle" /> 
+- 参与编辑的人员：<Badge text="Shadow" type="tip" vertical="middle" /> 
+- 工作室：<Badge text="YOU MING 工作室" type="info" vertical="middle" /> 
 
 ---
 
 ::: info 作品文档
 前往 [作品文档](/作品文档/)
+:::
+::: tip 留言版
+欢迎给我们 [留言](/反馈中心/留言板.html)
 :::
 ::: tip 反馈
 - 有什么要向我们 [反馈](/反馈中心/反馈.html) 的吗？

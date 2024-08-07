@@ -27,11 +27,16 @@ features:
 
   - title: 作者
     icon: user-pen
-    details: 此文档由 @柚明 维护；YOU-MING-工作室 所有。
+    details: 此文档由 @柚明 维护︱YOU MING 工作室 所有。
     link: /更多/工作室.html#you-ming-柚明
 
+  - title: 留言板
+    icon: message
+    details: 欢迎给来「留言板」我们留言或者讨论话题！
+    link: /反馈中心/
+
   - title: 有什么问题吗？
-    icon: circle-question
+    icon: envelopes-bulk
     details: 欢迎给我们发送反馈。
     link: /反馈中心/
 

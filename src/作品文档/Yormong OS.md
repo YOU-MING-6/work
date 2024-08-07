@@ -8,7 +8,7 @@ icon: display
 # 侧边栏顺序
 order: 3
 # 设置作者
-author:
+author: YOU MING 柚明︱某团一笑︱Shadow
 # 设置写作时间
 date: 2024-07-27
 # 分类
@@ -27,7 +27,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
+copyright: Copyright © 2024 YOU MING 工作室
 ---
 
 ::: tip 更新状态
@@ -123,8 +123,3 @@ copyright:
   - 当前文件为公测版，不代表最终产品。
 
 :::
-
----
-
-::: center
-<HopeIcon icon="user-pen" /> 此文档编辑人员：<Badge text="柚明" type="tip" vertical="middle" /> <Badge text="Shadow" type="tip" vertical="middle" />

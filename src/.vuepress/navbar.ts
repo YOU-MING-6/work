@@ -61,13 +61,13 @@ export default navbar([
         prefix: "反馈中心/",
         children: [
           { text: "反馈中心 - 导航", icon: "signs-post", link: "" },
-          { text: "问题帮助文档", icon: "signs-post", link: "/更多/指南.html#问题" },
         ],
       },
       {
         text: "反馈与举报",
         prefix: "反馈中心/",
         children: [
+          { text: "留言版", icon: "message", link: "留言版" },
           { text: "反馈", icon: "envelope", link: "反馈" },
           { text: "发送灵感", icon: "lightbulb", link: "发送灵感" },
           { text: "申请编辑发布权", icon: "key", link: "申请编辑发布权" },
@@ -76,6 +76,7 @@ export default navbar([
       }
     ],
   },
+  { text: "留言版", icon: "message", link: "/反馈中心/留言版.html" },
   {
     text: "更多",
     icon: "bars",
@@ -104,7 +105,7 @@ export default navbar([
         children: [
           { text: "关于", link: "/更多/", icon: "circle-info" },
           { text: "指南", link: "/更多/指南.html", icon: "compass" },
-          { text: "问题", link: "/更多/指南.html#问题", icon: "circle-question" },
+          { text: "问题排查", link: "/更多/问题排查.html", icon: "circle-question" },
         ],
       },
       {
@@ -115,5 +116,5 @@ export default navbar([
         ],
       },
     ],
-  },
+  }
 ]);

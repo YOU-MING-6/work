@@ -1,10 +1,10 @@
 ---
 # 文章标题
-title: 反馈中心
+title: 导航
 # 自定义封面图片
 cover:
 # 页面图标
-icon: envelopes-bulk
+icon: list-ul
 # 侧边栏顺序
 order: 100
 # 设置作者
@@ -25,8 +25,8 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
-# 在此页面禁用评论
+copyright: Copyright © 2024 YOU MING 工作室
+# 是否在此页面启用评论
 comment: false
 ---
 

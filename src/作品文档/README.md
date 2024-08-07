@@ -25,19 +25,21 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright:
-# 在此页面禁用评论
+copyright: Copyright © 2024 YOU MING 工作室
+# 是否在此页面启用评论
 comment: false
 ---
 
 ::: important 这是哪？
 **这是一个导航页**，你可以点击 `去看看` 进入对应的作品文档
 :::
+::: caution 关闭浏览器翻译
+我们非常建议你关闭 **浏览器翻译**，因为此文档已经是中文了，\
+再次翻译可能会出现一些奇怪的译文。
+:::
 ::: tip 第一次来？
 尝试去 [新手指南](/更多/指南.html)
 :::
-
----
 
 ## <HopeIcon icon="arrow-pointer" /> MC 鼠标指针
 **MC 鼠标指针** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
