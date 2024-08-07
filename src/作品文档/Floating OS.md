@@ -89,7 +89,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 @tab <HopeIcon icon="image" /> 图片预览#tp
 ## <HopeIcon icon="image" /> 图片预览
-![](https://image.youming.dns.army/ym-hei.png)
+![](https://image.youming.dns.army/ft-yl.png)
 
 
 :::
