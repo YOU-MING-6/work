@@ -11,7 +11,7 @@ export default navbar([
         text: "导航",
         prefix: "作品文档/",
         children: [
-          { text: "作品文档 - 导航", icon: "bars", link: "" },
+          { text: "作品文档 - 导航", icon: "list-ul", link: "" },
         ],
       },
       {
