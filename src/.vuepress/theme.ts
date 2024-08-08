@@ -83,7 +83,6 @@ export default hopeTheme({
       provider: "Waline",
       serverURL: "https://waline.youming.us.kg/", // your server url
       emoji: [
-        'https://emoji.youming.dns.army/',
         '//unpkg.com/@waline/emojis@1.1.0/weibo',
       ],
       requiredMeta: ['nick'],
