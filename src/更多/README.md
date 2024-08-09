@@ -33,8 +33,6 @@ comment: false
 这是一个`关于`页面
 :::
 
----
-
 ## <HopeIcon icon="circle-question" /> 这是什么网站？
 
 - 这是一个基于 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 的网站
@@ -57,7 +55,7 @@ comment: false
 ::: info 作品文档
 前往 [作品文档](/作品文档/)
 :::
-::: tip 留言版
+::: tip 留言板
 欢迎给我们 [留言](/反馈中心/留言板.html)
 :::
 ::: tip 反馈

@@ -4,7 +4,7 @@ title: Yormong OS
 # 自定义封面图片
 cover:
 # 页面图标
-icon: display
+icon: person-chalkboard
 # 侧边栏顺序
 order: 3
 # 设置作者
@@ -103,7 +103,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="clock" /> 更新历史
 
-[查看更新历史](/作品更新历史/Yormong%20OS.html)
+[查看更新历史](/更新历史/Yormong%20OS.html)
 
 ## <HopeIcon icon="download" /> 下载链接
 ::: tabs#xz

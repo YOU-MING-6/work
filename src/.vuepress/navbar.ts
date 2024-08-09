@@ -26,9 +26,9 @@ export default navbar([
         text: "YM PPT项目",
         prefix: "作品文档/",
         children: [
-          { text: "Mindows11", icon: "display", link: "Mindows11" },
-          { text: "Yormong OS", icon: "display", link: "Yormong OS" },
-          { text: "Yormong OS NEXT", icon: "display", link: "Yormong OS NEXT" },
+          { text: "Mindows11", icon: "person-chalkboard", link: "Mindows11" },
+          { text: "Yormong OS", icon: "person-chalkboard", link: "Yormong OS" },
+          { text: "Yormong OS NEXT", icon: "person-chalkboard", link: "Yormong OS NEXT" },
           { text: "YM 虚拟机", icon: "hard-drive", link: "YM 虚拟机" },
           { text: "YM 安全中心", icon: "shield", link: "YM 安全中心" },
         ],
@@ -50,7 +50,7 @@ export default navbar([
       },
     ],
   },
-  { text: "更新历史", link: "/作品更新历史/", icon: "clock" },
+  { text: "更新历史", link: "/更新历史/", icon: "clock" },
   {
     text: "反馈中心",
     icon: "envelopes-bulk",
@@ -67,7 +67,7 @@ export default navbar([
         text: "反馈与举报",
         prefix: "反馈中心/",
         children: [
-          { text: "留言版", icon: "message", link: "留言版" },
+          { text: "留言板", icon: "message", link: "留言板" },
           { text: "反馈", icon: "envelope", link: "反馈" },
           { text: "发送灵感", icon: "lightbulb", link: "发送灵感" },
           { text: "申请编辑发布权", icon: "key", link: "申请编辑发布权" },
@@ -76,7 +76,7 @@ export default navbar([
       }
     ],
   },
-  { text: "留言版", icon: "message", link: "/反馈中心/留言版.html" },
+  { text: "留言板", icon: "message", link: "/反馈中心/留言板.html" },
   {
     text: "更多",
     icon: "bars",

@@ -13,7 +13,7 @@ export default sidebar({
     {
       text: "更新历史",
       icon: "clock",
-      prefix: "/作品更新历史/",
+      prefix: "/更新历史/",
       collapsible: true,  // 可折叠
       children: "structure",
     },

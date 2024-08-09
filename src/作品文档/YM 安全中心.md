@@ -16,7 +16,7 @@ category:
   - YM PPT项目
 # 标签
 tag:
-  - 正在更新
+  - 正在托更
   - YM PPT项目
   - PPT
 # 此页面会在文章列表置顶
@@ -35,7 +35,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 :::
 
 ::: info 项目
-这是一个 `YM 产品项目`
+这是一个 `YM PPT项目`
 :::
 
 ---
@@ -79,7 +79,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="clock" /> 更新历史
 
-[查看更新历史](/作品更新历史/YM%20安全中心.html)
+[查看更新历史](/更新历史/YM%20安全中心.html)
 
 ## <HopeIcon icon="download" /> 下载链接
 

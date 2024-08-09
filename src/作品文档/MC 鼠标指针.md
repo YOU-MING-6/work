@@ -69,7 +69,7 @@ copyright: Copyright © 2024 YOU MING 工作室
   desc="一个不知名创作者"
   logo="https://image.youming.dns.army/ym.png"
   link="/更多/工作室.html#you-ming-柚明"
-  background="rgba(255, 255, 255, 0.05)"
+  background="rgba(255, 255, 255, 0.1)"
 />
 
 ::: 
@@ -112,7 +112,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="clock" /> 更新历史
 
-[查看更新历史](/作品更新历史/MC%20鼠标指针.html)
+[查看更新历史](/更新历史/MC%20鼠标指针.html)
 
 ## <HopeIcon icon="download" /> 下载链接
 ::: tabs#xz

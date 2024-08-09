@@ -47,7 +47,9 @@ comment: false
 - 遇到过长时间没有审核，可尝试重新发送反馈，并仔细检查邮箱是否可用。
 :::
 
----
+::: details 审核通知预览
+![](https://image.youming.dns.army/sh.png)
+:::
 
 ## <HopeIcon icon="message" /> 留言板
 ::: info 留言板
@@ -55,7 +57,7 @@ comment: false
 支持使用 `markdown`；\
 欢迎在评论区讨论或留言！\
 \
-[我要留言](/反馈中心/留言版.html)
+[我要留言](/反馈中心/留言板.html)
 :::
 
 ---

@@ -30,12 +30,12 @@ copyright: Copyright © 2024 YOU MING 工作室
 ---
 
 ::: tip 更新状态
-此作品目前 `正在托更`\
+此作品目前 `正在更新`\
 当前为 `内测版`
 :::
 
 ::: info 项目
-这是一个 `YM 产品项目`
+这是一个 `YM PPT项目`
 :::
 
 ---
@@ -87,7 +87,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="clock" /> 更新历史
 
-[查看更新历史](/作品更新历史/YM%20虚拟机.html)
+[查看更新历史](/更新历史/YM%20虚拟机.html)
 
 ## <HopeIcon icon="download" /> 下载链接
 

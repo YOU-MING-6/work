@@ -50,7 +50,7 @@ comment: false
 
 ---
 
-## <HopeIcon icon="display" /> Mindows11
+## <HopeIcon icon="person-chalkboard" /> Mindows11
 **Mindows11** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的  `PPT 系统`；
 
   - 这是一个 `YM PPT项目`
@@ -58,7 +58,7 @@ comment: false
 
 ---
 
-## <HopeIcon icon="display" /> Yormong OS
+## <HopeIcon icon="person-chalkboard" /> Yormong OS
 **Yormong OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
   - 这是一个 `YM PPT项目`
@@ -66,7 +66,7 @@ comment: false
 
 ---
 
-## <HopeIcon icon="display" /> Yormong OS NEXT
+## <HopeIcon icon="person-chalkboard" /> Yormong OS NEXT
 **Yormong OS NEXT** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
   - 这是一个 `YM PPT项目`
