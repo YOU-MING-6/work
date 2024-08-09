@@ -31,7 +31,7 @@ comment: false
 
 ::: important 这是哪？
 这是作品文档的更新历史文档\
-[返回主文档](/更新历史/YM%20虚拟机.html)
+[返回主文档](/作品文档/YM%20虚拟机.html)
 :::
 
 ## <HopeIcon icon="clock" /> 更新历史
@@ -180,6 +180,5 @@ comment: false
 
 ## <HopeIcon icon="rotate-left" /> 返回
 ::: info 返回
-这是作品文档的更新历史文档
 [返回主文档](/作品文档/YM%20虚拟机.html)
 :::

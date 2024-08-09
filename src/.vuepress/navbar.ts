@@ -100,19 +100,14 @@ export default navbar([
         ],
       },
       {
-        text: "关于",
-        prefix: "",
+        text: "更多",
+        prefix: "/",
         children: [
-          { text: "关于", link: "/更多/", icon: "circle-info" },
-          { text: "指南", link: "/更多/指南.html", icon: "compass" },
-          { text: "问题排查", link: "/更多/问题排查.html", icon: "circle-question" },
-        ],
-      },
-      {
-        text: "工作室",
-        prefix: "",
-        children: [
-          { text: "关于工作室", link: "/更多/工作室.html", icon: "https://image.youming.dns.army/ym-work-icon.svg" },
+          { text: "指南", link: "更多/指南.html", icon: "compass" },
+          { text: "问题排查", link: "更多/问题排查.html", icon: "circle-question" },
+          { text: "关于工作室", link: "更多/工作室.html", icon: "https://image.youming.dns.army/ym-work-icon.svg" },
+          { text: "关于", link: "更多/", icon: "circle-info" },
+          { text: "个人页", link: "intro.html", icon: "user" },
         ],
       },
     ],
