@@ -15,4 +15,12 @@ export default defineUserConfig({
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 
+  plugins: [
+    searchProPlugin({
+      indexContent: true,
+      autoSuggestions: false,
+      queryHistoryCount: 1,
+      resultHistoryCount: 1
+    }),
+  ],
 });
