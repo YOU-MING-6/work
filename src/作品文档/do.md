@@ -10,7 +10,7 @@ order: 100
 # 设置作者
 author: 自动
 # 设置写作时间
-date: 2024-07-27
+date:
 # 分类
 category:
   - 进度
