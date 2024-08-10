@@ -60,8 +60,6 @@ comment: false
 [我要留言](/反馈中心/留言板.html)
 :::
 
----
-
 ## <HopeIcon icon="envelope" /> 反馈
 ::: tip 反馈
 有什么要向我们`反馈`的吗？\
@@ -71,8 +69,6 @@ comment: false
 [我要反馈](/反馈中心/反馈.html)
 :::
 
----
-
 ## <HopeIcon icon="lightbulb" /> 发送灵感
 ::: tip 灵感
 你有新的`灵感`吗？\
@@ -80,8 +76,6 @@ comment: false
 \
 [发送灵感](/反馈中心/发送灵感.html)
 :::
-
----
 
 ## <HopeIcon icon="key" /> 申请编辑发布权
 ::: info 申请权限
@@ -92,8 +86,6 @@ comment: false
 [去申请](/反馈中心/申请编辑发布权.html)
 :::
 
----
-
 ## <HopeIcon icon="triangle-exclamation" /> 举报违规行为
 ::: caution 举报
 你发现有人未经允许，私自转载发布我们的作品？\
@@ -102,5 +94,3 @@ comment: false
 \
 [我要举报](/反馈中心/举报违规行为.html)
 :::
-
----
