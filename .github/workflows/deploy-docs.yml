@@ -42,7 +42,6 @@ jobs:
           pnpm install dashjs
           pnpm install hls.js
           pnpm install mpegts.js
-          pnpm add -D vuepress-plugin-search-pro
 
       - name: 构建文档
         env:

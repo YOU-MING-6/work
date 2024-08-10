@@ -111,7 +111,7 @@ comment: false
 ### 1.0.1 <Badge text="公测版" type="info" vertical="middle" />
 - 🔥重磅更新
 
-  - 系统全面应用`深色模式`(半成品)`
+  - 系统全面应用`深色模式` `(半成品)`
 
 - 🪐优化提升
 
@@ -486,7 +486,7 @@ comment: false
 ### 0.0.1 <Badge text="内测版" type="note" vertical="middle" />
 - ⭐更新
 
-  - 基于 `Mindows** 进行开发
+  - 基于 `Mindows` 进行开发
   - 制作基本内容
 
 ::: right
