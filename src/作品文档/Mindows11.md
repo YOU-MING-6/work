@@ -50,7 +50,9 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 **Mindows11** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 开始制作的  `PPT 系统`；
 
-- 名称及系统界面均参考 `Windows 系统及网络`
+- 此 PPT 图片及动图来源于网络      (侵删)
+- 界面设计参考于网络                 (侵删)
+- 此PPT使用了一些 PPT 插件
 
 ::: tip 版本
 当前最新版本：`4.2 正式版`

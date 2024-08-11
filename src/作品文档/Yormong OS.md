@@ -49,6 +49,9 @@ copyright: Copyright © 2024 YOU MING 工作室
 **Yormong OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
 - `Yormong OS` 是一个基于 `Mindows** 制作的 `PPT 系统`
+- 此 PPT 图片及动图来源于网络      (侵删)
+- 界面设计参考于网络                 (侵删)
+- 此PPT使用了一些 PPT 插件
 
 ::: tip 版本
 当前最新版本：`v1.0.4 公测版` `(v1.0.4.20240708.265)`

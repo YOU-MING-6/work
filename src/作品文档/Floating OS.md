@@ -6,7 +6,7 @@ cover:
 # 页面图标
 icon: computer
 # 侧边栏顺序
-order: 9
+order: 4
 # 设置作者
 author: 某团一笑︱Shadow
 # 设置写作时间
@@ -45,9 +45,10 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Floating OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始基于 Windows11 制作的一个 的 `系统`。
+**Floating OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `自研系统`。
 
-- 这是一个真实的系统，不是 PPT
+- 这是一个真实的`自研系统`，不是 PPT
+- 
 - 更多内容，等待填写...
 
   - 更多内容，等待填写...
