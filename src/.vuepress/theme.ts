@@ -16,7 +16,7 @@ export default hopeTheme({
 
   author: {
     name: "YOU MING 柚明",
-    url: "/intro.html",
+    url: "/更多/工作室.html",
     email: "无",
   },
 
@@ -89,6 +89,27 @@ export default hopeTheme({
       wordLimit: 2000,
       pageSize: 20,
     },
+
+    // 公告
+    notice: [
+      {
+        path: "/",
+        title: "新手指南", //  标题
+        content: "第一次来？点击按钮查看新手指南！",  // 公告内容
+        actions: [
+          {
+            text: "查看",  // 操作按钮内容
+            link: "/关于/指南.html",  // 链接
+            type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
+          },
+          {
+            text: "关闭",  // 操作按钮内容
+          },
+        ],  // 操作按钮
+        confirm: true,  // 只能点击操作按钮关闭
+        fullscreen: false,  // 全屏
+      },
+    ],
 
     components: {
       // 你想使用的组件
