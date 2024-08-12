@@ -99,7 +99,7 @@ export default hopeTheme({
         actions: [
           {
             text: "查看",  // 操作按钮内容
-            link: "/关于/指南.html",  // 链接
+            link: "/更多/指南.html",  // 链接
             type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
           },
           {

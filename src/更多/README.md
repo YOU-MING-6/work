@@ -6,7 +6,7 @@ cover:
 # 页面图标
 icon: circle-info
 # 侧边栏顺序
-order: 4
+order: 1
 # 设置作者
 author: YOU MING 柚明
 # 设置写作时间
