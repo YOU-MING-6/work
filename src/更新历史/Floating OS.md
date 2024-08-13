@@ -24,7 +24,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: important 这是哪？
@@ -54,7 +54,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 ---
 
 ::: tip 开始创作
-- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 想到灵感，而后开始创作
+- 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2024**

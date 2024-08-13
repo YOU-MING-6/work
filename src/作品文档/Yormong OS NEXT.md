@@ -29,7 +29,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: tip 更新状态
@@ -47,7 +47,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Yormong OS NEXT** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
+**Yormong OS NEXT** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
 - `Yormong OS NEXT` 是一个基于 `Yormong OS` 制作的 `PPT 系统`
 - 此 PPT 图片及动图来源于网络      (侵删)

@@ -37,7 +37,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "YOU MING 工作室",
+  footer: "Youming 工作室",
   displayFooter: true,
 
   // 博客相关

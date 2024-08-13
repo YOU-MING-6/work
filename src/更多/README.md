@@ -24,7 +24,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 # 是否在此页面启用评论
 comment: false
 ---
@@ -36,7 +36,7 @@ comment: false
 ## <HopeIcon icon="circle-question" /> 这是什么网站？
 
 - 这是一个基于 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 的网站
-- 这是 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的官方作品文档
+- 这是 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的官方作品文档
 - 用于显示作品信息、更新历史、下载链接 及其他功能
 - 此网站于 `飞书文档` 搬迁而来
 - 因为觉得飞书太好用了`（不是）`
@@ -48,7 +48,7 @@ comment: false
 - 最新版本：`2.0.0`  `（已固定版本号）`
 - 作者：<Badge text="柚明" type="tip" vertical="middle" /> 
 - 参与编辑的人员：<Badge text="Shadow" type="tip" vertical="middle" /> 
-- 工作室：<Badge text="YOU MING 工作室" type="info" vertical="middle" /> 
+- 工作室：<Badge text="Youming 工作室" type="info" vertical="middle" /> 
 
 ---
 

@@ -28,7 +28,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: warning 更新状态
@@ -47,7 +47,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**MC 鼠标指针** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
+**MC 鼠标指针** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 
 - 使用了`「新版 MC 材质」`制作，**~~而不是网上的 老版材质~~**。
 - 在 `2.0` 版本中，支持了右键自动安装（.inf）

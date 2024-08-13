@@ -24,7 +24,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 # 是否在此页面启用评论
 comment: false
 ---
@@ -37,7 +37,7 @@ comment: false
 ## <HopeIcon icon="clock" /> 更新历史
 
 ::: tip 共同更新
-- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="某团一笑" type="tip" vertical="middle" /> 共同更新作品 `YM 虚拟机`
+- 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="某团一笑" type="tip" vertical="middle" /> 共同更新作品 `YM 虚拟机`
 
 ::: right
 **2024.7.7**
@@ -121,7 +121,7 @@ comment: false
 ---
 
 ::: tip 继续更新
-- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `YM 虚拟机`
+- 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `YM 虚拟机`
 
 ::: right
 **2024.6.15**
@@ -170,7 +170,7 @@ comment: false
 ---
 
 ::: tip 开始创作
-- 由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
+- 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
 ::: right
 **2023.5**

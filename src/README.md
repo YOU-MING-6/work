@@ -27,7 +27,7 @@ features:
 
   - title: 作者
     icon: user-pen
-    details: 此文档由 @柚明 维护︱YOU MING 工作室 所有。
+    details: 此文档由 @柚明 维护︱Youming 工作室 所有。
     link: /更多/工作室.html#you-ming-柚明
 
   - title: 留言板
@@ -41,7 +41,7 @@ features:
     link: /反馈中心/
 
 copyright: false
-footer: © 2024 - YOU MING 工作室 - 保留所有权利
+footer: © 2024 - Youming 工作室 - 保留所有权利
 ---
 
 ## <HopeIcon icon="message" /> 更多

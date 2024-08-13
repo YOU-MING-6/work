@@ -26,7 +26,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: tip 更新状态
@@ -45,7 +45,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Floating OS** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `自研系统`。
+**Floating OS** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `自研系统`。
 
 - 这是一个真实的`自研系统`，不是 PPT
 - 

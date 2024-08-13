@@ -27,7 +27,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: tip 更新状态
@@ -45,7 +45,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**YM 安全中心** 是由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 软件`；
+**YM 安全中心** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 软件`；
 
 - `YM 安全中心`是一个`YM 软件项目`旗下项目。
 

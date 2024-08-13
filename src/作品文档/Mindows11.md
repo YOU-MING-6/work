@@ -28,7 +28,7 @@ star: false
 # 自定义页脚
 footer:
 # 自定义版权信息
-copyright: Copyright © 2024 YOU MING 工作室
+copyright: Copyright © 2024 Youming 工作室
 ---
 
 ::: caution 状态
@@ -48,7 +48,7 @@ copyright: Copyright © 2024 YOU MING 工作室
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**Mindows11** 是一个由 <Badge text="YOU MING 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 开始制作的  `PPT 系统`；
+**Mindows11** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 开始制作的  `PPT 系统`；
 
 - 此 PPT 图片及动图来源于网络      (侵删)
 - 界面设计参考于网络                 (侵删)
