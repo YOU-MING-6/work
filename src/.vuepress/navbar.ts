@@ -73,6 +73,12 @@ export default navbar([
           { text: "申请编辑发布权", icon: "key", link: "申请编辑发布权" },
           { text: "举报违规行为", icon: "triangle-exclamation", link: "举报违规行为" },
         ],
+      },
+      {
+        text: "联系我们",
+        children: [
+          { text: "QQ 群", icon: "message", link: "https://qm.qq.com/q/skpMjXw7xm" },
+        ],
       }
     ],
   },
@@ -117,5 +123,6 @@ export default navbar([
         ],
       },
     ],
-  }
+  },
+  { text: "QQ 群", icon: "message", link: "https://qm.qq.com/q/skpMjXw7xm" },
 ]);
