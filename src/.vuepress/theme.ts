@@ -77,7 +77,7 @@ export default hopeTheme({
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["qq", "Outlook", "Search"],
+    end: ["SocialLink", "Outlook", "Search"],
   },
 
   // 在这里配置主题提供的插件
