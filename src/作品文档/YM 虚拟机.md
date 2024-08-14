@@ -25,9 +25,9 @@ sticky: false
 # 此页面会出现在星标文章中
 star: false
 # 自定义页脚
-footer:
+footer: Copyright © 2024 Youming 工作室 保留所有权利
 # 自定义版权信息
-copyright: Copyright © 2024 Youming 工作室
+copyright: false
 ---
 
 ::: tip 更新状态

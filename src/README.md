@@ -41,7 +41,7 @@ features:
     link: /反馈中心/
 
 copyright: false
-footer: © 2024 - Youming 工作室 - 保留所有权利
+footer: Copyright © 2024 Youming 工作室 保留所有权利
 ---
 
 ## <HopeIcon icon="message" /> 更多

@@ -6,6 +6,12 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
+  author: {
+    name: "YOU MING 柚明",
+    url: "/更多/工作室.md",
+    email: "",
+  },
+
   // “编辑此页” 配置
   editLink: true,  // 是否展示编辑此页链接
   docsRepo: "https://github.com/YOU-MING-6/work",
@@ -14,21 +20,13 @@ export default hopeTheme({
   lastUpdated: true,  // 是否显示页面最后更新时间
   contributors: false,  // 是否显示页面贡献者
 
-  author: {
-    name: "YOU MING 柚明",
-    url: "/更多/工作室.html",
-    email: "无",
-  },
-
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://image.youming.dns.army/ym.png",
+  logo: "https://image.youming.dns.army/work.png",
+  navbarTitle: '作品文档',
 
-  // 是否显示导航栏 Github 或其他链接
-  repoDisplay: false,
-  
-  // 导航栏 Github 或其他链接
-  repo: "https://qm.qq.com/q/K3Lqokpdm0",
+  repoDisplay: true,  // 是否显示导航栏 Github 或其他链接
+  repo: "",  // 导航栏 Github 或其他链接
 
   // 导航栏
   navbar,
@@ -37,7 +35,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "Youming 工作室",
+  footer: "",
   displayFooter: true,
 
   // 博客相关
@@ -66,10 +64,21 @@ export default hopeTheme({
   // 多语言配置
   metaLocales: {
     editLink: "编辑此页",
+    date: "创建日期"
+  },
+
+  routeLocales: {
+    notFoundMsg: ["看起来你访问了一个失效的链接", "这里什么也没有", "点击「反馈中心」向我们发送此错误"],
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
+
+  navbarLayout: {
+    start: ["Brand"],
+    center: ["Links"],
+    end: ["qq", "Outlook", "Search"],
+  },
 
   // 在这里配置主题提供的插件
   plugins: {

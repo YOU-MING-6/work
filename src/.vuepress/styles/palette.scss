@@ -4,4 +4,4 @@ $theme-color: #2196f3;
 // font
 $font-family: '-apple-system, BlinkMacSystemFont, "Harmony OS sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", STHeiti, "Microsoft YaHei", SimSun, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"' !default;
 $font-family-heading: $font-family !default;
-$font-family-mono: 'Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace' !default;
+$font-family-mono: $font-family !default;
