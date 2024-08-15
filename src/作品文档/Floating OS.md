@@ -6,7 +6,7 @@ cover:
 # 页面图标
 icon: computer
 # 侧边栏顺序
-order: 4
+order: 9
 # 设置作者
 author: 某团一笑︱Shadow
 # 设置写作时间

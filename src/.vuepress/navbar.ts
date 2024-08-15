@@ -124,5 +124,5 @@ export default navbar([
       },
     ],
   },
-  { text: "QQ 群", icon: "message", link: "https://qm.qq.com/q/skpMjXw7xm" },
+  { text: "QQ 群", icon: "user-group", link: "https://qm.qq.com/q/skpMjXw7xm" },
 ]);

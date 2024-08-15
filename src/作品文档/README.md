@@ -110,4 +110,4 @@ comment: false
 **Floating OS** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始基于 Windows11 制作的一个 的 `系统`。
 
   - 这是一个 `YM 作品项目`
-  - 查看 [查看详情](/作品文档/Floating%20OS.html)
+  - 点击 [查看详情](/作品文档/Floating%20OS.html)

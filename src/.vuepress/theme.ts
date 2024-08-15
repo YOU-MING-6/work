@@ -4,11 +4,12 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+
+  hostname: "https://work.youming.dns.army/",
 
   author: {
     name: "YOU MING 柚明",
-    url: "/更多/工作室.md",
+    url: "/更多/工作室.md#you-ming-柚明",
     email: "",
   },
 
