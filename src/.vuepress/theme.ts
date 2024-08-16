@@ -9,7 +9,7 @@ export default hopeTheme({
 
   author: {
     name: "YOU MING 柚明",
-    url: "/更多/工作室.md#you-ming-柚明",
+    url: "/更多/工作室.html#you-ming-柚明",
     email: "",
   },
 
@@ -27,7 +27,7 @@ export default hopeTheme({
   navbarTitle: '作品文档',
 
   repoDisplay: true,  // 是否显示导航栏 Github 或其他链接
-  repo: "",  // 导航栏 Github 或其他链接
+  repo: "https://work.youming.dns.army/更多/",  // 导航栏 Github 或其他链接
 
   // 导航栏
   navbar,
@@ -41,6 +41,10 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
+    avatar: "https://image.youming.dns.army/ym.png",
+    name: "YOU MING 柚明",
+    description: "一个不知名创作者",
+    intro: "/更多/工作室.html#you-ming-柚明",
     medias: {
       bilibili: {
         icon: "https://image.youming.dns.army/bilibili.png",

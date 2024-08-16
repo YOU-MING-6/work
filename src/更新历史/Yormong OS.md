@@ -57,6 +57,7 @@ comment: false
 
 ---
 
+### <HopeIcon icon="user-group" /> 共同更新
 ::: tip 共同更新
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="某团一笑" type="tip" vertical="middle" /> 共同更新作品 `Yormong OS`
 
@@ -397,6 +398,7 @@ comment: false
 
 ---
 
+### <HopeIcon icon="circle-play" /> 继续更新
 ::: tip 继续更新
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `Yormong OS`
 
@@ -406,6 +408,7 @@ comment: false
 
 ---
 
+### <HopeIcon icon="circle-pause" /> 暂停更新
 ::: warning 暂停更新
 - 因过年，已暂停更新作品 `Yormong OS`
 
@@ -495,6 +498,7 @@ comment: false
 
 ---
 
+### <HopeIcon icon="square-pen" /> 开始创作
 ::: tip 开始创作
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 

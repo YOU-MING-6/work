@@ -53,6 +53,7 @@ copyright: false
 
 ---
 
+### <HopeIcon icon="square-pen" /> 开始创作
 ::: tip 开始创作
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 

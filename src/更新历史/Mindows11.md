@@ -36,6 +36,7 @@ comment: false
 
 ## <HopeIcon icon="clock" /> 更新历史
 
+### <HopeIcon icon="stop" /> 停止支持
 ::: caution 停止支持
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 停止支持作品 `Mindows**
 
@@ -178,6 +179,7 @@ comment: false
 
 ---
 
+### <HopeIcon icon="square-pen" /> 开始创作
 ::: tip 开始创作
 - 由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 想到灵感，而后开始创作
 
