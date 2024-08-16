@@ -8,7 +8,7 @@ icon: circle-info
 # 侧边栏顺序
 order: 1
 # 设置作者
-author: YOU MING 柚明
+author: Youming 工作室
 # 设置写作时间
 date: 2024-07-27
 # 分类
@@ -52,6 +52,9 @@ comment: false
 
 ---
 
+::: important GitBub 仓库
+此网站的 GitBub 仓库：[https://github.com/YOU-MING-6/work](https://github.com/YOU-MING-6/work)
+:::
 ::: info 作品文档
 前往 [作品文档](/作品文档/)
 :::

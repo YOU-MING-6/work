@@ -86,15 +86,18 @@ copyright: false
 ## <HopeIcon icon="circle-play" /> 教程
 ::: tabs
 
-@tab <HopeIcon icon="wrench" /> 自动安装
-<BiliBili bvid="BV16e411n7sr" />
+@tab <HopeIcon icon="screwdriver-wrench" /> 通用安装方式
+<BiliBili bvid="BV1EJegeBERB" />
 
-- 不行吗？尝试 [手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL) ！
-- 或者在评论区提出来！
+@tab <HopeIcon icon="wrench" /> 自动安装
+不支持预览，请手动打开链接：
+[哔哩哔哩 - 自动安装](https://www.bilibili.com/video/BV16e411n7sr)
+
+> 不行吗？尝试 [手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL) ！
 
 @tab <HopeIcon icon="hand-pointer" /> 手动安装
 不支持预览，请手动打开链接：
-- [哔哩哔哩 - 手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL)
+[哔哩哔哩 - 手动安装](https://www.bilibili.com/video/BV1Jk4y1u7nL)
 
 :::
 

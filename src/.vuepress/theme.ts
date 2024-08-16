@@ -26,8 +26,8 @@ export default hopeTheme({
   logo: "https://image.youming.dns.army/work.png",
   navbarTitle: '作品文档',
 
-  repoDisplay: true,  // 是否显示导航栏 Github 或其他链接
-  repo: "https://work.youming.dns.army/更多/",  // 导航栏 Github 或其他链接
+  repoDisplay: false,  // 是否显示导航栏 Github 或其他链接
+  repo: "",  // 导航栏 Github 或其他链接
 
   // 导航栏
   navbar,
