@@ -48,7 +48,7 @@ comment: false
 :::
 
 ::: details 审核通知预览
-![](https://image.youming.dns.army/sh.png)
+![](https://image.youming.us.kg/sh.png)
 :::
 
 ## <HopeIcon icon="message" /> 留言板

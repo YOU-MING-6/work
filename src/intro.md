@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-avatar: https://image.youming.dns.army/ym-tx-1.png
+avatar: https://image.youming.us.kg/ym-tx-1.png
 welcome: 👋你好，这里是
 titles:
   - 一个不知名创作者
@@ -16,5 +16,5 @@ titles:
 ---
 
 ## 要看看我的主页🍀吗？
-- [柚明︱主页🍀](https://home.youming.dns.army/)
+- [柚明︱主页🍀](https://home.youming.us.kg/)
 - [关于我🍀](/更多/工作室.html#you-ming-柚明)

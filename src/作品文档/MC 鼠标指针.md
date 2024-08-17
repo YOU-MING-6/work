@@ -43,7 +43,7 @@ copyright: false
 
 ---
 
-![](https://image.youming.dns.army/sbzz.png)
+![](https://image.youming.us.kg/sbzz.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -67,7 +67,7 @@ copyright: false
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
-  logo="https://image.youming.dns.army/ym.png"
+  logo="https://image.youming.us.kg/ym.png"
   link="/更多/工作室.html#you-ming-柚明"
   background="rgba(255, 255, 255, 0.1)"
 />
@@ -109,7 +109,7 @@ copyright: false
 ::: tabs#yl
 
 @tab <HopeIcon icon="image" /> 图片预览#tp
-![](https://image.youming.dns.army/sbzz-yl.png)
+![](https://image.youming.us.kg/sbzz-yl.png)
 
 :::
 

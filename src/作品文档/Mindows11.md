@@ -44,7 +44,7 @@ copyright: false
 
 ---
 
-![](https://image.youming.dns.army/min11.png)
+![](https://image.youming.us.kg/min11.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -66,7 +66,7 @@ copyright: false
 <VPCard
   title="YOU MING 柚明"
   desc="一个不知名创作者"
-  logo="https://image.youming.dns.army/ym.png"
+  logo="https://image.youming.us.kg/ym.png"
   link="/更多/工作室.html#you-ming-柚明"
   background="rgba(255, 255, 255, 0.05)"
 />
@@ -74,7 +74,7 @@ copyright: false
 <VPCard
   title="某团一笑"
   desc="现在，让我们来看看答案。"
-  logo="https://image.youming.dns.army/tx-2.png"
+  logo="https://image.youming.us.kg/tx-2.png"
   link="/更多/工作室.html#某团一笑"
   background="rgba(255, 255, 255, 0.05)"
 />

@@ -2,7 +2,7 @@
 home: true
 title: 主页
 icon: home
-heroImage: https://image.youming.dns.army/work.png
+heroImage: https://image.youming.us.kg/work.png
 heroText: 作品文档
 tagline: 这里是「柚明」的官方作品文档
 actions:
@@ -17,7 +17,7 @@ actions:
 
   - text: 柚明主页
     icon: home
-    link: https://home.youming.dns.army/
+    link: https://home.youming.us.kg/
 
 features:
   - title: 这是什么网站？
