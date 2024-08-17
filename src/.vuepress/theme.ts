@@ -91,11 +91,10 @@ export default hopeTheme({
     // Markdown 增强
 
     // 启用之前需安装 @waline/client
-    // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
 
     comment: {
       provider: "Waline",
-      serverURL: "https://waline.youming.us.kg/", // your server url
+      serverURL: "https://waline.youming.us.kg/", // Waline评论后台
       emoji: [
         '//unpkg.com/@waline/emojis@1.1.0/weibo',
       ],
