@@ -36,7 +36,16 @@ comment: false
 
 ## <HopeIcon icon="clock" /> 历史记录
 
-### <HopeIcon icon="circle-pause" /> 暂停更新
+### <HopeIcon icon="circle-play" /> 继续更新
+::: tip 继续更新
+- <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `MC 鼠标指针`
+
+::: right
+**2024.8.19**
+:::
+
+---
+
 ::: warning 暂停更新
 - <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 已暂停更新作品 `MC 鼠标指针`
 
