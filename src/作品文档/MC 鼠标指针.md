@@ -108,17 +108,26 @@ copyright: false
 ## <HopeIcon icon="magnifying-glass" /> 预览
 
 ::: tabs#yl
+
 @tab <HopeIcon icon="image" /> 图片预览#tp
 ![](https://image.youming.us.kg/sbzz-yl.png)
+
 :::
 
-::: details 预览当前鼠标
+::: tabs
+
+@tab <HopeIcon icon="arrow-pointer" /> 实时预览
+- 在左侧选择要预览的鼠标样式
+- 将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式
 <iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="750px" frameborder="0"></iframe>
+
 :::
 
 ## <HopeIcon icon="clock" /> 更新历史
 
+::: info 更新历史
 [查看更新历史](/更新历史/MC%20鼠标指针.html)
+:::
 
 ## <HopeIcon icon="download" /> 下载链接
 ::: tabs#xz

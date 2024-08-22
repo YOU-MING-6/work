@@ -80,7 +80,9 @@ copyright: false
 
 ## <HopeIcon icon="clock" /> 更新历史
 
+::: info 更新历史
 [查看更新历史](/更新历史/YM%20安全中心.html)
+:::
 
 ## <HopeIcon icon="download" /> 下载链接
 

@@ -98,7 +98,9 @@ copyright: false
 
 ## <HopeIcon icon="clock" /> 更新历史
 
+::: info 更新历史
 [查看更新历史](/更新历史/Floating%20OS.html)
+:::
 
 ## <HopeIcon icon="download" /> 下载链接
 
