@@ -119,7 +119,10 @@ copyright: false
 @tab <HopeIcon icon="arrow-pointer" /> 实时预览
 - 在左侧选择要预览的鼠标样式
 - 将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式
-<iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="750px" frameborder="0"></iframe>
+
+  - 注意是实时预览当前「你」当前设置的鼠标样式
+
+<iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="735px" frameborder="0"></iframe>
 
 :::
 
