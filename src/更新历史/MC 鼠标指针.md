@@ -36,6 +36,17 @@ comment: false
 
 ## <HopeIcon icon="clock" /> 历史记录
 
+### 1.4 <Badge text="正式版" type="tip" vertical="middle" />
+- ✨更新
+
+  - 新增更多鼠标样式，可自行选择
+
+::: right
+**2024.9.15**
+:::
+
+---
+
 ### <HopeIcon icon="circle-play" /> 继续更新
 ::: tip 继续更新
 - <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `MC 鼠标指针`

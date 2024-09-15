@@ -20,10 +20,10 @@ actions:
     link: https://home.youming.us.kg/
 
 features:
-  - title: 这是什么网站？
-    icon: circle-question
-    details: 这是一个用于 显示作品信息 的介绍文档；由我们之前的「飞书作品文档」迁移至此。
-    link: /更多/
+  - title: 迁移公告
+    icon: right-to-bracket
+    details: 查看关于此网站的迁移公告。
+    link: /更多/迁移公告.html
 
   - title: 作者
     icon: user-pen
@@ -46,5 +46,7 @@ footer: Copyright © 2024 Youming 工作室 保留所有权利
 
 ## <HopeIcon icon="message" /> 更多
 
+- 查看 [迁移公告](/更多/迁移公告.html)
+- 第一次来这吗？点击按钮查看 [新手指南](/更多/指南) 
 - 有什么要向我们 [反馈](/反馈中心/) 的吗？
 - 欢迎 [来 QQ 水群](https://qm.qq.com/q/K3Lqokpdm0)（群号: 248965719）

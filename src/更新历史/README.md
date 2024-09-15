@@ -41,15 +41,11 @@ comment: false
   - 这是一个 `YM 作品项目`
   - 查看 [更新历史](/更新历史/MC%20鼠标指针.html)
 
----
-
 ## <HopeIcon icon="person-chalkboard" /> Mindows11
 **Mindows11** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.4.14` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的  `PPT 系统`；
 
   - 这是一个 `YM PPT项目`
   - 查看 [更新历史](/更新历史/Mindows11.html)
-
----
 
 ## <HopeIcon icon="person-chalkboard" /> Yormong OS
 **Yormong OS** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
@@ -57,15 +53,11 @@ comment: false
   - 这是一个 `YM PPT项目`
   - 查看 [更新历史](/更新历史/Yormong%20OS.html)
 
----
-
 ## <HopeIcon icon="person-chalkboard" /> Yormong OS NEXT
 **Yormong OS NEXT** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
 
   - 这是一个 `YM PPT项目`
   - 查看 [更新历史](/更新历史/Yormong%20OS%20NEXT.html)
-
----
 
 ## <HopeIcon icon="hard-drive" /> YM 虚拟机
 **YM 虚拟机** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的一个 `PPT 软件`；
@@ -73,15 +65,11 @@ comment: false
   - 这是一个 `YM PPT项目`
   - 查看 [更新历史](/更新历史/YM%20虚拟机.html)
 
----
-
 ## <HopeIcon icon="shield" /> YM 安全中心
 **YM 安全中心** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 想到灵感并由其用户 <Badge text="柚明" type="tip" vertical="middle" /> 开始制作的一个 `PPT 软件`；
 
   - 这是一个 `YM PPT项目`
   - 查看 [更新历史](/更新历史/YM%20安全中心.html)
-
----
 
 ## <HopeIcon icon="home" /> 柚明主页
 **柚明主页** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.7.10` 开始制作的一个 `网页`。
@@ -89,15 +77,11 @@ comment: false
   - 这是一个 `YM 网站项目`
   - 查看 [更新历史](/更新历史/柚明主页.html)
 
----
-
 ## <HopeIcon icon="book" /> 作品文档
 **作品文档** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024.7.19` 开始制作的一个 `网页`。
 
   - 这是一个 `YM 网站项目`
   - 查看 [更新历史](/更新历史/作品文档.html)
-
----
 
 ## <HopeIcon icon="computer" /> Floating OS
 **Floating OS** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="Shadow" type="tip" vertical="middle" /> 于 `2024` 开始基于 Windows11 制作的一个 的 `系统`。
