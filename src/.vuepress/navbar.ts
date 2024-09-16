@@ -83,7 +83,7 @@ export default navbar([
     ],
   },
   { text: "留言板", icon: "message", link: "/反馈中心/留言板.html" },
-  { text: "QQ 群", icon: "user-group", link: "https://qm.qq.com/q/skpMjXw7xm" },
+  { text: "迁移公告", icon: "right-to-bracket" , link: "更多/迁移公告.html"},
   {
     text: "更多",
     icon: "bars",
@@ -126,4 +126,5 @@ export default navbar([
       },
     ],
   },
+  { text: "QQ 群", icon: "user-group", link: "https://qm.qq.com/q/skpMjXw7xm" }
 ]);

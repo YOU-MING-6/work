@@ -108,13 +108,13 @@ export default hopeTheme({
         content: "<h3>文档迁移通知</h3>我们已将作品文档迁移至此，请不要再访问旧文档。<a href='/更多/迁移公告.html'>查看迁移公告</a> <h3>新手指南</h3>第一次来这吗？点击按钮查看新手指南。",  // 公告内容
         actions: [
           {
-            text: "新手指南",  // 操作按钮内容
-            link: "/更多/指南.html",  // 链接
+            text: "迁移公告",  // 操作按钮内容
+            link: "/更多/迁移公告.html",  // 链接
             type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
           },
           {
-            text: "迁移公告",  // 操作按钮内容
-            link: "/更多/迁移公告.html",  // 链接
+            text: "新手指南",  // 操作按钮内容
+            link: "/更多/指南.html",  // 链接
             type: "primary",  // 默认为 default 为非填充按钮，填写 primary 为填充按钮
           },
           {
