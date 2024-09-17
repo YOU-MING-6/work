@@ -49,11 +49,11 @@ copyright: false
 
 **MC 鼠标指针** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 
-- 使用了`「新版 MC 材质」`制作，**~~而不是网上的 老版材质~~**。
-- 在 `2.0` 版本中，支持了右键自动安装（.inf）
-- 在鼠标文件 `忙.ani` 中，使用了超过 60 帧的动画
-- 你还可以按 `文件名` 进行 `手动设置` 鼠标光标
-- 你也可以自己 `自定义设置` 鼠标光标
+- 使用了`「新版 MC 材质」`制作，**~~而不是网上的 老版材质~~**；
+- 在 `2.0` 版本中，支持了右键自动安装（.inf）；
+- 在鼠标文件 `忙.ani` 中，使用了超过 60 帧的动画；
+- 你还可以按 `文件名` 进行 `手动设置` 鼠标光标；
+- 你也可以自己 `自定义设置` 鼠标光标。
 
 ::: tip 版本
 当前最新版本：`1.3 正式版`
@@ -114,16 +114,13 @@ copyright: false
 
 :::
 
-::: tabs
-
-@tab <HopeIcon icon="arrow-pointer" /> 实时预览
+::: details 实时预览
 - 在左侧选择要预览的鼠标样式
 - 将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式
 
   - 注意是实时预览当前「你」当前设置的鼠标样式
 
-<iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="735px" frameborder="0"></iframe>
-
+<iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="300px" frameborder="0"></iframe>
 :::
 
 ## <HopeIcon icon="clock" /> 更新历史
@@ -131,6 +128,11 @@ copyright: false
 ::: info 更新历史
 [查看更新历史](/更新历史/MC%20鼠标指针.html)
 :::
+
+## <HopeIcon icon="triangle-exclamation" /> 已知问题
+- 右键安装功能对某些用户无效。
+- `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
+- `水平&垂直调整大小` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
 
 ## <HopeIcon icon="download" /> 下载链接
 ::: tabs#xz

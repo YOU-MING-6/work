@@ -45,9 +45,12 @@ copyright: false
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**YM 虚拟机** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 软件`；
+**YM 虚拟机** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 项目`；
 
-- `YM 虚拟机`是一个`YM 软件项目`旗下项目。
+- `YM 虚拟机` 是一个 `YM PPT项目` 旗下项目。
+- `YM 虚拟机` 仅用于我们剪辑视频时启动其他 PPT 时使用（仅用于装饰）。
+- 面前 `YM 虚拟机` 暂无实际用途，仅用于装饰。
+- 我们正在考虑未来要不要公开 `YM 虚拟机` 项目。
 
 ::: tip 版本
 当前最新版本：`v2.0.0 内测版` `(v2.0.0.20240616.187)`

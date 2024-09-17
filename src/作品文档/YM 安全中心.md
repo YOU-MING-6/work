@@ -45,9 +45,11 @@ copyright: false
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**YM 安全中心** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 软件`；
+**YM 安全中心** 是由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.5.2` 开始制作的一个 `PPT 装饰项目`；
 
-- `YM 安全中心`是一个`YM 软件项目`旗下项目。
+- `YM 安全中心`是一个`YM PPT项目`旗下项目。
+- `YM 安全中心` 仅用于我们制作 PPT 系统 时弹出顶部的导航条，仅用于装饰。
+- 面前 `YM 安全中心` 暂无实际用途，仅用于装饰。
 
 ::: tip 版本
 当前最新版本：`v0.0.3 内测版` `(v0.0.3.20240623.100)`

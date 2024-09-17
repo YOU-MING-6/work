@@ -40,6 +40,9 @@ comment: false
 ::: tip 第一次来？
 尝试去 [新手指南](/更多/指南.html)
 :::
+::: info 关于作品更新
+我们面前处于 `开学状态` ，内容可能会更新缓慢，即使该作品标注为 `正在更新` ，但一个月也不一定能更新一次。
+:::
 
 ## <HopeIcon icon="arrow-pointer" /> MC 鼠标指针
 **MC 鼠标指针** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。

@@ -6,7 +6,7 @@ cover:
 # 页面图标
 icon: circle-question
 # 侧边栏顺序
-order: 4
+order: 1
 # 设置作者
 author: Youming 工作室
 # 设置写作时间
