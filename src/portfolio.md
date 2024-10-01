@@ -1,8 +1,12 @@
 ---
 home: true
 portfolio: true
+title: 档案主页
+icon: home
+welcome: 👋 你好，我是
+name: YOU MING 柚明
 avatar: https://image.youming.us.kg/ym-tx-1.png
-welcome: 👋你好，这里是
+
 titles:
   - 一个不知名创作者
   - 工作室 室长
@@ -11,8 +15,8 @@ titles:
   - 此网站管理者
   - YM 审核 官方
   - 群主
----
 
+footer: false
 ---
 
 ## 要看看我的主页🍀吗？

@@ -1,6 +1,6 @@
 {
-  "name": "my-docs",
-  "description": "my-docs",
+  "name": "you-ming-word",
+  "description": "you-ming-word",
   "version": "2.0.0",
   "license": "MIT",
   "type": "module",
@@ -11,19 +11,20 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.14",
-    "vue": "^3.4.34",
-    "vuepress": "2.0.0-rc.14",
-    "vuepress-plugin-components": "2.0.0-rc.52",
-    "vuepress-plugin-search-pro": "2.0.0-rc.52",
-    "vuepress-theme-hope": "2.0.0-rc.52",
+    "@vuepress/bundler-vite": "2.0.0-rc.17",
+    "sass-embedded": "^1.79.4",
+    "vue": "^3.5.10",
+    "vuepress": "2.0.0-rc.17",
+    "vuepress-plugin-components": "2.0.0-rc.57",
+    "vuepress-plugin-search-pro": "2.0.0-rc.57",
+    "vuepress-theme-hope": "2.0.0-rc.58",
     "yarn": "^1.22.22"
   },
   "dependencies": {
-    "@waline/client": "^3.3.0",
-    "artplayer": "^5.1.6",
+    "@waline/client": "^3.3.2",
+    "artplayer": "^5.1.7",
     "dashjs": "^4.7.4",
-    "hls.js": "^1.5.13",
+    "hls.js": "^1.5.15",
     "mpegts.js": "^1.7.3"
   }
 }
