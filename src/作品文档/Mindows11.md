@@ -111,8 +111,8 @@ copyright: false
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 蓝奏云#laizou
 ## <HopeIcon icon="cloud-arrow-down" /> 蓝奏云
-- 下载链接：[https://mclanzou.lanzoup.com/b032kbvra](https://mclanzou.lanzoup.com/b032kbvra)
-- 提取码：`hanx`
+- 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
+- 提取码：`hi3x`
 
 @tab <HopeIcon icon="cloud-arrow-down" /> 123 网盘#123
 ## <HopeIcon icon="cloud-arrow-down" /> 123 网盘
