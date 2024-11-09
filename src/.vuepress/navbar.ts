@@ -20,6 +20,7 @@ export default navbar([
         children: [
           { text: "MC 鼠标指针", icon: "arrow-pointer", link: "MC 鼠标指针" },
           { text: "Floating OS", icon: "computer", link: "Floating OS" },
+          { text: "MC 片头&尾", icon: "computer", link: "MC 片头&尾" },
         ],
       },
       {
