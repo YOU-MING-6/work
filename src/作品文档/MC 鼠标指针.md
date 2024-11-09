@@ -101,10 +101,6 @@ copyright: false
 
 :::
 
-::: info 提示
-下载链接 于本文档最底下
-::: 
-
 ## <HopeIcon icon="magnifying-glass" /> 预览
 
 ::: tabs#yl
