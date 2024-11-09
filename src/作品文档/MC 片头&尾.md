@@ -28,11 +28,6 @@ star: false
 footer: Copyright © 2024 Youming 工作室 保留所有权利
 # 自定义版权信息
 copyright: false
-# 是否在此页面启用评论
-comment: false
-
-# 不显示在侧边栏（请删除↙）
-index: false
 ---
 
 ::: tip 更新状态
