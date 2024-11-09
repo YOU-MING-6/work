@@ -42,7 +42,7 @@ copyright: false
 
 ---
 
-![](https://image.youming.us.kg/ym-hei.png)
+![](https://image.youming.us.kg/mc-pt.png)
 
 ## <HopeIcon icon="circle-info" /> 简介
 
@@ -82,7 +82,7 @@ copyright: false
 ::: tabs
 
 @tab <HopeIcon icon="film" /> 视频教程
-<BiliBili bvid="1" />
+等待上传
 
 :::
 
@@ -90,7 +90,7 @@ copyright: false
 ::: tabs#yl
 
 @tab <HopeIcon icon="film" /> 视频预览#sp
-<BiliBili bvid="BV1Dq421c7EC" />
+等待上传
 
 :::
 
