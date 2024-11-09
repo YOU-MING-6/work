@@ -46,7 +46,7 @@ copyright: false
 
 ## <HopeIcon icon="circle-info" /> 简介
 
-**xxx** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `MC 片头&尾`。
+**MC 片头&片尾** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `YM 作品项目`。
 
 - 此项目原本为仅供内部使用，后来由于粉丝的强烈要求，于 `2024.11.09` 公开。
 
