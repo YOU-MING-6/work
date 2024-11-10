@@ -98,3 +98,9 @@ comment: false
 
   - 这是一个 `YM 作品项目`
   - 点击 [查看详情](/作品文档/Floating%20OS.html)
+
+## <HopeIcon icon="circle-play" /> MC 片头&尾
+**MC 片头&尾** 是一个由 <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 于 `2024` 开始制作的一个 `YM 作品项目`。
+
+  - 这是一个 `YM 作品项目`
+  - 点击 [查看详情](/作品文档/MC%20片头_尾.html)
