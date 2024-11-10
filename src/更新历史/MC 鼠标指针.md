@@ -85,7 +85,6 @@ comment: false
 :::
 
 
-## <HopeIcon icon="circle-play" /> 继续更新
 ::: tip 继续更新
 - <Badge text="Youming 工作室" type="info" vertical="middle" /> 的用户 <Badge text="柚明" type="tip" vertical="middle" /> 继续更新作品 `MC 鼠标指针`
 
