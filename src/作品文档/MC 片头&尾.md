@@ -82,7 +82,7 @@ copyright: false
 ::: tabs
 
 @tab <HopeIcon icon="film" /> 视频教程
-等待上传
+<BiliBili bvid="BV1UzmBY2ErD" />
 
 :::
 
@@ -90,14 +90,14 @@ copyright: false
 ::: tabs#yl
 
 @tab <HopeIcon icon="film" /> 视频预览#sp
-等待上传
+<BiliBili bvid="BV1UzmBY2ErD" />
 
 :::
 
 ## <HopeIcon icon="clock" /> 更新历史
 
 ::: info 更新历史
-[查看更新历史](/更新历史/模板.html)
+[查看更新历史](/更新历史/MC%20片头_尾.html)
 :::
 
 ## <HopeIcon icon="download" /> 下载链接
