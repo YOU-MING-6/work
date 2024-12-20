@@ -154,9 +154,11 @@ export default hopeTheme({
 
     // 此功能被开启用于演示，你应仅当使用时保留。
     markdownTab: true,
+    
+    markdownImages: true,
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
+    markdown: {
       align: true,
       attrs: true,
       component: true,
@@ -165,6 +167,8 @@ export default hopeTheme({
       mark: true,
       plantuml: true,
       spoiler: true,
+      tabs: true,
+      codeTabs: true,
       stylize: [
         {
           matcher: "Recommended",
