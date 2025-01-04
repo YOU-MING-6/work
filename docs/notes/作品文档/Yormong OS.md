@@ -49,13 +49,13 @@ comments: true
 </CardGrid>
 
 <CardGrid>
-  <Card title="某团一笑" icon="https://image.youming.us.kg/tx-2.png">
+  <Card title="某团一笑" icon="https://image.youming.us.kg/tx-2-ys.png">
     现在，让我们来看看答案。
   </Card>
 </CardGrid>
 
 <CardGrid>
-  <Card title="Afly-dream" icon="https://image.youming.us.kg/tx-3.png">
+  <Card title="Afly-dream" icon="https://image.youming.us.kg/tx-3-ys.png">
     有梦想，才能有希望。
   </Card>
 </CardGrid>
@@ -81,9 +81,7 @@ comments: true
 
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
 
-::: info 更新历史
 [查看更新历史](/notes/更新历史/Yormong-OS.html)
-:::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs

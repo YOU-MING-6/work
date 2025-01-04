@@ -48,7 +48,7 @@ comments: true
     一个不知名创作者
 </LinkCard>
 
-<LinkCard title="某团一笑" icon="https://image.youming.us.kg/tx-2.png" href="/notes/更多/工作室.html#某团一笑">
+<LinkCard title="某团一笑" icon="https://image.youming.us.kg/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
     现在，让我们来看看答案。
 </LinkCard>
 
@@ -75,9 +75,7 @@ comments: true
 
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
 
-::: info 更新历史
 [查看更新历史](/notes/更新历史/Mindows11.html)
-:::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs

@@ -59,9 +59,7 @@ comments: true
 
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
 
-::: info 更新历史
 [查看更新历史](/notes/更新历史/YM-安全中心.html)
-:::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 

@@ -55,14 +55,6 @@ comments: true
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
-::: tabs
-
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频教程
-<BiliBili bvid="BV1UzmBY2ErD" />
-
-:::
-
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 ::: tabs
 
@@ -71,11 +63,17 @@ comments: true
 
 :::
 
+## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
+::: tabs
+
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频教程
+<BiliBili bvid="BV1UzmBY2ErD" />
+
+:::
+
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
 
-::: info 更新历史
 [查看更新历史](/notes/更新历史/MC-片头_尾.html)
-:::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs

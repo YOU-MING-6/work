@@ -61,15 +61,6 @@ comments: true
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
-::: tabs
-
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
-
-@[bilibili](BV1EJegeBERB)
-
-:::
-
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 
 ::: tabs
@@ -88,11 +79,18 @@ comments: true
 <iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="400px" frameborder="0"></iframe>
 :::
 
+## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
+::: tabs
+
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
+
+@[bilibili](BV1EJegeBERB)
+
+:::
+
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
 
-::: info 更新历史
 [查看更新历史](/notes/更新历史/MC-鼠标指针.html)
-:::
 
 ## <Icon name="mingcute:alert-line" color="currentColor" /> 已知问题
 - 右键安装功能对某些用户无效。

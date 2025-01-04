@@ -28,6 +28,12 @@ export default defineUserConfig({
 
     blog: false, // 是否开启博客功能
 
+    bulletin: {
+      layout: 'top-right',
+      title: '',
+      contentFile: path.join(__dirname, 'bulletin.md'),
+    },
+
     plugins: {
 
       git: false, // git 功能

@@ -223,9 +223,9 @@ export const navbar = defineNavbarConfig([
         text: '链接',
         items: [
           {
-            text: '相关链接',
+            text: '全部链接页',
             link: '/链接.html',
-            icon: 'mingcute:document-line',
+            icon: 'mingcute:link-2-line',
           }
         ],
       },
