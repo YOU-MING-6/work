@@ -55,10 +55,10 @@ comments: true
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <Icon name="❤️" color="currentColor" /> 教程
+## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 视频教程
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频教程
 <BiliBili bvid="BV1UzmBY2ErD" />
 
 :::
@@ -66,7 +66,7 @@ comments: true
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 视频预览
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
 <BiliBili bvid="BV1UzmBY2ErD" />
 
 :::
@@ -80,7 +80,7 @@ comments: true
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 123 网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
 
 - 下载链接：[https://www.123684.com/s/9ZtpTd-7Rqov](https://www.123684.com/s/9ZtpTd-7Rqov)
 - 备用下载链接：[https://www.123865.com/s/9ZtpTd-7Rqov](https://www.123865.com/s/9ZtpTd-7Rqov)

@@ -66,10 +66,10 @@ comments: true
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 视频预览
-## <Icon name="❤️" color="currentColor" /> 视频预览
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
+
 无法预览合集，请手动打开链接：
-- <Icon name="❤️" color="currentColor" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
+- <Icon name="mingcute:bilibili-line" color="currentColor" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
 
 :::
 
@@ -82,22 +82,22 @@ comments: true
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 蓝奏云#laizou
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
 - 提取码：`hi3x`
 
-@tab <Icon name="❤️" color="currentColor" /> 123 网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
 
-@tab <Icon name="❤️" color="currentColor" /> 夸克网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
 
-@tab <Icon name="❤️" color="currentColor" /> 百度网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`

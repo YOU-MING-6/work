@@ -69,14 +69,14 @@ comments: true
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 宣传片
-## <Icon name="❤️" color="currentColor" /> 宣传片
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 宣传片
+
 <BiliBili bvid="BV1Dq421c7EC" />
 
-@tab <Icon name="❤️" color="currentColor" /> 视频预览
-## <Icon name="❤️" color="currentColor" /> 视频预览
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
+
 无法预览合集，请手动打开链接：
-- <Icon name="❤️" color="currentColor" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
+- <Icon name="mingcute:bilibili-line" color="currentColor" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=2711175)
 :::
 
 ## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
@@ -88,14 +88,14 @@ comments: true
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 123 网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-UnLov.html](https://www.123pan.com/s/9ZtpTd-UnLov.html)
 - 提取码：`0MRN`
 
   - 当前文件为公测版，不代表最终产品。
 
-@tab <Icon name="❤️" color="currentColor" /> 夸克网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/23d9fa54bde4](https://pan.quark.cn/s/23d9fa54bde4)
 - 提取码：`MMiL`

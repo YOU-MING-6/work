@@ -61,10 +61,10 @@ comments: true
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
-## <Icon name="❤️" color="currentColor" /> 教程
+## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 通用安装方式
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
 
 @[bilibili](BV1EJegeBERB)
 
@@ -74,7 +74,7 @@ comments: true
 
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 图片预览
+@tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
 ![](https://image.youming.us.kg/sbzz-yl.png)
 
 :::
@@ -94,7 +94,7 @@ comments: true
 [查看更新历史](/notes/更新历史/MC-鼠标指针.html)
 :::
 
-## <Icon name="❤️" color="currentColor" /> 已知问题
+## <Icon name="mingcute:alert-line" color="currentColor" /> 已知问题
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `水平&垂直调整大小` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
@@ -102,22 +102,22 @@ comments: true
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 蓝奏云#laizou
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
-@tab <Icon name="❤️" color="currentColor" /> 123 网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
-@tab <Icon name="❤️" color="currentColor" /> 夸克网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
-@tab <Icon name="❤️" color="currentColor" /> 百度网盘
+@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`

@@ -57,8 +57,8 @@ comments: true
 
 ::: tabs
 
-@tab <Icon name="❤️" color="currentColor" /> 图片预览
-## <Icon name="❤️" color="currentColor" /> 图片预览
+@tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
+
 ![](https://image.youming.us.kg/ft-yl.png)
 
 

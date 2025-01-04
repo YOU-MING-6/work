@@ -187,7 +187,7 @@ export const navbar = defineNavbarConfig([
   },
   {
     text: '更多',
-    icon: 'mingcute:more-1-line',
+    icon: 'mingcute:more-3-line',
     items: [
       {
         text: '公告与帮助',

@@ -34,7 +34,7 @@ comments: false
 :::
 
 
-## ● <Icon name="❤️" color="currentColor" /> 共同更新
+## ● <Icon name="mingcute:pencil-ruler-line" color="currentColor" /> 共同更新
 ::: tip 共同更新
 - 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品 `Yormong OS`
 
