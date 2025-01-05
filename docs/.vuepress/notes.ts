@@ -52,7 +52,7 @@ const demoHistory = defineNoteConfig({
         { text: 'Yormong OS', link: 'Yormong-OS'},
         { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
         { text: '柚明主页', link: '柚明主页'},
-        { text: '作品文档', link: '作品文档'}
+        { text: '作品文档', link: '/更多/更新日志'}
       ]
     }
   ],

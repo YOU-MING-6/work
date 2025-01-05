@@ -9,13 +9,15 @@ export default defineUserConfig({
   title: '作品文档',
   description: 'YOU MING 的作品文档',
 
-
+  // 取消灯笼装饰请删除 alias 的配置、删除本文件中第四行的内容、docs\.vuepress\theme\components\lantern.vue 的文件
   alias: {
     "@theme/Nav/VPNavBarTitle.vue": path.resolve(
       __dirname,
       "./theme/components/lantern.vue"
     ),
   },
+
+  shouldPrefetch: true, // 是否开启预加载
 
   bundler: viteBundler(),
 
