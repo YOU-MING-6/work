@@ -32,6 +32,15 @@ const demoNotes = defineNoteConfig({
         { text: '作品文档', link: '作品文档'}
       ]
     },
+    {
+      text: '更多',
+      prefix: '',
+      items: [
+        { text: '公告', link: '/公告.html'},
+        { text: '工作室', link: '更多/工作室.html'},
+        { text: '全部链接页', link: '/链接.html'}
+      ]
+    },
   ],
 })
 
@@ -54,7 +63,15 @@ const demoHistory = defineNoteConfig({
         { text: '柚明主页', link: '柚明主页'},
         { text: '作品文档', link: '/更多/更新日志'}
       ]
-    }
+    },
+    {
+      text: '更多',
+      prefix: '',
+      items: [
+        { text: '主文档', link: '/notes/MC-鼠标指针'},
+        { text: '全部链接页', link: '/链接.html'}
+      ]
+    },
   ],
 })
 
@@ -79,7 +96,15 @@ const demofeedback = defineNoteConfig({
       items: [
         { text: '留言板', link: '留言板'}
       ]
-    }
+    },
+    {
+      text: '更多',
+      prefix: '',
+      items: [
+        { text: '主文档', link: '/notes/MC-鼠标指针'},
+        { text: '全部链接页', link: '/链接.html'}
+      ]
+    },
   ],
 })
 
@@ -92,7 +117,16 @@ const demoMore = defineNoteConfig({
       prefix: '',
       items: [
         { text: '工作室', link: '工作室'},
-        { text: '更新日志', link: '更新日志'}
+        { text: '工作室 成员', link: '/friends/', icon: 'mingcute:contacts-3-line'},
+        { text: '更新日志', link: '更新日志'},
+      ]
+    },
+    {
+      text: '更多',
+      prefix: '',
+      items: [
+        { text: '主文档', link: '/notes/MC-鼠标指针'},
+        { text: '全部链接页', link: '/链接.html'}
       ]
     },
   ],

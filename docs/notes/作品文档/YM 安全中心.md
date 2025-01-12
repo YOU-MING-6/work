@@ -12,13 +12,14 @@ permalink: /notes/YM-安全中心.html
 comments: true
 ---
 
-::: tip 更新状态
-此作品目前 `正在托更`\
+::: warning 更新状态
+此作品目前 `正在托更`  
 当前为 `内测版`
 :::
 
 ::: info 项目
-这是一个 `YM PPT项目`
+这是一个 `YM PPT项目`  
+这是一个闭源项目。
 :::
 
 ---
@@ -48,7 +49,7 @@ comments: true
 ## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
 
 ::: important 编辑与发布
-目前为内测版，暂不支持申请编辑发布权。
+这是一个闭源作品，不支持申请编辑发布权。
 :::
 
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览

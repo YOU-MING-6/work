@@ -13,12 +13,13 @@ comments: true
 ---
 
 ::: tip 更新状态
-此作品目前 `正在更新`\
+此作品目前 `正在更新`  
 当前为 `概念版`
 :::
 
 ::: info 项目
-这是一个 `YM PPT项目`
+这是一个 `YM PPT项目`  
+这是一个闭源项目。
 :::
 
 ---
@@ -53,7 +54,7 @@ comments: true
 ## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
 
 ::: important 编辑与发布
-目前为概念版，暂不支持申请编辑发布权。
+这是一个闭源作品，不支持申请编辑发布权。
 :::
 
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览

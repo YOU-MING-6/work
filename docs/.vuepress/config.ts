@@ -17,7 +17,7 @@ export default defineUserConfig({
     ),
   },
 
-  shouldPrefetch: true, // 是否开启预加载
+  shouldPrefetch: false, // 是否开启预加载
 
   bundler: viteBundler(),
 
@@ -95,8 +95,10 @@ export default defineUserConfig({
         provider: "Waline",
         serverURL: "https://waline.youming.us.kg/", // Waline评论后台
         requiredMeta: ['nick'],
+        emoji: false,
         wordLimit: 2000,
         pageSize: 20,
+        pageview: false,
         comment: true,
       },
     },

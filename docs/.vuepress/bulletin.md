@@ -1,35 +1,23 @@
 
-::: left
-## 欢迎
-:::
+<span style="font-size: 18px; font-weight: bold;">◉ 欢迎</span>
 
-::: left
 - 欢迎来到 ==Youming 工作室== 的官方作品文档！
-:::
 
-::: tip
+::: warning 注意
 第一次打开可能加载缓慢，请耐心等待。
 :::
 
 ***
 
-::: left
-## 更新公告
-:::
+<span style="font-size: 18px; font-weight: bold;">◉ 更新公告</span>
 
-::: left
-- 此网站已于 `2025.1.4` 更新主题\
-[查看更多](https://work.youming.us.kg/公告.html)
-:::
+- 此网站已于 `2025.1.4` 更新主题  
+<a href="/公告.html">查看更多</a>
 
 ***
 
-::: left
-## 更多
-:::
+<span style="font-size: 18px; font-weight: bold;">◉ 更多</span>
 
-::: left
-- QQ群：[立即加入](https://work.youming.us.kg/链接.html#qq-群)\
+- QQ群：<a href="/链接.html#qq-群">立即加入</a>  
 群号：248965719
-- 查看此网站的 [全部链接](https://work.youming.us.kg/链接.html)
-:::
+- 查看此网站的 <a href="/链接.html">全部链接</a>

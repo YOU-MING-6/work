@@ -14,14 +14,14 @@ permalink: /notes/MC-鼠标指针.html
 comments: true
 ---
 
-::: warning 更新状态
-此作品目前已 `正在更新`\
+::: tip 更新状态
+此作品目前已 `正在更新`  
 当前为 `正式版`
 :::
 
 ::: info 项目
-这是一个 `YM 作品项目`\
-这是一个开源项目。
+这是一个 `YM 作品项目`  
+这是一个开源项目。[查看编辑发布权](#编辑与发布)
 :::
 
 ---
@@ -52,12 +52,8 @@ comments: true
 
 ## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
 
-::: tip 开源
-这是一个开源项目。
-:::
-
 ::: important 编辑与发布
-这是一个开源项目，你可以直接下载此文件进行编辑，无需标注其他信息；如果你愿意，你也可以标注。\
+这是一个开源项目，你可以直接下载此文件进行编辑，无需标注其他信息；如果你愿意，你也可以标注。  
 发布后请不要标注此文件归你所有，**这并不道德**。
 :::
 
@@ -96,6 +92,42 @@ comments: true
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `水平&垂直调整大小` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
+
+## <Icon name="mingcute:mailbox-line" color="currentColor" /> 粉丝建议
+
+::: demo-wrapper
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://space.bilibili.com/3461568813599161" target="_blank">
+        <img src="https://i1.hdslb.com/bfs/face/627d26c0cf659fd7c6520f680c22bbecc0e2b5c9.jpg@96w_96h.avif" 
+             style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;">
+    </a>
+    <div>
+        <a href="https://space.bilibili.com/3461568813599161" target="_blank" style="color: (--vp-c-brand-1); text-decoration: none;">Minecraft唯艺</a><Badge type="warning" text="等待使用" />
+        <div>这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？</div>
+        <div style="font-size: 12px; color: gray;">2024-10-13 14:46</div>
+    </div>
+</div>
+
+<hr>
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://space.bilibili.com/3537113226152258" target="_blank">
+        <img src="https://i2.hdslb.com/bfs/face/60fb9a46777a77df1c8aa7ef47b0a578e85d6eef.jpg@96w_96h.avif" 
+             style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;">
+    </a>
+    <div>
+        <a href="https://space.bilibili.com/3537113226152258" target="_blank" style="color: (--vp-c-brand-1); text-decoration: none;">VIP-ID</a><Badge type="warning" text="等待使用" />
+        <div>能不能把钟改成动的指南针</div>
+        <div style="font-size: 12px; color: gray;">2024-09-07 15:40</div>
+    </div>
+</div>
+
+::: info 这是你吗？
+如果是你，并且不想在这里展示，请向我们发送反馈以删除此信息。  
+我们会在状态为已使用后删除。
+
+:::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
 ::: tabs

@@ -127,7 +127,7 @@ export const navbar = defineNavbarConfig([
           },
           {
             text: '作品文档',
-            link: '/notes/更新历史/作品文档.html',
+            link: '/notes/更多/更新日志.html',
             icon: 'mingcute:book-2-line',
           },
         ],
@@ -175,11 +175,6 @@ export const navbar = defineNavbarConfig([
             text: '留言板',
             link: '/notes/反馈中心/留言板.html',
             icon: 'mingcute:pencil-3-line',
-          },
-          {
-            text: 'QQ 发电群',
-            link: 'https://qm.qq.com/q/K3Lqokpdm0',
-            icon: 'mingcute:qq-fill',
           }
         ],
       }
@@ -216,6 +211,11 @@ export const navbar = defineNavbarConfig([
             text: '更新历史',
             link: '/notes/更多/更新日志.html',
             icon: 'mingcute:history-anticlockwise-line',
+          },
+          {
+            text: '工作室 成员',
+            link: '/friends/',
+            icon: 'mingcute:contacts-3-line',
           }
         ],
       },
