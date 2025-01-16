@@ -9,6 +9,10 @@ export default defineUserConfig({
   title: '作品文档',
   description: 'YOU MING 的作品文档',
 
+  head: [
+    ['link', { rel: 'icon', href: 'https://image.youming.us.kg/work.png' }],
+  ],
+
   // 取消灯笼装饰请删除 alias 的配置、删除本文件中第四行的内容、docs\.vuepress\theme\components\lantern.vue 的文件
   alias: {
     "@theme/Nav/VPNavBarTitle.vue": path.resolve(
