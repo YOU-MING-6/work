@@ -12,8 +12,8 @@ permalink: /notes/Yormong-OS-NEXT.html
 comments: true
 ---
 
-::: tip 更新状态
-此作品目前 `正在更新`  
+::: warning 更新状态
+此作品目前 `正在托更`  
 当前为 `概念版`
 :::
 

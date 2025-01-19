@@ -39,7 +39,7 @@ comments: true
 - 在鼠标文件 `忙.ani` 中，使用了超过 60 帧的动画；
 - 你还可以按 `文件名` 进行 `手动设置` 鼠标光标；
 - 你也可以自己根据 `更多选择` 来自定义鼠标光标；
-- 还有附魔金苹果（动态）样式哦！
+- 还有 附魔金苹果（动态）样式哦！
 
 ::: tip 版本
 当前最新版本：`1.8 正式版`
@@ -65,7 +65,12 @@ comments: true
 ::: tabs
 
 @tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
+
 ![](https://image.youming.us.kg/sbzz-yl.png)
+
+@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览&宣传片
+
+<LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
 
 :::
 
@@ -79,6 +84,7 @@ comments: true
 :::
 
 ## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
+
 ::: tabs
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
@@ -100,39 +106,50 @@ comments: true
 
 ::: demo-wrapper
 
-<div style="display: flex; align-items: flex-start;">
-    <a href="https://space.bilibili.com/3461568813599161" target="_blank">
-        <img src="https://i1.hdslb.com/bfs/face/627d26c0cf659fd7c6520f680c22bbecc0e2b5c9.jpg@96w_96h.avif" 
-             style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;">
-    </a>
+<div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
+    <a><img src="https://i1.hdslb.com/bfs/face/627d26c0cf659fd7c6520f680c22bbecc0e2b5c9.jpg@96w_96h.avif" 
+        style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;"></a>
     <div>
-        <a href="https://space.bilibili.com/3461568813599161" target="_blank" style="color: (--vp-c-brand-1); text-decoration: none;">Minecraft唯艺</a><Badge type="warning" text="等待使用" />
+        <div style="font-size: 14px; color: gray; font-weight: bold;">Minecraft唯艺<Badge type="warning" text="等待使用" /></div>
         <div>这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？</div>
         <div style="font-size: 12px; color: gray;">2024-10-13 14:46</div>
     </div>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1;"></div>
 </div>
 
 <hr>
 
-<div style="display: flex; align-items: flex-start;">
-    <a href="https://space.bilibili.com/3537113226152258" target="_blank">
-        <img src="https://i2.hdslb.com/bfs/face/60fb9a46777a77df1c8aa7ef47b0a578e85d6eef.jpg@96w_96h.avif" 
-             style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;">
-    </a>
+<div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
+    <a><img src="https://i2.hdslb.com/bfs/face/60fb9a46777a77df1c8aa7ef47b0a578e85d6eef.jpg@96w_96h.avif"
+        style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;"></a>
     <div>
-        <a href="https://space.bilibili.com/3537113226152258" target="_blank" style="color: (--vp-c-brand-1); text-decoration: none;">VIP-ID</a><Badge type="warning" text="等待使用" />
+        <div style="font-size: 14px; color: gray; font-weight: bold;">VIP-ID<Badge type="warning" text="等待使用" /></div>
         <div>能不能把钟改成动的指南针</div>
         <div style="font-size: 12px; color: gray;">2024-09-07 15:40</div>
     </div>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1;"></div>
 </div>
 
 ::: info 这是你吗？
-如果是你，并且不想在这里展示，请向我们发送反馈以删除此信息。  
-我们会在状态为已使用后删除。
-
+我们会在状态为已使用后删除。  
+如果你不想在这里展示，请向我们发送反馈以删除此信息。
 :::
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+
+::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+
+<CardGrid>
+  <Card title="v1.8-鼠标光标.7z" icon="mingcute:file-zip-line">
+    压缩包共 291.5 KB
+  </Card>
+  <Card title="v1.3-鼠标光标.7z" icon="mingcute:file-zip-line">
+    压缩包共 7.5 KB
+  </Card>
+</CardGrid>
+
+:::
+
 ::: tabs
 
 @tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云

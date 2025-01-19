@@ -12,8 +12,8 @@ permalink: /notes/MC-片头-尾.html
 comments: true
 ---
 
-::: tip 更新状态
-此作品目前 `正在更新`  
+::: warning 更新状态
+此作品目前 `暂停更新`  
 当前为 `正式版`
 :::
 
@@ -72,6 +72,17 @@ comments: true
 [查看更新历史](/notes/更新历史/MC-片头_尾.html)
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+
+::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+
+<CardGrid>
+  <Card title="MC 片头&尾.zip" icon="mingcute:file-zip-line">
+    压缩包共 370.76 MB
+  </Card>
+</CardGrid>
+
+:::
+
 ::: tabs
 
 @tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘

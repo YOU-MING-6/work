@@ -15,7 +15,10 @@ comments: true
 
 ::: caution 状态
 此作品目前已 `停止支持`  
-当前为 `正式版`  
+当前为 `正式版`
+:::
+
+::: warning 警告
 这是一个早期作品
 :::
 
@@ -64,8 +67,7 @@ comments: true
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
 
-无法预览合集，请手动打开链接：
-- <Icon name="mingcute:bilibili-line" color="currentColor" /> [哔哩哔哩 - 合集](https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698)
+<LinkCard title="哔哩哔哩 - 合集" icon="mingcute:bilibili-fill" href="https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698"></LinkCard>
 
 :::
 
@@ -74,6 +76,29 @@ comments: true
 [查看更新历史](/notes/更新历史/Mindows11.html)
 
 ## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+
+::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+
+<CardGrid>
+  <Card title="Min11 v4.2安装.pptx" icon="mingcute:ppt-line">
+    PPT文件共 76.0 M
+  </Card>
+  <Card title="Min11 v4.1安装.pptx" icon="mingcute:ppt-line">
+    PPT文件共 75.4 M
+  </Card>
+  <Card title="Min11 v4.0安装.zip" icon="mingcute:ppt-line">
+    PPT文件共 39.3 M
+  </Card>
+  <Card title="Min11 v3.3安装.zip" icon="mingcute:ppt-line">
+    PPT文件共 41.2 M
+  </Card>
+  <Card title="Min11 v3.0安装.zip" icon="mingcute:ppt-line">
+    PPT文件共 32.2 M
+  </Card>
+</CardGrid>
+
+:::
+
 ::: tabs
 
 @tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云
