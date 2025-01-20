@@ -66,7 +66,9 @@ comments: true
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 宣传片
 
-<BiliBili bvid="BV1Dq421c7EC" />
+<LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1Dq421c7EC"></LinkCard>
+
+@[bilibili](BV1Dq421c7EC)
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
 

@@ -55,7 +55,10 @@ comments: true
 ::: tabs
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
-<BiliBili bvid="BV1UzmBY2ErD" />
+
+<LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
+
+@[bilibili](BV1UzmBY2ErD)
 
 :::
 
@@ -63,7 +66,10 @@ comments: true
 ::: tabs
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频教程
-<BiliBili bvid="BV1UzmBY2ErD" />
+
+<LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
+
+@[bilibili](BV1UzmBY2ErD)
 
 :::
 

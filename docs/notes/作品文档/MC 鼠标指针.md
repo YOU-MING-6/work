@@ -89,6 +89,8 @@ comments: true
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
 
+<LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1EJegeBERB"></LinkCard>
+
 @[bilibili](BV1EJegeBERB)
 
 :::
