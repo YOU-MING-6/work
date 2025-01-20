@@ -100,10 +100,13 @@ export default defineUserConfig({
         serverURL: "https://waline.youming.us.kg/", // Waline评论后台
         requiredMeta: ['nick'],
         emoji: false,
+        reaction: [],
         wordLimit: 2000,
         pageSize: 20,
         pageview: false,
         comment: true,
+        // @ts-expect-error
+        search: false,
       },
     },
   }),
