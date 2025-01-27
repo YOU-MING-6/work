@@ -42,10 +42,10 @@ comments: true
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://image.youming.us.kg/sbzz.png"><!-- 浅色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz.png"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://image.youming.us.kg/sbzz-dark.png"><!-- 深色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz-dark.png"><!-- 深色主题图片 -->
 </div>
 
 
@@ -70,7 +70,7 @@ comments: true
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
 
-<LinkCard title="YOU MING 柚明" icon="https://image.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
@@ -103,10 +103,10 @@ comments: true
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://image.youming.us.kg/sbzz-yl.png"><!-- 浅色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz-yl.png"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://image.youming.us.kg/sbzz-yl-dark.png"><!-- 深色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz-yl-dark.png"><!-- 深色主题图片 -->
 </div>
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览&宣传片

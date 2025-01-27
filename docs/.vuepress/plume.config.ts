@@ -6,14 +6,14 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://image.youming.us.kg/work.png',
+  logo: 'https://RI.youming.us.kg/work.png',
 
   appearance: true,
 
   profile: {
     name: 'YOU MING 柚明',
     description: '一个不知名创作者',
-    avatar: 'https://image.youming.us.kg/ym.png',
+    avatar: 'https://RI.youming.us.kg/ym.png',
     location: '中国',
     organization: 'Youming 工作室',
     circle: true, // 是否为圆形头像

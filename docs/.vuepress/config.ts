@@ -10,7 +10,7 @@ export default defineUserConfig({
   description: 'Youming 工作室的作品文档',
 
   head: [
-    ['link', { rel: 'icon', href: 'https://image.youming.us.kg/work.png' }],
+    ['link', { rel: 'icon', href: 'https://RI.youming.us.kg/work.png' }],
   ],
 
   // 取消灯笼装饰请删除 alias 的配置、删除本文件中第四行的内容、docs\.vuepress\theme\components\lantern.vue 的文件

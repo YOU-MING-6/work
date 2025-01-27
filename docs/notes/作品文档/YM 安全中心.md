@@ -24,7 +24,7 @@ comments: true
 
 ---
 
-![](https://image.youming.us.kg/aqzx.png)
+![](https://RI.youming.us.kg/aqzx.png)
 
 ## <Icon name="mingcute:document-line" color="currentColor" /> 简介
 
@@ -42,7 +42,7 @@ comments: true
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
 
-<LinkCard title="YOU MING 柚明" icon="https://image.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 

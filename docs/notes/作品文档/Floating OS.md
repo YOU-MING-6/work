@@ -23,7 +23,7 @@ comments: true
 
 ---
 
-![](https://image.youming.us.kg/ft.png)
+![](https://RI.youming.us.kg/ft.png)
 
 ## <Icon name="mingcute:document-line" color="currentColor" /> 简介
 
@@ -39,11 +39,11 @@ comments: true
 
 参与创作的人员：<Badge text="某团一笑" type="info" /> <Badge text="Afly-dream" type="info" />
 
-<LinkCard title="某团一笑" icon="https://image.youming.us.kg/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
+<LinkCard title="某团一笑" icon="https://RI.youming.us.kg/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
     现在，让我们来看看答案。
 </LinkCard>
 
-<LinkCard title="Afly-dream" icon="https://image.youming.us.kg/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
+<LinkCard title="Afly-dream" icon="https://RI.youming.us.kg/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
     有梦想，才能有希望。
 </LinkCard>
 
@@ -59,7 +59,7 @@ comments: true
 
 @tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
 
-![](https://image.youming.us.kg/ft-yl.png)
+![](https://RI.youming.us.kg/ft-yl.png)
 
 
 :::

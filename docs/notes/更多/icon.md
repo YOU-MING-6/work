@@ -64,8 +64,8 @@ mingcute:horn-2-line
 - <Icon name="mingcute:compass-3-line" color="currentColor" /> 指南
 mingcute:compass-3-line
 
-- <Icon name="https://image.youming.us.kg/ym-work-icon.svg" color="currentColor" /> 工作室
-https://image.youming.us.kg/ym-work-icon.svg
+- <Icon name="https://RI.youming.us.kg/ym-work-icon.svg" color="currentColor" /> 工作室
+https://RI.youming.us.kg/ym-work-icon.svg
 
 - <Icon name="mingcute:link-2-line" color="currentColor" /> 链接
 mingcute:link-2-line
@@ -107,12 +107,12 @@ mingcute:document-line
 mingcute:contacts-3-line
 - <Icon name="mingcute:contacts-2-line" color="currentColor" /> 成员
 mingcute:contacts-2-line
-- <Icon name="https://image.youming.us.kg/ym-ys.png" color="currentColor" /> YOU MING 柚明
-https://image.youming.us.kg/ym-ys.png
-- <Icon name="https://image.youming.us.kg/tx-2-ys.png" color="currentColor" /> 某团一笑
-https://image.youming.us.kg/tx-2-ys.png
-- <Icon name="https://image.youming.us.kg/tx-3-ys.png" color="currentColor" /> Afly-dream
-https://image.youming.us.kg/tx-3-ys.png
+- <Icon name="https://RI.youming.us.kg/ym-ys.png" color="currentColor" /> YOU MING 柚明
+https://RI.youming.us.kg/ym-ys.png
+- <Icon name="https://RI.youming.us.kg/tx-2-ys.png" color="currentColor" /> 某团一笑
+https://RI.youming.us.kg/tx-2-ys.png
+- <Icon name="https://RI.youming.us.kg/tx-3-ys.png" color="currentColor" /> Afly-dream
+https://RI.youming.us.kg/tx-3-ys.png
 
 - <Icon name="mingcute:more-3-line" color="currentColor" /> 更多
 mingcute:more-3-line
