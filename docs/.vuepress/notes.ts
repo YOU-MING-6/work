@@ -38,7 +38,7 @@ const demoNotes = defineNoteConfig({
       items: [
         { text: '公告', link: '/公告.html'},
         { text: '工作室', link: '更多/工作室.html'},
-        { text: '全部链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/链接.html'}
       ]
     },
   ],
@@ -61,7 +61,7 @@ const demoHistory = defineNoteConfig({
         { text: 'Yormong OS', link: 'Yormong-OS'},
         { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
         { text: '柚明主页', link: '柚明主页'},
-        { text: '作品文档', link: '/更多/更新日志'}
+        { text: '作品文档', link: '/notes/更多/更新日志.html'}
       ]
     },
     {
@@ -69,7 +69,7 @@ const demoHistory = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '全部链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/链接.html'}
       ]
     },
   ],
@@ -91,18 +91,11 @@ const demofeedback = defineNoteConfig({
       ]
     },
     {
-      text: '留言',
-      prefix: '',
-      items: [
-        { text: '留言板', link: '留言板'}
-      ]
-    },
-    {
       text: '更多',
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '全部链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/链接.html'}
       ]
     },
   ],
@@ -126,7 +119,7 @@ const demoMore = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '全部链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/链接.html'}
       ]
     },
   ],

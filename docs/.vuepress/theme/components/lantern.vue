@@ -28,61 +28,69 @@ const routeLocale = useRouteLocale();
       <slot name="nav-bar-title-after" />
     </VPLink>
 
-    <!-- 灯笼1 -->
-    <div class="deng-box">
-      <div class="deng">
-        <div class="xian"></div>
-        <div class="deng-a">
-          <div class="deng-b"><div class="deng-t">年</div></div>
-        </div>
-        <div class="shui shui-a">
-          <div class="shui-c"></div>
-          <div class="shui-b"></div>
-        </div>
+<a href="/千万别点.html">
+  <!-- 灯笼1 -->
+  <div class="deng-box">
+    <div class="deng">
+      <div class="xian"></div>
+      <div class="deng-a">
+        <div class="deng-b"><div class="deng-t">年</div></div>
+      </div>
+      <div class="shui shui-a">
+        <div class="shui-c"></div>
+        <div class="shui-b"></div>
       </div>
     </div>
+  </div>
+</a>
 
-    <!-- 灯笼2 -->
-    <div class="deng-box1">
-      <div class="deng">
-        <div class="xian"></div>
-        <div class="deng-a">
-          <div class="deng-b"><div class="deng-t">新</div></div>
-        </div>
-        <div class="shui shui-a">
-          <div class="shui-c"></div>
-          <div class="shui-b"></div>
-        </div>
+<a href="/千万别点.html">
+  <!-- 灯笼2 -->
+  <div class="deng-box1">
+    <div class="deng">
+      <div class="xian"></div>
+      <div class="deng-a">
+        <div class="deng-b"><div class="deng-t">新</div></div>
+      </div>
+      <div class="shui shui-a">
+        <div class="shui-c"></div>
+        <div class="shui-b"></div>
       </div>
     </div>
+  </div>
+</a>
 
-    <!-- 灯笼3 -->
-    <div class="deng-box2">
-      <div class="deng">
-        <div class="xian"></div>
-        <div class="deng-a">
-          <div class="deng-b"><div class="deng-t">快</div></div>
-        </div>
-        <div class="shui shui-a">
-          <div class="shui-c"></div>
-          <div class="shui-b"></div>
-        </div>
+<a href="/千万别点.html">
+  <!-- 灯笼3 -->
+  <div class="deng-box2">
+    <div class="deng">
+      <div class="xian"></div>
+      <div class="deng-a">
+        <div class="deng-b"><div class="deng-t">快</div></div>
+      </div>
+      <div class="shui shui-a">
+        <div class="shui-c"></div>
+        <div class="shui-b"></div>
       </div>
     </div>
+  </div>
+</a>
 
-    <!-- 灯笼4 -->
-    <div class="deng-box3">
-      <div class="deng">
-        <div class="xian"></div>
-        <div class="deng-a">
-          <div class="deng-b"><div class="deng-t">乐</div></div>
-        </div>
-        <div class="shui shui-a">
-          <div class="shui-c"></div>
-          <div class="shui-b"></div>
-        </div>
+<a href="/千万别点.html">
+  <!-- 灯笼4 -->
+  <div class="deng-box3">
+    <div class="deng">
+      <div class="xian"></div>
+      <div class="deng-a">
+        <div class="deng-b"><div class="deng-t">乐</div></div>
+      </div>
+      <div class="shui shui-a">
+        <div class="shui-c"></div>
+        <div class="shui-b"></div>
       </div>
     </div>
+  </div>
+</a>
   </div>
 </template>
 

@@ -1,6 +1,7 @@
 ---
 title: YM 安全中心
 author: YOU MING 柚明
+icon: mingcute:safety-certificate-line
 createTime: 2024-07-27
 tags:
 - 更新历史
@@ -13,6 +14,11 @@ comments: false
 这是作品文档的更新历史文档  
 [返回主文档](/notes/YM-安全中心.html)
 :::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
+
 
 ## ● 0.0.3 <Badge text="内测版" type="danger" />
 ### 🔥重磅更新
@@ -41,6 +47,11 @@ comments: false
 ::: right
 **2024.6.23**
 :::
+
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2023</p>
+</div>
 
 
 ## ◉ 暂停更新

@@ -1,4 +1,8 @@
 
+<p style="font-size: 30px; font-weight: 800; margin-top: 30px; text-align: center; color: #fa5252;" >
+  <a href="/千万别点.html" style="font-size: inherit; font-weight: inherit; margin-top: inherit; text-align: inherit; color: inherit;">👉千万别点👈</a>
+</p>
+
 <span style="font-size: 18px; font-weight: bold;">◉ 欢迎</span>
 
 - 欢迎来到 ==Youming 工作室== 的官方作品文档！
@@ -6,6 +10,8 @@
 ::: warning 注意
 第一次打开可能加载缓慢，请耐心等待。
 :::
+
+- 查看 <a href="/指南.html">新人指南</a>
 
 ***
 
@@ -20,4 +26,4 @@
 
 - QQ群：<a href="/链接.html#qq-群">立即加入</a>  
 群号：248965719
-- 查看此网站的 <a href="/链接.html">全部链接</a>
+- 查看此网站的 <a href="/链接.html">社交链接页</a>

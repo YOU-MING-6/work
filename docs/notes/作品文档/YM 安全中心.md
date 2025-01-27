@@ -4,7 +4,7 @@ author: YOU MING 柚明
 icon: mingcute:safety-certificate-line
 createTime: 2024-07-27
 tags:
-  - 正在托更
+  - 暂停更新
   - YM PPT项目
   - PPT
 permalink: /notes/YM-安全中心.html

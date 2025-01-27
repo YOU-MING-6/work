@@ -167,16 +167,6 @@ export const navbar = defineNavbarConfig([
             icon: 'mingcute:alert-line',
           }
         ],
-      },
-      {
-        text: '留言',
-        items: [
-          {
-            text: '留言板',
-            link: '/notes/反馈中心/留言板.html',
-            icon: 'mingcute:pencil-3-line',
-          }
-        ],
       }
     ],
   },
@@ -208,7 +198,7 @@ export const navbar = defineNavbarConfig([
             icon: 'https://image.youming.us.kg/ym-work-icon.svg',
           },
           {
-            text: '更新历史',
+            text: '更新日志',
             link: '/notes/更多/更新日志.html',
             icon: 'mingcute:history-anticlockwise-line',
           },
@@ -223,7 +213,7 @@ export const navbar = defineNavbarConfig([
         text: '链接',
         items: [
           {
-            text: '全部链接页',
+            text: '社交链接页',
             link: '/链接.html',
             icon: 'mingcute:link-2-line',
           }

@@ -7,7 +7,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: '作品文档',
-  description: 'YOU MING 的作品文档',
+  description: 'Youming 工作室的作品文档',
 
   head: [
     ['link', { rel: 'icon', href: 'https://image.youming.us.kg/work.png' }],

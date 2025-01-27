@@ -4,7 +4,7 @@ author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:chart-pie-2-line
 createTime: 2024-07-27
 tags:
-  - 正在更新
+  - 暂停更新
   - YM PPT项目
   - PPT
 permalink: /notes/YM-虚拟机.html

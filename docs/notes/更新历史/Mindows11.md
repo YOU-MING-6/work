@@ -1,6 +1,7 @@
 ---
 title: Mindows11
 author: YOU MING 柚明
+icon: mingcute:layout-grid-line
 createTime: 2024-07-27
 tags:
 - 更新历史
@@ -14,6 +15,11 @@ comments: false
 [返回主文档](/notes/Mindows11.html)
 :::
 
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
+
+
 ## ◉ 停止支持
 ::: caution 停止支持
 - 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 停止支持作品 `Mindows11`
@@ -21,6 +27,11 @@ comments: false
 ::: right
 **2024.1.23**
 :::
+
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2023</p>
+</div>
 
 
 ## ● 4.2 <Badge text="正式版" type="tip" />

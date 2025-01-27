@@ -1,6 +1,7 @@
 ---
 title: MC 鼠标指针
 author: YOU MING 柚明
+icon: mingcute:mouse-line
 createTime: 2024-07-27
 tags:
 - 更新历史
@@ -13,6 +14,10 @@ comments: false
 这是作品文档的`更新历史`文档  
 [返回主文档](/notes/MC-鼠标指针.html)
 :::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2025</p>
+</div>
 
 
 ## ● 1.8 <Badge text="正式版" type="tip" />
@@ -27,6 +32,11 @@ comments: false
 ::: right
 **2025.1.18**
 :::
+
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
 
 
 ## ● 1.7 <Badge text="内测版" type="danger" />

@@ -15,7 +15,7 @@ comments: true
 ---
 
 ::: tip 更新状态
-此作品目前已 `正在更新`  
+此作品目前 `正在更新`  
 当前为 `正式版`
 :::
 
@@ -26,13 +26,34 @@ comments: true
 
 ---
 
-![](https://image.youming.us.kg/sbzz.png)
+<!-- 根据主题深浅自动切换图片 -->
+<style>
+[data-theme="dark"] .light-theme-image {
+  display: none;
+}
+[data-theme="light"] .dark-theme-image {
+  display: none;
+}
+[data-theme="dark"] .dark-theme-image {
+  display: block;
+}
+[data-theme="light"] .light-theme-image {
+  display: block;
+}
+</style>
+<div class="light-theme-image">
+  <img src="https://image.youming.us.kg/sbzz.png"><!-- 浅色主题图片 -->
+</div>
+<div class="dark-theme-image">
+  <img src="https://image.youming.us.kg/sbzz-dark.png"><!-- 深色主题图片 -->
+</div>
+
 
 ## <Icon name="mingcute:document-line" color="currentColor" /> 简介
 
 ==MC 鼠标指针== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 
-- 使用了`「新版 MC 材质」`制作，**~~而不是网上的 老版材质~~**；
+- 使用了`「新版 MC 材质」`制作，~~而不是网上的 老版材质~~；
 - 还有一部分鼠标是动态的；
 - 同时红石火把也为最新版的；
 - 在 `1.2` 版本中，支持了右键自动安装（.inf）；
@@ -66,7 +87,27 @@ comments: true
 
 @tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
 
-![](https://image.youming.us.kg/sbzz-yl.png)
+<!-- 根据主题深浅自动切换图片 -->
+<style>
+[data-theme="dark"] .light-theme-image {
+  display: none;
+}
+[data-theme="light"] .dark-theme-image {
+  display: none;
+}
+[data-theme="dark"] .dark-theme-image {
+  display: block;
+}
+[data-theme="light"] .light-theme-image {
+  display: block;
+}
+</style>
+<div class="light-theme-image">
+  <img src="https://image.youming.us.kg/sbzz-yl.png"><!-- 浅色主题图片 -->
+</div>
+<div class="dark-theme-image">
+  <img src="https://image.youming.us.kg/sbzz-yl-dark.png"><!-- 深色主题图片 -->
+</div>
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览&宣传片
 
@@ -102,7 +143,7 @@ comments: true
 ## <Icon name="mingcute:alert-line" color="currentColor" /> 已知问题
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
-- `水平&垂直调整大小` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
+- `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
 
 ## <Icon name="mingcute:mailbox-line" color="currentColor" /> 粉丝建议
 

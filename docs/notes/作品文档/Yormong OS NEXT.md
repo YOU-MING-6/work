@@ -4,7 +4,7 @@ author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:round-line
 createTime: 2024-07-27
 tags:
-  - 正在更新
+  - 暂停更新
   - YM PPT项目
   - PPT
 permalink: /notes/Yormong-OS-NEXT.html
@@ -13,7 +13,7 @@ comments: true
 ---
 
 ::: warning 更新状态
-此作品目前 `正在托更`  
+此作品目前 `暂停更新`  
 当前为 `概念版`
 :::
 

@@ -1,6 +1,7 @@
 ---
 title: MC 片头&尾
 author: YOU MING 柚明
+icon: mingcute:video-line
 createTime: 2024-11-09
 tags:
 - 更新历史
@@ -13,6 +14,19 @@ comments: false
 这是作品文档的`更新历史`文档  
 [返回主文档](/notes/MC-片头_尾.html)
 :::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
+
+## ◉ 暂停更新
+::: warning 暂停更新
+- <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 `MC 片头&尾`
+
+::: right
+**2024.11.10**
+:::
+
 
 ## ● 11月09日 <Badge text="正式版" type="tip" />
 ### ✨更新
@@ -31,6 +45,11 @@ comments: false
 ::: right
 **2024**
 :::
+
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2023</p>
+</div>
 
 
 ## ● 2023年 <Badge text="内测版" type="danger" />

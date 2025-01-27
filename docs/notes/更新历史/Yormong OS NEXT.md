@@ -1,6 +1,7 @@
 ---
 title: Yormong OS NEXT
 author: YOU MING 柚明
+icon: mingcute:round-line
 createTime: 2024-07-27
 tags:
 - 更新历史
@@ -13,6 +14,20 @@ comments: false
 这是作品文档的更新历史文档  
 [返回主文档](/notes/Yormong-OS-NEXT.html)
 :::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
+
+
+## ◉ 暂停更新
+::: warning 暂停更新
+- <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 `Yormong OS NEXT`
+
+::: right
+**2024.8.1**
+:::
+
 
 ## ● 0.0.2 <Badge text="概念版" type="warning" />
 ### ✨更新

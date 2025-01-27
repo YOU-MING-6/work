@@ -1,6 +1,7 @@
 ---
 title: YM 虚拟机
 author: YOU MING 柚明
+icon: mingcute:chart-pie-2-line
 createTime: 2024-07-27
 tags:
 - 更新历史
@@ -13,6 +14,11 @@ comments: false
 这是作品文档的更新历史文档  
 [返回主文档](/notes/YM-虚拟机.html)
 :::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
+</div>
+
 
 ::: tip 共同更新
 - 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品 `YM 虚拟机`
@@ -98,6 +104,11 @@ comments: false
 ::: right
 **2024.6.15**
 :::
+
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2023</p>
+</div>
 
 
 ## ◉ 暂停更新

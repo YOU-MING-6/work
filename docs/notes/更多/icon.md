@@ -56,8 +56,6 @@ mingcute:bulb-line
 mingcute:key-2-line
 - <Icon name="mingcute:alert-line" color="currentColor" /> 举报违规行为
 mingcute:alert-line
-- <Icon name="mingcute:pencil-3-line" color="currentColor" /> 留言板
-mingcute:pencil-3-line
 
 - <Icon name="mingcute:more-3-line" color="currentColor" /> 更多
 mingcute:more-3-line

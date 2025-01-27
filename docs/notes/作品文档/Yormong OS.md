@@ -4,7 +4,7 @@ author: YOU MING 柚明 ︱ 某团一笑 ︱ Afly-dream
 icon: mingcute:classify-3-line
 createTime: 2024-07-27
 tags:
-  - 正在更新
+  - 暂停更新
   - YM PPT项目
   - PPT
 permalink: /notes/Yormong-OS.html
