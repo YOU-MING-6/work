@@ -28,7 +28,6 @@ const routeLocale = useRouteLocale();
       <slot name="nav-bar-title-after" />
     </VPLink>
 
-<a href="/千万别点.html">
   <!-- 灯笼1 -->
   <div class="deng-box">
     <div class="deng">
@@ -42,9 +41,8 @@ const routeLocale = useRouteLocale();
       </div>
     </div>
   </div>
-</a>
 
-<a href="/千万别点.html">
+<AudioReader src="https://RI.youming.us.kg/gxfc.mp3">
   <!-- 灯笼2 -->
   <div class="deng-box1">
     <div class="deng">
@@ -58,9 +56,9 @@ const routeLocale = useRouteLocale();
       </div>
     </div>
   </div>
-</a>
+</AudioReader>
 
-<a href="/千万别点.html">
+<AudioReader src="https://RI.youming.us.kg/gxfc.mp3">
   <!-- 灯笼3 -->
   <div class="deng-box2">
     <div class="deng">
@@ -74,9 +72,8 @@ const routeLocale = useRouteLocale();
       </div>
     </div>
   </div>
-</a>
+</AudioReader>
 
-<a href="/千万别点.html">
   <!-- 灯笼4 -->
   <div class="deng-box3">
     <div class="deng">
@@ -90,8 +87,7 @@ const routeLocale = useRouteLocale();
       </div>
     </div>
   </div>
-</a>
-  </div>
+</div>
 </template>
 
 <style scoped>

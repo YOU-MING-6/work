@@ -1,6 +1,7 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
+  { text: '千万别点', link: '/千万别点.html', icon: 'mingcute:firework-line' },
   { text: '首页', link: '/', icon: 'mingcute:home-4-line' },
   {
     text: '作品文档',

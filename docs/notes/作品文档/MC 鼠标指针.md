@@ -83,7 +83,7 @@ comments: true
 
 ## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
 
-::: tabs
+:::: tabs
 
 @tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
 
@@ -103,26 +103,26 @@ comments: true
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz-yl.png"><!-- 浅色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz-yl.png" width="500px"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz-yl-dark.png"><!-- 深色主题图片 -->
+  <img src="https://RI.youming.us.kg/sbzz-yl-dark.png" width="500px"><!-- 深色主题图片 -->
 </div>
+
+@tab <Icon name="mingcute:mouse-line" color="currentColor" /> 实时预览
+
+::: steps
+- <p style="font-size: 16px;">在左侧选择要预览的鼠标样式</p>
+- <p style="font-size: 16px;">将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式</p><p style="font-size: 16px;">注意是实时预览当前「你」设置的鼠标样式</p>
+:::
+
+<iframe src="https://RI.youming.us.kg/鼠标样式预览.html" width="100%" height="420px" frameborder="0"></iframe>
 
 @tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览&宣传片
 
 <LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
 
-:::
-
-::: details 实时预览
-- 在左侧选择要预览的鼠标样式
-- 将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式
-
-  - 注意是实时预览当前「你」当前设置的鼠标样式
-
-<iframe src="https://api.youming.us.kg/鼠标样式预览.html" width="100%" height="400px" frameborder="0"></iframe>
-:::
+::::
 
 ## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
 
