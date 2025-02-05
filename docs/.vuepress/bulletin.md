@@ -1,8 +1,3 @@
-
-<p style="font-size: 30px; font-weight: 800; margin-top: 30px; text-align: center; color: #fa5252;" >
-  <a href="/千万别点.html" style="font-size: inherit; font-weight: inherit; margin-top: inherit; text-align: inherit; color: inherit;">👉千万别点👈</a>
-</p>
-
 <p style="font-size: 26px; font-weight: 650; margin-top: 30px; ">欢迎</p>
 
 欢迎来到 ==Youming 工作室== 的官方作品文档！

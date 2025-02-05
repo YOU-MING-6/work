@@ -1,7 +1,8 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-import { getDirname, path } from "vuepress/utils";
+import { path } from "vuepress/utils";
+// import { getDirname } from "vuepress/utils";
 
 export default defineUserConfig({
   base: '/',
@@ -14,12 +15,12 @@ export default defineUserConfig({
   ],
 
   // 取消灯笼装饰请删除 alias 的配置、删除本文件中第四行的内容、docs\.vuepress\theme\components\lantern.vue 的文件
-  alias: {
-    "@theme/Nav/VPNavBarTitle.vue": path.resolve(
-      __dirname,
-      "./theme/components/lantern.vue"
-    ),
-  },
+  // alias: {
+  //   "@theme/Nav/VPNavBarTitle.vue": path.resolve(
+  //     __dirname,
+  //     "./theme/components/lantern.vue"
+  //   ),
+  // },
 
   shouldPrefetch: false, // 是否开启预加载
 
