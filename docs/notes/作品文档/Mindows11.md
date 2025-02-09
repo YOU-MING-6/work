@@ -2,7 +2,7 @@
 title: Mindows11
 author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:layout-grid-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
   - 停止支持
   - YM PPT项目
@@ -31,19 +31,19 @@ comments: true
 
 ![](https://RI.youming.us.kg/min11.png)
 
-## <Icon name="mingcute:document-line" color="currentColor" /> 简介
+## <Icon name="mingcute:document-line]: 简介
 
 ==Mindows11== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.4.14` 开始制作的  `PPT 系统`；
 
-- 此 PPT 图片及动图来源于网络      (侵删)
-- 界面设计参考于网络                 (侵删)
+- 此 PPT 图片及动图来源于网络
+- 界面设计参考于网络
 - 此PPT使用了一些 PPT 插件
 
 ::: tip 版本
 当前最新版本：`4.2 正式版`
 :::
 
-## <Icon name="mingcute:contacts-3-line" color="currentColor" /> 创作人员
+## <Icon name="mingcute:contacts-3-line]: 创作人员
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" /> <Badge text="某团一笑" type="info" />
 
@@ -55,29 +55,31 @@ comments: true
     现在，让我们来看看答案。
 </LinkCard>
 
-## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
+## :[mingcute:pencil-3-line]: 作品使用权限
 
-::: important 编辑与发布
-这是一个开源项目，你可以直接下载此文件进行编辑，无需标注其他信息；如果你愿意，你也可以标注。  
-发布后请不要标注此文件归你所有，**这并不道德**。
+<strong>作品引用内容：</strong>
+
+- 图片及动图
+
+::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
 
-## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
+## <Icon name="mingcute:eye-2-line]: 预览
 ::: tabs
 
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
+@tab <Icon name="mingcute:film-line]: 视频预览
 
 <LinkCard title="哔哩哔哩 - 合集" icon="mingcute:bilibili-fill" href="https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698"></LinkCard>
 
 :::
 
-## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
+## <Icon name="mingcute:history-anticlockwise-line]: 更新历史
 
 [查看更新历史](/notes/更新历史/Mindows11.html)
 
-## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+## <Icon name="mingcute:arrow-to-down-line]: 下载链接
 
-::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+::: details <Icon name="mingcute:file-info-line]: 文件属性
 
 <CardGrid>
   <Card title="Min11 v4.2安装.pptx" icon="mingcute:ppt-line">
@@ -101,22 +103,22 @@ comments: true
 
 ::: tabs
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云
+@tab <Icon name="mingcute:cloud-line]: 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
 - 提取码：`hi3x`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
+@tab <Icon name="mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 夸克网盘
+@tab <Icon name="mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 百度网盘
+@tab <Icon name="mingcute:cloud-line]: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`

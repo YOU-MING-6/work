@@ -2,7 +2,7 @@
 title: Floating OS
 author: YOU MING 柚明
 icon: mingcute:album-line
-createTime: 2024-08-05
+createTime: 2024/08/05
 tags:
 - 更新历史
 permalink: /notes/更新历史/Floating-OS.html
@@ -47,7 +47,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 [返回主文档](/notes/Floating-OS.html)
 :::

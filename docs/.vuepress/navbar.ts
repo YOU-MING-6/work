@@ -167,7 +167,27 @@ export const navbar = defineNavbarConfig([
             icon: 'mingcute:alert-line',
           }
         ],
-      }
+      },
+      {
+        text: '协议',
+        items: [
+          {
+            text: '开源作品使用权限协议',
+            link: '/notes/协议/开源.html',
+            icon: 'mingcute:pencil-3-line',
+          },
+          {
+            text: '非开源作品授权协议',
+            link: '/notes/协议/申请.html',
+            icon: 'mingcute:lock-line',
+          },
+          {
+            text: '闭源作品使用权限协议',
+            link: '/notes/协议/闭源.html',
+            icon: 'mingcute:forbid-circle-line',
+          },
+        ],
+      },
     ],
   },
   {
@@ -186,6 +206,26 @@ export const navbar = defineNavbarConfig([
             text: '指南',
             link: '/指南.html',
             icon: 'mingcute:compass-3-line',
+          },
+        ],
+      },
+      {
+        text: '协议',
+        items: [
+          {
+            text: '开源作品使用权限协议',
+            link: '/notes/协议/开源.html',
+            icon: 'mingcute:pencil-3-line',
+          },
+          {
+            text: '非开源作品授权协议',
+            link: '/notes/协议/申请.html',
+            icon: 'mingcute:key-2-line',
+          },
+          {
+            text: '闭源作品使用权限协议',
+            link: '/notes/协议/闭源.html',
+            icon: 'mingcute:forbid-circle-line',
           },
         ],
       },

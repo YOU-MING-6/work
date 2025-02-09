@@ -2,7 +2,7 @@
 title: MC 鼠标指针
 author: YOU MING 柚明
 icon: mingcute:mouse-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
 - 更新历史
 permalink: /notes/更新历史/MC-鼠标指针.html
@@ -18,6 +18,27 @@ comments: false
 <div style="text-align: center; ">
     <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2025</p>
 </div>
+
+
+## ● 1.9 <Badge text="内测版" type="danger" />
+### ✨更新
+
+- 删除 “16,8 M 颜色” 更改为 “RJB/A 颜色”
+- 文本选择 更改为 末地烛 样式
+- 链接选择 更改为可循环样式，旧版移动至 更多选择
+- 个人选择 更改为可循环样式，旧版移动至 更多选择
+
+### 🪐优化提升
+
+- 优化了 更多选择 的部分精确选择样式
+
+### 🐛BUG修复
+
+- 修复了 更多选择 的精确选择样式顶点不正确的问题
+
+::: right
+**2025.2.6**
+:::
 
 
 ## ● 1.8 <Badge text="正式版" type="tip" />
@@ -42,7 +63,7 @@ comments: false
 ## ● 1.7 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 删除了 更多选择 的部分 精确选择 样式
+- 删除了 更多选择 的部分精确选择样式
 
 ### 🪐优化提升
 
@@ -210,7 +231,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 [返回主文档](/notes/MC-鼠标指针.html)
 :::

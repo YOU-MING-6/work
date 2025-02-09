@@ -2,7 +2,7 @@
 title: YM 虚拟机
 author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:chart-pie-2-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
   - 暂停更新
   - YM PPT项目
@@ -26,7 +26,7 @@ comments: true
 
 ![](https://RI.youming.us.kg/xnj.png)
 
-## <Icon name="mingcute:document-line" color="currentColor" /> 简介
+## :[mingcute:document-line]: 简介
 
 ==YM 虚拟机== 是由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.5.2` 开始制作的一个 `PPT 项目`；
 
@@ -39,7 +39,7 @@ comments: true
 当前最新版本：`v2.0.0 内测版` `(v2.0.0.20240616.187)`
 :::
 
-## <Icon name="mingcute:contacts-3-line" color="currentColor" /> 创作人员
+## :[mingcute:contacts-3-line]: 创作人员
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" /> <Badge text="某团一笑" type="info" />
 
@@ -51,23 +51,23 @@ comments: true
     现在，让我们来看看答案。
 </LinkCard>
 
-## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
+## :[mingcute:pencil-3-line]: 编辑与发布
 
 ::: important 编辑与发布
 这是一个闭源作品，不支持申请编辑发布权。
 :::
 
-## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
+## :[mingcute:eye-2-line]: 预览
 
 ::: warning
 没有可用的预览。
 :::
 
-## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
+## :[mingcute:history-anticlockwise-line]: 更新历史
 
 [查看更新历史](/notes/更新历史/YM-虚拟机.html)
 
-## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+## :[mingcute:arrow-to-down-line]: 下载链接
 
 ::: warning
 没有可用的下载链接。

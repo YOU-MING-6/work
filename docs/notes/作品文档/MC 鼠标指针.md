@@ -2,7 +2,7 @@
 title: MC 鼠标指针
 author: YOU MING 柚明
 icon: mingcute:mouse-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
   - 正在更新
   - YM 作品项目
@@ -21,7 +21,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM 作品项目`  
-这是一个开源项目。[查看编辑发布权](#编辑与发布)
+这是一个开源项目。[查看作品使用权限](#作品使用权限)
 :::
 
 ---
@@ -49,7 +49,7 @@ comments: true
 </div>
 
 
-## <Icon name="mingcute:document-line" color="currentColor" /> 简介
+## :[mingcute:document-line]: 简介
 
 ==MC 鼠标指针== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
 
@@ -66,7 +66,7 @@ comments: true
 当前最新版本：`1.8 正式版`
 :::
 
-## <Icon name="mingcute:contacts-3-line" color="currentColor" /> 创作人员
+## :[mingcute:contacts-3-line]: 创作人员
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
 
@@ -74,18 +74,21 @@ comments: true
     一个不知名创作者
 </LinkCard>
 
-## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
+## :[mingcute:pencil-3-line]: 作品使用权限
 
-::: important 编辑与发布
-这是一个开源项目，你可以直接下载此文件进行编辑，无需标注其他信息；如果你愿意，你也可以标注。  
-发布后请不要标注此文件归你所有，**这并不道德**。
+<strong>作品引用内容：</strong>
+
+- [Mojang Minecraft](https://www.minecraft.net/) 部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
+- [中文Minecraft Wiki](https://zh.minecraft.wiki/) 部分图片内容（遵循[此条款](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%BD%AC%E8%BD%BD%E9%A1%BB%E7%9F%A5)）
+
+::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
 
-## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
+## :[mingcute:eye-2-line]: 预览
 
 :::: tabs
 
-@tab <Icon name="mingcute:pic-line" color="currentColor" /> 图片预览
+@tab :[mingcute:pic-line]: 图片预览
 
 <!-- 根据主题深浅自动切换图片 -->
 <style>
@@ -109,7 +112,7 @@ comments: true
   <img src="https://RI.youming.us.kg/sbzz-yl-dark.png" width="500px"><!-- 深色主题图片 -->
 </div>
 
-@tab <Icon name="mingcute:mouse-line" color="currentColor" /> 实时预览
+@tab :[mingcute:mouse-line]: 实时预览
 
 ::: steps
 - <p style="font-size: 16px;">在左侧选择要预览的鼠标样式</p>
@@ -118,17 +121,17 @@ comments: true
 
 <iframe src="https://RI.youming.us.kg/鼠标样式预览.html" width="100%" height="420px" frameborder="0"></iframe>
 
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览&宣传片
+@tab :[mingcute:film-line]: 视频预览&宣传片
 
 <LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
 
 ::::
 
-## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
+## :[mingcute:bulb-line]: 教程
 
 ::: tabs
 
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 通用安装方式
+@tab :[mingcute:film-line]: 通用安装方式
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1EJegeBERB"></LinkCard>
 
@@ -136,16 +139,16 @@ comments: true
 
 :::
 
-## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
+## :[mingcute:history-anticlockwise-line]: 更新历史
 
 [查看更新历史](/notes/更新历史/MC-鼠标指针.html)
 
-## <Icon name="mingcute:alert-line" color="currentColor" /> 已知问题
+## :[mingcute:alert-line]: 已知问题
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
 
-## <Icon name="mingcute:mailbox-line" color="currentColor" /> 粉丝建议
+## :[mingcute:mailbox-line]: 粉丝建议
 
 ::: demo-wrapper
 
@@ -178,9 +181,9 @@ comments: true
 如果你不想在这里展示，请向我们发送反馈以删除此信息。
 :::
 
-## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+::: details :[mingcute:file-info-line]: 文件属性
 
 <CardGrid>
   <Card title="v1.8-鼠标光标.7z" icon="mingcute:file-zip-line">
@@ -195,22 +198,22 @@ comments: true
 
 ::: tabs
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 蓝奏云
+@tab :[mingcute:cloud-line]: 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
+@tab :[mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 夸克网盘
+@tab :[mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 百度网盘
+@tab :[mingcute:cloud-line]: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`

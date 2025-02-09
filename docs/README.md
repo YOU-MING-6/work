@@ -33,15 +33,15 @@ config:
         link: /公告.md
       -
         title: YM 作品项目
-        icon: fluent-emoji:open-book
+        icon: mingcute:book-line
         details: 我们制作的可以使用的作品项目
       -
         title: YM PPT项目
-        icon: fluent-emoji:keyboard
+        icon: mingcute:ppt-line
         details: 我们使用PPT制作的项目
       -
         title: YM 网站项目
-        icon: fluent-emoji:globe-showing-asia-australia
+        icon: mingcute:earth-line
         details: 我们制作的 website 项目
       -
         title: 反馈中心

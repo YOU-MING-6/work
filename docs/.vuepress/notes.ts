@@ -91,6 +91,44 @@ const demofeedback = defineNoteConfig({
       ]
     },
     {
+      text: '协议',
+      items: [
+        { text: '开源作品使用权限协议', link: '/notes/协议/开源.html'},
+        { text: '非开源作品授权协议', link: '/notes/协议/申请.html'},
+        { text: '闭源作品使用权限协议', link: '/notes/协议/闭源.html'},
+      ],
+    },
+    {
+      text: '更多',
+      prefix: '',
+      items: [
+        { text: '主文档', link: '/notes/MC-鼠标指针'},
+        { text: '社交链接页', link: '/链接.html'}
+      ]
+    },
+  ],
+})
+
+const demoagreement = defineNoteConfig({
+  dir: '/notes/协议',
+  link: '/notes/协议',
+  sidebar: [
+    {
+      text: '反馈',
+      prefix: '',
+      items: [
+        { text: '导航', link: '/notes/反馈中心/'}
+      ]
+    },
+    {
+      text: '协议',
+      items: [
+        { text: '开源作品使用权限协议', link: '/notes/协议/开源.html'},
+        { text: '非开源作品授权协议', link: '/notes/协议/申请.html'},
+        { text: '闭源作品使用权限协议', link: '/notes/协议/闭源.html'},
+      ],
+    },
+    {
       text: '更多',
       prefix: '',
       items: [
@@ -128,5 +166,5 @@ const demoMore = defineNoteConfig({
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [demoNotes,demoHistory,demofeedback,demoMore],
+  notes: [demoNotes,demoHistory,demofeedback,demoagreement,demoMore],
 })

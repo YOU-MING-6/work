@@ -2,7 +2,7 @@
 title: MC 片头&尾
 author: YOU MING 柚明
 icon: mingcute:video-line
-createTime: 2024-11-09
+createTime: 2024/11/09
 tags:
   - 正在更新
   - YM 作品项目
@@ -26,7 +26,7 @@ comments: true
 
 ![](https://RI.youming.us.kg/mc-pt.png)
 
-## <Icon name="mingcute:document-line" color="currentColor" /> 简介
+## :[mingcute:document-line]: 简介
 
 ==MC 片头&片尾== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2024` 开始制作的一个 `YM 作品项目`。
 
@@ -36,7 +36,7 @@ comments: true
 当前版本：`正式版`
 :::
 
-## <Icon name="mingcute:contacts-3-line" color="currentColor" /> 创作人员
+## :[mingcute:contacts-3-line]: 创作人员
 
 参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
 
@@ -44,17 +44,19 @@ comments: true
     一个不知名创作者
 </LinkCard>
 
-## <Icon name="mingcute:pencil-3-line" color="currentColor" /> 编辑与发布
+## :[mingcute:pencil-3-line]: 作品使用权限
 
-::: important 编辑与发布
-这是一个开源项目，你可以直接下载此文件进行编辑，无需标注其他信息；如果你愿意，你也可以标注。  
-发布后请不要标注此文件归你所有，**这并不道德**。
-:::
+<strong>作品引用内容：</strong>
 
-## <Icon name="mingcute:eye-2-line" color="currentColor" /> 预览
+- [Mojang Minecraft](https://www.minecraft.net/) 视频开头  
+  （遵循[此条款](https://www.minecraft.net/usage-guidelines)）
+
+使用权限：[《开源作品使用权限协议》](/notes/协议/开源.html)
+
+## :[mingcute:eye-2-line]: 预览
 ::: tabs
 
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频预览
+@tab :[mingcute:film-line]: 视频预览
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
 
@@ -62,10 +64,10 @@ comments: true
 
 :::
 
-## <Icon name="mingcute:bulb-line" color="currentColor" /> 教程
+## :[mingcute:bulb-line]: 教程
 ::: tabs
 
-@tab <Icon name="mingcute:film-line" color="currentColor" /> 视频教程
+@tab :[mingcute:film-line]: 视频教程
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
 
@@ -73,13 +75,13 @@ comments: true
 
 :::
 
-## <Icon name="mingcute:history-anticlockwise-line" color="currentColor" /> 更新历史
+## :[mingcute:history-anticlockwise-line]: 更新历史
 
 [查看更新历史](/notes/更新历史/MC-片头_尾.html)
 
-## <Icon name="mingcute:arrow-to-down-line" color="currentColor" /> 下载链接
+## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details <Icon name="mingcute:file-info-line" color="currentColor" /> 文件属性
+::: details :[mingcute:file-info-line]: 文件属性
 
 <CardGrid>
   <Card title="MC 片头&尾.zip" icon="mingcute:file-zip-line">
@@ -91,7 +93,7 @@ comments: true
 
 ::: tabs
 
-@tab <Icon name="mingcute:cloud-line" color="currentColor" /> 123 网盘
+@tab :[mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123684.com/s/9ZtpTd-7Rqov](https://www.123684.com/s/9ZtpTd-7Rqov)
 - 备用下载链接：[https://www.123865.com/s/9ZtpTd-7Rqov](https://www.123865.com/s/9ZtpTd-7Rqov)

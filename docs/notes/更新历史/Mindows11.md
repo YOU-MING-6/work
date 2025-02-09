@@ -2,7 +2,7 @@
 title: Mindows11
 author: YOU MING 柚明
 icon: mingcute:layout-grid-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
 - 更新历史
 permalink: /notes/更新历史/Mindows11.html
@@ -164,7 +164,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 [返回主文档](/notes/MC-鼠标指针.html)
 :::

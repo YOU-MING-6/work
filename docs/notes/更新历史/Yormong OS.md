@@ -2,7 +2,7 @@
 title: Yormong OS
 author: YOU MING 柚明
 icon: mingcute:classify-3-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
 - 更新历史
 permalink: /notes/更新历史/Yormong-OS.html
@@ -49,7 +49,7 @@ comments: false
 :::
 
 
-## ● <Icon name="mingcute:pencil-ruler-line" color="currentColor" /> 共同更新
+## ● :[mingcute:pencil-ruler-line]: 共同更新
 ::: tip 共同更新
 - 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品 `Yormong OS`
 
@@ -472,7 +472,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 [返回主文档](/notes/Yormong-OS.html)
 :::

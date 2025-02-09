@@ -2,7 +2,7 @@
 title: YM 安全中心
 author: YOU MING 柚明
 icon: mingcute:safety-certificate-line
-createTime: 2024-07-27
+createTime: 2024/07/27
 tags:
 - 更新历史
 permalink: /notes/更新历史/YM-安全中心.html
@@ -63,7 +63,7 @@ comments: false
 :::
 
 
-## ◉ 更新记录损坏 <Icon name="mingcute:alert-line" color="currentColor" />
+## ◉ 更新记录损坏 :[mingcute:alert-line]:
 ::: caution 未知
 
 - 此处的更新记录已损坏。
@@ -92,7 +92,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 这是作品文档的更新历史文档
 [返回主文档](/notes/YM-安全中心.html)

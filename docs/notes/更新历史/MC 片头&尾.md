@@ -2,7 +2,7 @@
 title: MC 片头&尾
 author: YOU MING 柚明
 icon: mingcute:video-line
-createTime: 2024-11-09
+createTime: 2024/11/09
 tags:
 - 更新历史
 permalink: /notes/更新历史/MC-片头-尾.html
@@ -101,7 +101,7 @@ comments: false
 :::
 
 
-## <Icon name="mingcute:back-line" color="currentColor" /> 返回
+## :[mingcute:back-line]: 返回
 ::: info 返回
 [返回主文档](/notes/MC-片头_尾.html)
 :::
