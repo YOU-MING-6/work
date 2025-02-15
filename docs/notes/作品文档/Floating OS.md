@@ -4,15 +4,17 @@ author: 某团一笑 ︱ Afly-dream
 icon: mingcute:album-line
 createTime: 2024/08/05
 tags:
-  - 正在构建
+  - 已停止构建
   - YM 作品项目
 permalink: /notes/Floating-OS.html
 # 评论功能
 comments: true
 ---
+::: warning 
+非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到`(v0.0.1 Build 2024121207)`
 
 ::: tip 更新状态
-此作品目前 `正在构建`  
+此作品目前 `已停止构建构建`  
 当前为 `构建版`
 :::
 
@@ -31,8 +33,9 @@ comments: true
 
 - 这是一个真实的`自研系统`，不是 PPT
 
+
 ::: tip 版本
-当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024080501)`
+当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024121207)`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员

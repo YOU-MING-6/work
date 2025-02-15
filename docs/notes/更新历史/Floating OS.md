@@ -19,6 +19,8 @@ comments: false
     <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2024</p>
 </div>
 
+::: warning 
+非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到`(v0.0.1 Build 2024121207)`
 
 ## ● 0.0.1 <Badge text="构建版" type="danger" />
 ### ✨更新
