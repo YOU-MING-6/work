@@ -24,7 +24,7 @@ comments: true
 
 ---
 
-![](https://RI.youming.us.kg/aqzx.png)
+![](https://ri.youming.v6.army/aqzx.png)
 
 ## :[mingcute:document-line]: 简介
 
@@ -40,22 +40,20 @@ comments: true
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
+发起者：<Badge text="YOU MING 柚明" type="warning" />
 
-<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 编辑与发布
+## :[mingcute:pencil-3-line]: 作品权限
 
-::: important 编辑与发布
-这是一个闭源作品，不支持申请编辑发布权。
+::: important 要查看此作品，请遵守 [《闭源作品使用权限协议》](/notes/协议/闭源.html)。
 :::
 
 ## :[mingcute:eye-2-line]: 预览
 
-::: warning
-没有可用的预览。
+::: warning 没有可用的预览。
 :::
 
 ## :[mingcute:history-anticlockwise-line]: 更新历史
@@ -64,6 +62,8 @@ comments: true
 
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: warning
-没有可用的下载链接。
+::: warning 没有可用的下载链接。
+:::
+
+::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::

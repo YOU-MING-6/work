@@ -471,8 +471,8 @@ comments: false
 **2024.1.24**
 :::
 
+<p style="margin-top: 100px"></p>
 
-## :[mingcute:back-line]: 返回
-::: info 返回
-[返回主文档](/notes/Yormong-OS.html)
-:::
+---
+
+> 你已经到了世界的尽头，没有更多的东西了。

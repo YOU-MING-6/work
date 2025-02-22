@@ -91,9 +91,8 @@ comments: false
 **2023.5.2**
 :::
 
+<p style="margin-top: 100px"></p>
 
-## :[mingcute:back-line]: 返回
-::: info 返回
-这是作品文档的更新历史文档
-[返回主文档](/notes/YM-安全中心.html)
-:::
+---
+
+> 你已经到了世界的尽头，没有更多的东西了。

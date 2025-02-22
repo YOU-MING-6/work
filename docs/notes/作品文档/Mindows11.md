@@ -18,18 +18,17 @@ comments: true
 当前为 `正式版`
 :::
 
-::: warning 警告
-这是一个早期作品
+::: warning 这是一个早期作品
 :::
 
 ::: info 项目
 这是一个 `YM PPT项目`  
-这是一个开源项目。[查看编辑发布权](#编辑与发布)
+这是一个开源项目。[查看作品权限](#作品权限)
 :::
 
 ---
 
-![](https://RI.youming.us.kg/min11.png)
+![](https://ri.youming.v6.army/min11.png)
 
 ## :[mingcute:document-line]: 简介
 
@@ -45,26 +44,29 @@ comments: true
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-参与创作的人员：<Badge text="YOU MING 柚明" type="info" /> <Badge text="某团一笑" type="info" />
+发起者：<Badge text="YOU MING 柚明" type="warning" />
 
-<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+参与创作的人员：<Badge text="某团一笑" type="info" />
+
+<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-<LinkCard title="某团一笑" icon="https://RI.youming.us.kg/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
+<LinkCard title="某团一笑" icon="https://ri.youming.v6.army/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
     现在，让我们来看看答案。
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品使用权限
-
-<strong>作品引用内容：</strong>
-
-- 图片及动图
+## :[mingcute:pencil-3-line]: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
 
+**作品引用内容：**
+
+- 图片及动图（网络）
+
 ## :[mingcute:eye-2-line]: 预览
+
 ::: tabs
 
 @tab :[mingcute:film-line]: 视频预览
@@ -108,19 +110,70 @@ comments: true
 - 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
 - 提取码：`hi3x`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
 @tab :[mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
+
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
 
 @tab :[mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
 @tab :[mingcute:cloud-line]: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
+:::
+
+::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::

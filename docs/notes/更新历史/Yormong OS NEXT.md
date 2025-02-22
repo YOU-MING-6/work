@@ -76,7 +76,8 @@ comments: false
 **2024.7.16**
 :::
 
-## :[mingcute:back-line]: 返回
-::: info 返回
-[返回主文档](/notes/Yormong-OS-NEXT.html)
-:::
+<p style="margin-top: 100px"></p>
+
+---
+
+> 你已经到了世界的尽头，没有更多的东西了。

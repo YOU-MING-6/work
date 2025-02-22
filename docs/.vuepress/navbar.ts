@@ -235,7 +235,12 @@ export const navbar = defineNavbarConfig([
           {
             text: '工作室',
             link: '/notes/更多/工作室.html',
-            icon: 'https://RI.youming.us.kg/ym-work-icon.svg',
+            icon: 'https://ri.youming.v6.army/ym-work-icon.svg',
+          },
+          {
+            text: '此网站',
+            link: '/notes/作品文档.html',
+            icon: 'mingcute:book-2-line',
           },
           {
             text: '更新日志',

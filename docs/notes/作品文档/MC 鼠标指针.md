@@ -21,7 +21,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM 作品项目`  
-这是一个开源项目。[查看作品使用权限](#作品使用权限)
+这是一个开源项目。[查看作品使用权限](#作品权限)
 :::
 
 ---
@@ -42,10 +42,10 @@ comments: true
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz.png"><!-- 浅色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz.png"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz-dark.png"><!-- 深色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz-dark.png"><!-- 深色主题图片 -->
 </div>
 
 
@@ -68,20 +68,24 @@ comments: true
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-参与创作的人员：<Badge text="YOU MING 柚明" type="info" />
+发起者：<Badge text="YOU MING 柚明" type="warning" />
 
-<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品使用权限
-
-<strong>作品引用内容：</strong>
-
-- [Mojang Minecraft](https://www.minecraft.net/) 部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
-- [中文Minecraft Wiki](https://zh.minecraft.wiki/) 部分图片内容（遵循[此条款](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%BD%AC%E8%BD%BD%E9%A1%BB%E7%9F%A5)）
+## :[mingcute:pencil-3-line]: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
+:::
+
+::: card title="作品引用内容："
+
+- [Mojang Minecraft](https://www.minecraft.net/)  
+  部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
+- [中文Minecraft Wiki](https://zh.minecraft.wiki/)  
+  部分图片内容（遵循[此条款](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%BD%AC%E8%BD%BD%E9%A1%BB%E7%9F%A5)）
+
 :::
 
 ## :[mingcute:eye-2-line]: 预览
@@ -106,10 +110,10 @@ comments: true
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz-yl.png" width="500px"><!-- 浅色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz-yl.png" width="500px"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://RI.youming.us.kg/sbzz-yl-dark.png" width="500px"><!-- 深色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz-yl-dark.png" width="500px"><!-- 深色主题图片 -->
 </div>
 
 @tab :[mingcute:mouse-line]: 实时预览
@@ -119,7 +123,7 @@ comments: true
 - <p style="font-size: 16px;">将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式</p><p style="font-size: 16px;">注意是实时预览当前「你」设置的鼠标样式</p>
 :::
 
-<iframe src="https://RI.youming.us.kg/鼠标样式预览.html" width="100%" height="420px" frameborder="0"></iframe>
+<iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="420px" frameborder="0"></iframe>
 
 @tab :[mingcute:film-line]: 视频预览&宣传片
 
@@ -144,6 +148,7 @@ comments: true
 [查看更新历史](/notes/更新历史/MC-鼠标指针.html)
 
 ## :[mingcute:alert-line]: 已知问题
+
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
@@ -153,8 +158,6 @@ comments: true
 ::: demo-wrapper
 
 <div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
-    <a><img src="https://i1.hdslb.com/bfs/face/627d26c0cf659fd7c6520f680c22bbecc0e2b5c9.jpg@96w_96h.avif" 
-        style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;"></a>
     <div>
         <div style="font-size: 14px; color: gray; font-weight: bold;">Minecraft唯艺<Badge type="warning" text="等待使用" /></div>
         <div>这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？</div>
@@ -166,8 +169,6 @@ comments: true
 <hr>
 
 <div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
-    <a><img src="https://i2.hdslb.com/bfs/face/60fb9a46777a77df1c8aa7ef47b0a578e85d6eef.jpg@96w_96h.avif"
-        style="width: 55px; height: 55px; border-radius: 50%; margin-right: 10px; border: 1px solid #777;"></a>
     <div>
         <div style="font-size: 14px; color: gray; font-weight: bold;">VIP-ID<Badge type="warning" text="等待使用" /></div>
         <div>能不能把钟改成动的指南针</div>
@@ -203,19 +204,70 @@ comments: true
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
 @tab :[mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
+
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
 
 @tab :[mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
 @tab :[mingcute:cloud-line]: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
 
+<a href="/必看-开源.html" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: var(--vp-c-bg-safe);
+    color: var(--vp-c-text-primary);">
+    下载后必看（开源作品）
+</a>
+
+:::
+
+::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::

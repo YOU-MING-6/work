@@ -19,12 +19,12 @@ comments: true
 
 ::: info 项目
 这是一个 `YM PPT项目`  
-这是一个非开源项目。[申请编辑发布权](#编辑与发布)
+这是一个非开源项目。[申请编辑发布权](#作品权限)
 :::
 
 ---
 
-![](https://RI.youming.us.kg/ym-os.png)
+![](https://ri.youming.v6.army/ym-os.png)
 
 ## :[mingcute:document-line]: 简介
 
@@ -41,25 +41,31 @@ comments: true
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-参与创作的人员：<Badge text="YOU MING 柚明" type="info" /> <Badge text="某团一笑" type="info" /> <Badge text="Afly-dream" type="info" />
+发起者：<Badge text="YOU MING 柚明" type="warning" />
 
-<LinkCard title="YOU MING 柚明" icon="https://RI.youming.us.kg/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+参与创作的人员：<Badge text="某团一笑" type="info" /> <Badge text="Afly-dream" type="info" />
+
+<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-<LinkCard title="某团一笑" icon="https://RI.youming.us.kg/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
+<LinkCard title="某团一笑" icon="https://ri.youming.v6.army/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
     现在，让我们来看看答案。
 </LinkCard>
 
-<LinkCard title="Afly-dream" icon="https://RI.youming.us.kg/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
+<LinkCard title="Afly-dream" icon="https://ri.youming.v6.army/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
     有梦想，才能有希望。
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 编辑与发布
+## :[mingcute:pencil-3-line]: 作品权限
 
-::: important 编辑与发布
-目前为公测版，暂不支持申请编辑发布权。
+::: important 要使用或修改此作品，请遵守 [《非开源作品授权协议》](/notes/协议/申请.html)。
 :::
+
+**作品引用内容：**
+
+- 图片及动图（网络）
+- 界面设计（网络）
 
 ## :[mingcute:eye-2-line]: 预览
 ::: tabs
@@ -102,6 +108,8 @@ comments: true
 
   - 当前文件为公测版，不代表最终产品。
 
+[下载后必看(非开源)](/必看-非开源.html)
+
 @tab :[mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/23d9fa54bde4](https://pan.quark.cn/s/23d9fa54bde4)
@@ -109,4 +117,9 @@ comments: true
 
   - 当前文件为公测版，不代表最终产品。
 
+[下载后必看(非开源)](/必看-非开源.html)
+
+:::
+
+::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::

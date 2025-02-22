@@ -7,7 +7,7 @@ list:
   -
     name: YOU MING 柚明
     link: /notes/更多/工作室.html#you-ming-柚明
-    avatar: https://RI.youming.us.kg/ym-ys.png
+    avatar: https://ri.youming.v6.army/ym-ys.png
     location: 中国
     organization: Youming 工作室
     desc: 在放弃之前，成功的可能性永远不会归零。
@@ -28,7 +28,7 @@ groups:
       -
         name: 某团一笑
         link: /notes/更多/工作室.html#某团一笑
-        avatar: https://RI.youming.us.kg/tx-2-ys.png
+        avatar: https://ri.youming.v6.army/tx-2-ys.png
         location: 中国
         organization: Youming 工作室
         desc: 现在，让我们来看看答案。
@@ -42,7 +42,7 @@ groups:
       -
         name: Afly-dream
         link: /notes/更多/工作室.html#afly-dream
-        avatar: https://RI.youming.us.kg/tx-3-ys.png
+        avatar: https://ri.youming.v6.army/tx-3-ys.png
         location: 中国
         organization: Youming 工作室
         desc: 有梦想，才能有希望。

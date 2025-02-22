@@ -117,15 +117,15 @@ const demoagreement = defineNoteConfig({
       text: '反馈',
       prefix: '',
       items: [
-        { text: '导航', link: '/notes/反馈中心/'}
+        { text: '反馈中心', link: '/notes/反馈中心/'}
       ]
     },
     {
       text: '协议',
       items: [
-        { text: '开源作品使用权限协议', link: '/notes/协议/开源.html'},
-        { text: '非开源作品授权协议', link: '/notes/协议/申请.html'},
-        { text: '闭源作品使用权限协议', link: '/notes/协议/闭源.html'},
+        { text: '开源作品使用权限协议', link: '开源.html'},
+        { text: '非开源作品授权协议', link: '申请.html'},
+        { text: '闭源作品使用权限协议', link: '闭源.html'},
       ],
     },
     {

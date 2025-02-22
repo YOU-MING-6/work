@@ -64,8 +64,8 @@ mingcute:horn-2-line
 - :[mingcute:compass-3-line]: 指南
 mingcute:compass-3-line
 
-- :[https://RI.youming.us.kg/ym-work-icon.svg]: 工作室
-https://RI.youming.us.kg/ym-work-icon.svg
+- :[https://ri.youming.v6.army/ym-work-icon.svg]: 工作室
+https://ri.youming.v6.army/ym-work-icon.svg
 
 - :[mingcute:link-2-line]: 链接
 mingcute:link-2-line
@@ -107,12 +107,12 @@ mingcute:document-line
 mingcute:contacts-3-line
 - :[mingcute:contacts-2-line]: 成员
 mingcute:contacts-2-line
-- :[https://RI.youming.us.kg/ym-ys.png]: YOU MING 柚明
-https://RI.youming.us.kg/ym-ys.png
-- :[https://RI.youming.us.kg/tx-2-ys.png]: 某团一笑
-https://RI.youming.us.kg/tx-2-ys.png
-- :[https://RI.youming.us.kg/tx-3-ys.png]: Afly-dream
-https://RI.youming.us.kg/tx-3-ys.png
+- :[https://ri.youming.v6.army/ym-ys.png]: YOU MING 柚明
+https://ri.youming.v6.army/ym-ys.png
+- :[https://ri.youming.v6.army/tx-2-ys.png]: 某团一笑
+https://ri.youming.v6.army/tx-2-ys.png
+- :[https://ri.youming.v6.army/tx-3-ys.png]: Afly-dream
+https://ri.youming.v6.army/tx-3-ys.png
 
 - :[mingcute:more-3-line]: 更多
 mingcute:more-3-line
