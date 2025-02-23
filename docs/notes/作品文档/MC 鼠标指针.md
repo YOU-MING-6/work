@@ -157,24 +157,36 @@ comments: true
 
 ::: demo-wrapper
 
-<div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
+<div class="pointer-container" style="display: flex; align-items: flex-start; user-select: none; position: relative;">
     <div>
-        <div style="font-size: 14px; color: gray; font-weight: bold;">Minecraft唯艺<Badge type="warning" text="等待使用" /></div>
-        <div>这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？</div>
-        <div style="font-size: 12px; color: gray;">2024-10-13 14:46</div>
+        <div class="pointer-title" style="font-size: 14px; color: gray; font-weight: bold;">
+            Minecraft唯艺
+            <Badge type="warning" text="等待使用" />
+        </div>
+        <div class="pointer-comment">
+            这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？
+        </div>
+        <div class="pointer-date" style="font-size: 12px; color: gray;">
+            2024-10-13 14:46
+        </div>
     </div>
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1;"></div>
+    <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; user-select: none; z-index: 1;"></div>
 </div>
-
 <hr>
-
-<div style="display: flex; align-items: flex-start; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: relative;">
+<div class="pointer-container" style="display: flex; align-items: flex-start; user-select: none; position: relative;">
     <div>
-        <div style="font-size: 14px; color: gray; font-weight: bold;">VIP-ID<Badge type="warning" text="等待使用" /></div>
-        <div>能不能把钟改成动的指南针</div>
-        <div style="font-size: 12px; color: gray;">2024-09-07 15:40</div>
+        <div class="pointer-title" style="font-size: 14px; color: gray; font-weight: bold;">
+            VIP-ID
+            <Badge type="warning" text="等待使用" />
+        </div>
+        <div class="pointer-comment">
+            能不能把钟改成动的指南针
+        </div>
+        <div class="pointer-date" style="font-size: 12px; color: gray;">
+            2024-09-07 15:40
+        </div>
     </div>
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; z-index: 1;"></div>
+    <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; user-select: none; z-index: 1;"></div>
 </div>
 
 ::: info 这是你吗？
@@ -184,18 +196,18 @@ comments: true
 
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details :[mingcute:file-info-line]: 文件属性
+:::: details :[mingcute:file-info-line]: 文件属性
 
-<CardGrid>
-  <Card title="v1.8-鼠标光标.7z" icon="mingcute:file-zip-line">
-    压缩包共 291.5 KB
-  </Card>
-  <Card title="v1.3-鼠标光标.7z" icon="mingcute:file-zip-line">
-    压缩包共 7.5 KB
-  </Card>
-</CardGrid>
+::: card-masonry
 
-:::
+<Card title="v1.8-鼠标光标.7z" icon="mingcute:file-zip-line"><Badge text="安全" type="tip" />
+  压缩包共 291.5 KB
+</Card>
+<Card title="v1.3-鼠标光标.7z" icon="mingcute:file-zip-line"><Badge text="安全" type="tip" />
+  压缩包共 7.5 KB
+</Card>
+
+::::
 
 ::: tabs
 

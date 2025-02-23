@@ -23,7 +23,7 @@ export default defineClientConfig({
 })
 
 export const walineConfig = defineWalineConfig({
-  serverURL: "https://waline.youming.us.kg/", // Waline评论后台
+  serverURL: "https://waline.youming.v6.army/", // Waline评论后台
   search: false,
   pageview: true,
   // @ts-expect-error

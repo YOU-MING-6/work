@@ -81,27 +81,27 @@ comments: true
 
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details :[mingcute:file-info-line]: 文件属性
+:::: details :[mingcute:file-info-line]: 文件属性
 
-<CardGrid>
-  <Card title="Min11 v4.2安装.pptx" icon="mingcute:ppt-line">
-    PPT文件共 76.0 M
-  </Card>
-  <Card title="Min11 v4.1安装.pptx" icon="mingcute:ppt-line">
-    PPT文件共 75.4 M
-  </Card>
-  <Card title="Min11 v4.0安装.zip" icon="mingcute:ppt-line">
-    PPT文件共 39.3 M
-  </Card>
-  <Card title="Min11 v3.3安装.zip" icon="mingcute:ppt-line">
-    PPT文件共 41.2 M
-  </Card>
-  <Card title="Min11 v3.0安装.zip" icon="mingcute:ppt-line">
-    PPT文件共 32.2 M
-  </Card>
-</CardGrid>
+::: card-masonry
 
-:::
+<Card title="Min11 v4.2安装.pptx" icon="mingcute:ppt-line">
+  PPT文件共 76.0 M
+</Card>
+<Card title="Min11 v4.1安装.pptx" icon="mingcute:ppt-line">
+  PPT文件共 75.4 M
+</Card>
+<Card title="Min11 v4.0安装.zip" icon="mingcute:ppt-line">
+  PPT文件共 39.3 M
+</Card>
+<Card title="Min11 v3.3安装.zip" icon="mingcute:ppt-line">
+  PPT文件共 41.2 M
+</Card>
+<Card title="Min11 v3.0安装.zip" icon="mingcute:ppt-line">
+  PPT文件共 32.2 M
+</Card>
+
+::::
 
 ::: tabs
 

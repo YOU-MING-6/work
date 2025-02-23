@@ -29,7 +29,7 @@ export default defineThemeConfig({
 
   footer: {
     message: '<a href="https://icp.gov.moe/?keyword=20250036" target="_blank">萌ICP备20250036号</a> - Powered by <a href="https://theme-plume.vuejs.press/" target="_blank">vuepress-theme-plume</a>',
-    copyright: 'Copyright © 2024-present <a href="/notes/更多/工作室.html">Youming 工作室</a>'
+    copyright: 'Copyright © 2022-present <a href="/notes/更多/工作室.html">Youming 工作室</a>'
   },
   
   navbar,

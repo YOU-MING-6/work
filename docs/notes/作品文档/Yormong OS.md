@@ -88,16 +88,16 @@ comments: true
 
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details :[mingcute:file-info-line]: 文件属性
+:::: details :[mingcute:file-info-line]: 文件属性
 
-<CardGrid>
-  <Card title="公测版v1.0.0.20240622.343.exe" icon="mingcute:file-zip-line">
-    自解压文件(.exe) 266.8 MB；
-    连同其他文件共 267 MB
-  </Card>
-</CardGrid>
+::: card-masonry
 
-:::
+<Card title="公测版v1.0.0.20240622.343.exe" icon="mingcute:file-zip-line">
+  自解压文件(.exe) 266.8 MB；
+  连同其他文件共 267 MB
+</Card>
+
+::::
 
 ::: tabs
 

@@ -55,8 +55,7 @@ comments: true
 
 ## :[mingcute:pencil-3-line]: 作品权限
 
-::: important 编辑与发布
-这是一个闭源作品，不支持申请编辑发布权。
+::: important 这是一个闭源作品，不支持使用或修改此作品。
 :::
 
 ## :[mingcute:eye-2-line]: 预览

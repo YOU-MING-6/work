@@ -29,10 +29,10 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    hostname: 'https://work.youming.us.kg/',
-    // your git repo url
-    docsRepo: 'https://github.com/YOU-MING-6/work',
-    docsDir: 'src',
+    hostname: 'https://work.youming.v6.army/',
+    
+    //docsRepo: '',
+    //docsDir: '',
 
     blog: false, // 是否开启博客功能
 
@@ -98,15 +98,15 @@ export default defineUserConfig({
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
       comment: {
-        provider: "Waline",
-        serverURL: "https://waline.youming.us.kg/", // Waline评论后台
-        requiredMeta: ['nick'],
-        emoji: false,
-        reaction: [],
-        wordLimit: 2000,
-        pageSize: 20,
-        pageview: false,
-        comment: true,
+        // provider: "Waline",
+        // serverURL: "https://waline.youming.v6.army/", // Waline评论后台
+        // requiredMeta: ['nick'],
+        // emoji: false,
+        // reaction: [],
+        // wordLimit: 2000,
+        // pageSize: 20,
+        // pageview: false,
+        // comment: true,
       },
     },
   }),

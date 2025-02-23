@@ -74,7 +74,7 @@ mingcute:link-2-line
 mingcute:document-line
 - :[mingcute:contacts-3-line]: 创作人员
 mingcute:contacts-3-line
-- :[mingcute:pencil-3-line]: 编辑与发布
+- :[mingcute:pencil-3-line]: 作品权限
 mingcute:pencil-3-line
 
 - :[mingcute:eye-2-line]: 预览

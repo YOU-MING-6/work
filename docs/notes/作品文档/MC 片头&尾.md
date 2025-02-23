@@ -83,15 +83,15 @@ comments: true
 
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
-::: details :[mingcute:file-info-line]: 文件属性
+:::: details :[mingcute:file-info-line]: 文件属性
 
-<CardGrid>
-  <Card title="MC 片头&尾.zip" icon="mingcute:file-zip-line">
-    压缩包共 370.76 MB
-  </Card>
-</CardGrid>
+::: card-masonry
 
-:::
+<Card title="MC 片头&尾.zip" icon="mingcute:file-zip-line">
+  压缩包共 370.76 MB
+</Card>
+
+::::
 
 ::: tabs
 

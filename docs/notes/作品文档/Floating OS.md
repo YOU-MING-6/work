@@ -10,13 +10,10 @@ permalink: /notes/Floating-OS.html
 # 评论功能
 comments: true
 ---
-::: warning 
-非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到`(v0.0.1 Build 2024121207)`
 
 ::: warning 更新状态
-此作品目前 `停止构建`  
+此作品目前 [停止构建](#停止构建)  
 当前为 `构建版`
-- [停止构建](#停止构建)
 :::
 
 ::: info 项目
@@ -56,8 +53,7 @@ comments: true
 
 ## :[mingcute:pencil-3-line]: 作品权限
 
-::: important 编辑与发布
-目前为构建版，暂不支持申请编辑发布权。
+::: important 目前为构建版，暂不支持使用或修改此作品。
 :::
 
 ## :[mingcute:eye-2-line]: 预览
