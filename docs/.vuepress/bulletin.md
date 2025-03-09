@@ -10,10 +10,11 @@
 
 ***
 
-<p style="font-size: 26px; font-weight: 650; margin-top: 30px; ">更新公告</p>
+<p style="font-size: 26px; font-weight: 650; margin-top: 30px; ">公告</p>
 
-此网站已于 `2025.1.4` 更新主题  
+- 此网站已于 `2025.1.4` 更新主题  
 <a href="/公告.html">查看更多</a>
+- <a href="/notes/协议/转载.html">转载文章内容协议</a>
 
 ***
 

@@ -7,7 +7,13 @@ export const navbar = defineNavbarConfig([
     icon: 'mingcute:book-2-line',
     items: [
       {
+        text: '导航',
+        link: '/notes/',
+        icon: 'mingcute:navigation-line',
+      },
+      {
         text: 'YM 作品项目',
+        icon: 'mingcute:book-line',
         items: [
           {
             text: 'MC 鼠标指针',
@@ -28,6 +34,7 @@ export const navbar = defineNavbarConfig([
       },
       {
         text: 'YM PPT项目',
+        icon: 'mingcute:chart-pie-line',
         items: [
           {
             text: 'Mindows11',
@@ -58,6 +65,7 @@ export const navbar = defineNavbarConfig([
       },
       {
         text: 'YM 网站项目',
+        icon: 'mingcute:earth-line',
         items: [
           {
             text: '柚明主页',
@@ -78,7 +86,8 @@ export const navbar = defineNavbarConfig([
     icon: 'mingcute:history-anticlockwise-line',
     items: [
       {
-        text: '更新历史',
+        text: 'YM 作品项目',
+        icon: 'mingcute:book-line',
         items: [
           {
             text: 'MC 鼠标指针',
@@ -95,6 +104,12 @@ export const navbar = defineNavbarConfig([
             link: '/notes/更新历史/MC-片头-尾.html',
             icon: 'mingcute:video-line',
           },
+        ],
+      },
+      {
+        text: 'YM PPT项目',
+        icon: 'mingcute:chart-pie-line',
+        items: [
           {
             text: 'Mindows11',
             link: '/notes/更新历史/Mindows11.html',
@@ -120,6 +135,12 @@ export const navbar = defineNavbarConfig([
             link: '/notes/更新历史/Yormong-OS-NEXT.html',
             icon: 'mingcute:round-line',
           },
+        ],
+      },
+      {
+        text: 'YM 网站项目',
+        icon: 'mingcute:earth-line',
+        items: [
           {
             text: '柚明主页',
             link: '/notes/更新历史/柚明主页.html',
@@ -157,8 +178,8 @@ export const navbar = defineNavbarConfig([
             icon: 'mingcute:bulb-line',
           },
           {
-            text: '申请编辑发布权',
-            link: '/notes/反馈中心/申请编辑发布权.html',
+            text: '发送授权申请',
+            link: '/notes/反馈中心/发送授权申请.html',
             icon: 'mingcute:key-2-line',
           },
           {
@@ -185,6 +206,11 @@ export const navbar = defineNavbarConfig([
             text: '闭源作品使用权限协议',
             link: '/notes/协议/闭源.html',
             icon: 'mingcute:forbid-circle-line',
+          },
+          {
+            text: '转载文章内容协议',
+            link: '/notes/协议/转载.html',
+            icon: 'mingcute:share-3-line',
           },
         ],
       },
@@ -226,6 +252,11 @@ export const navbar = defineNavbarConfig([
             text: '闭源作品使用权限协议',
             link: '/notes/协议/闭源.html',
             icon: 'mingcute:forbid-circle-line',
+          },
+          {
+            text: '转载文章内容协议',
+            link: '/notes/协议/转载.html',
+            icon: 'mingcute:share-3-line',
           },
         ],
       },

@@ -2,12 +2,11 @@
 title: Floating OS
 author: YOU MING 柚明 | Afly-dream
 icon: mingcute:album-line
+outline: 2
 createTime: 2024/08/05
 tags:
 - 更新历史
 permalink: /notes/更新历史/Floating-OS.html
-# 评论功能
-comments: false
 ---
 
 ::: important 这是哪？
@@ -22,16 +21,16 @@ comments: false
 
 ## ◉ 停止构建
 ::: warning 停止构建
-- <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="Afly-dream" type="tip" /> 已停止构建作品 `Floating OS`
+- 用户 <Badge text="Afly-dream" type="tip" /> 已停止构建作品  Floating OS 
 
-非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到 `v0.0.1 Build 2024121207` 。
+非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到  v0.0.1 Build 2024121207  。
 
 ::: right
 **2025.2.15**
 :::
 
 
-## ● 0.0.1 <Badge text="构建版" type="danger" />
+## v 0.0.1 <Badge text="构建版" type="danger" />
 ### ✨更新
 
 - 基于 Windows11 开始构建
@@ -51,7 +50,7 @@ comments: false
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="Afly-dream" type="info" /> 想到灵感，而后开始创作
+- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="Afly-dream" type="info" /> 想到灵感，而后开始创作
 
 ::: right
 **2024**

@@ -6,9 +6,8 @@ createTime: 2024/08/05
 tags:
   - 停止构建
   - YM 作品项目
+  - 开源
 permalink: /notes/Floating-OS.html
-# 评论功能
-comments: true
 ---
 
 ::: warning 更新状态
@@ -27,9 +26,9 @@ comments: true
 
 ## :[mingcute:document-line]: 简介
 
-==Floating OS== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="Afly-dream" type="info" /> 于 `2024` 开始制作的一个 `自研二创系统`。
+==Floating OS== 是一个由 ==Youming 工作室=={.warning} 的用户 <Badge text="Afly-dream" type="info" /> 于 ==2024=={.info} 开始制作的一个 ==自研二创系统=={.info}。
 
-- 这是一个真实的`自研系统`，不是 PPT
+- 这是一个真实的 ==自研系统=={.info} ，不是 PPT
 - [停止构建](#停止构建)
 
 
@@ -56,6 +55,12 @@ comments: true
 ::: important 目前为构建版，暂不支持使用或修改此作品。
 :::
 
+::: card title="作品使用内容："
+
+- Windows 11 操作系统
+
+:::
+
 ## :[mingcute:eye-2-line]: 预览
 
 ::: tabs
@@ -70,10 +75,6 @@ comments: true
 
 - 非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到 `v0.0.1 Build 2024121207` 。
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
-
-[查看更新历史](/notes/更新历史/Floating-OS.html)
-
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
 ::: warning 没有可用的下载链接。
@@ -81,3 +82,7 @@ comments: true
 
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
+
+## :[mingcute:history-anticlockwise-line]: 更新历史
+
+[查看更新历史](/notes/更新历史/Floating-OS.html)

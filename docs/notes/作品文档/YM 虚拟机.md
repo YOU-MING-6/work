@@ -6,10 +6,8 @@ createTime: 2024/07/27
 tags:
   - 暂停更新
   - YM PPT项目
-  - PPT
+  - 闭源
 permalink: /notes/YM-虚拟机.html
-# 评论功能
-comments: true
 ---
 
 ::: warning 更新状态
@@ -19,7 +17,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM PPT项目`  
-这是一个闭源项目。
+这是一个闭源项目。[查看作品权限](#作品权限)
 :::
 
 ---
@@ -28,12 +26,11 @@ comments: true
 
 ## :[mingcute:document-line]: 简介
 
-==YM 虚拟机== 是由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.5.2` 开始制作的一个 `PPT 项目`；
+==YM 虚拟机== 是由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.5.2=={.info} 开始制作的一个 ==PPT 项目=={.info} 。
 
-- `YM 虚拟机` 是一个 `YM PPT项目` 旗下项目。
-- `YM 虚拟机` 仅用于我们剪辑视频时启动其他 PPT 时使用（仅用于装饰）。
-- 面前 `YM 虚拟机` 暂无实际用途，仅用于装饰。
-- 我们正在考虑未来要不要公开 `YM 虚拟机` 项目。
+- 仅用于我们剪辑视频时启动其他 PPT 时使用。
+- 面前暂无实际用途，仅用于 ==装饰=={.info} 。
+- 我们正在考虑未来公开此项目（开源）。
 
 ::: tip 版本
 当前最新版本：`v2.0.0 内测版` `(v2.0.0.20240616.187)`
@@ -63,10 +60,6 @@ comments: true
 ::: warning 没有可用的预览。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
-
-[查看更新历史](/notes/更新历史/YM-虚拟机.html)
-
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
 ::: warning 没有可用的下载链接。
@@ -74,3 +67,7 @@ comments: true
 
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
+
+## :[mingcute:history-anticlockwise-line]: 更新历史
+
+[查看更新历史](/notes/更新历史/YM-虚拟机.html)

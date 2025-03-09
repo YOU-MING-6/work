@@ -14,7 +14,7 @@ config:
         -
           theme: brand
           text: 查看文档→
-          link: /notes/MC-鼠标指针.html
+          link: /notes/
         -
           theme: alt
           text: 更新历史
@@ -30,19 +30,22 @@ config:
         title: 公告
         icon: fluent-emoji:megaphone
         details: 立即查看最新公告
-        link: /公告.md
+        link: /公告.html
       -
         title: YM 作品项目
         icon: fluent-emoji:open-book
         details: 我们制作的可以使用的作品项目
+        link: /notes/#ym-作品项目
       -
         title: YM PPT项目
         icon: fluent-emoji:keyboard
         details: 我们使用PPT制作的项目
+        link: /notes/#ym-ppt项目
       -
         title: YM 网站项目
         icon: fluent-emoji:globe-showing-asia-australia
         details: 我们制作的 website 项目
+        link: /notes/#ym-网站项目
       -
         title: 反馈中心
         icon: fluent-emoji:envelope

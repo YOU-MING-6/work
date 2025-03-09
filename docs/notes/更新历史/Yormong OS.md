@@ -2,12 +2,11 @@
 title: Yormong OS
 author: YOU MING 柚明
 icon: mingcute:classify-3-line
+outline: 2
 createTime: 2024/07/27
 tags:
 - 更新历史
 permalink: /notes/更新历史/Yormong-OS.html
-# 评论功能
-comments: false
 ---
 
 ::: important 这是哪？
@@ -22,18 +21,18 @@ comments: false
 
 ## ◉ 暂停更新
 ::: warning 暂停更新
-- <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 `Yormong OS`
+- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  Yormong OS 
 
 ::: right
 **2024.8.1**
 :::
 
 
-## ● 1.0.4 <Badge text="公测版" type="info" />
+## v 1.0.4 <Badge text="公测版" type="info" />
 ### 🔥重磅更新
 
-- 全局 `深色模式` 基本修改完成
-- 更新了 `安装程序 UI` 并应用
+- 全局  深色模式  基本修改完成
+- 更新了  安装程序 UI  并应用
 
 ### 🪐优化提升
 
@@ -49,23 +48,23 @@ comments: false
 :::
 
 
-## ● :[mingcute:pencil-ruler-line]: 共同更新
+## ◉ 共同更新
 ::: tip 共同更新
-- 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品 `Yormong OS`
+- ==Youming 工作室=={.warning} 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品  Yormong OS 
 
 ::: right
 **2024.7.7**
 :::
 
 
-## ● 1.0.3 <Badge text="公测版" type="info" />
+## v 1.0.3 <Badge text="公测版" type="info" />
 ### 🔥重磅更新
 
-- 使用`YM UI`制作`深色模式`并应用于全局
+- 使用 YM UI 制作 深色模式 并应用于全局
 
 ### 🪐优化提升
 
-- 优化了`深色模式`
+- 优化了 深色模式 
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -78,15 +77,15 @@ comments: false
 :::
 
 
-## ● 1.0.2 <Badge text="公测版" type="info" />
+## v 1.0.2 <Badge text="公测版" type="info" />
 ### 🔥重磅更新
 
-- 全面更新并应用新的`YM UI`
+- 全面更新并应用新的 YM UI 
 
 ### 🪐优化提升
 
-- 修改`锁屏`与`高对比度锁屏`的`忘记PIN`界面
-- 修改`高对比度锁屏`的`反馈界面`
+- 修改 锁屏 与 高对比度锁屏 的 忘记PIN 界面
+- 修改 高对比度锁屏 的 反馈界面 
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -98,10 +97,10 @@ comments: false
 :::
 
 
-## ● 1.0.1 <Badge text="公测版" type="info" />
+## v 1.0.1 <Badge text="公测版" type="info" />
 ### 🔥重磅更新
 
-- 系统全面应用`深色模式` `(半成品)`
+- 系统全面应用 深色模式   (半成品) 
 
 ### 🪐优化提升
 
@@ -116,17 +115,17 @@ comments: false
 :::
 
 
-## ● 1.0.0 <Badge text="公测版" type="info" />
+## v 1.0.0 <Badge text="公测版" type="info" />
 ### ✨更新
 
-- 全面使用并修改`YM虚拟机`弹出提示及其`LOGO`
-- 更换了某个主色调 `#e74e00` `#79de5f`
-- 新增`YM 安全中心`弹出提示
+- 全面使用并修改 YM虚拟机 弹出提示及其 LOGO 
+- 更换了某个主色调  #e74e00   #79de5f 
+- 新增 YM 安全中心 弹出提示
 
 ### 🪐优化提升
 
-- 优化了`安装程序 - PE`
-- 优化了`YM 虚拟机`弹出提示
+- 优化了 安装程序 - PE 
+- 优化了 YM 虚拟机 弹出提示
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -138,23 +137,23 @@ comments: false
 :::
 
 
-## ● 0.9.9 <Badge text="公测版" type="info" />
+## v 0.9.9 <Badge text="公测版" type="info" />
 ### ✨更新
 
-- 新增`木鱼.exe`程序 `彩蛋`
-- 删除了所有时间上的`秒`
-- 隐藏 PPT 放映时的`右键菜单`与`工具栏`
+- 新增 木鱼.exe 程序  彩蛋 
+- 删除了所有时间上的 秒 
+- 隐藏 PPT 放映时的 右键菜单 与 工具栏 
 
 ### 🪐优化提升
 
-- 修改及优化了`设置`一些内容
-- 优化了`文件`一些内容
-- 优化了`锁屏`一些内容及动画
-- 优化了`YM 虚拟机`弹出提示
-- 优化了`反馈`程序
-- 优化了`安装环境`任务栏
-- 优化了 Yormong OS`获取权限`页面
-- 修改了`警告`和`声明`页
+- 修改及优化了 设置 一些内容
+- 优化了 文件 一些内容
+- 优化了 锁屏 一些内容及动画
+- 优化了 YM 虚拟机 弹出提示
+- 优化了 反馈 程序
+- 优化了 安装环境 任务栏
+- 优化了 Yormong OS 获取权限 页面
+- 修改了 警告 和 声明 页
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -166,16 +165,16 @@ comments: false
 :::
 
 
-## ● 0.9.8 <Badge text="公测版" type="info" />
+## v 0.9.8 <Badge text="公测版" type="info" />
 ### ✨更新
 
-- `文件`新增图片全屏显示
-- `文件`更新提示窗口
-- 在`公测版`PPT 文件第一页新增 提示&注意事项
+-  文件 新增图片全屏显示
+-  文件 更新提示窗口
+- 在 公测版 PPT 文件第一页新增 提示&注意事项
 
 ### 🪐优化提升
 
-- 优化了`锁屏`的一些设置
+- 优化了 锁屏 的一些设置
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -187,14 +186,14 @@ comments: false
 :::
 
 
-## ● 0.9.7 <Badge text="公测版" type="info" />
+## v 0.9.7 <Badge text="公测版" type="info" />
 ### ✨更新
 
-- 更新了`安装程序 - PE`的部分图标
+- 更新了 安装程序 - PE 的部分图标
 ### 🪐优化提升
 
-- 优化了`锁屏`动画
-- 优化了`锁屏`UI
+- 优化了 锁屏 动画
+- 优化了 锁屏 UI
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -206,16 +205,16 @@ comments: false
 :::
 
 
-## ● 0.9.6 <Badge text="内测版" type="danger" />
+## v 0.9.6 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 在文件打开页添加`文件属性`按钮
-- 在`便笺`添加`文件属性`按钮
-- 在`播放器`添加`文件属性`按钮
+- 在文件打开页添加 文件属性 按钮
+- 在 便笺 添加 文件属性 按钮
+- 在 播放器 添加 文件属性 按钮
 
 ### 🪐优化提升
 
-- 优化了`锁屏`的一些设置
+- 优化了 锁屏 的一些设置
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -227,18 +226,18 @@ comments: false
 :::
 
 
-## ● 0.9.5 <Badge text="内测版" type="danger" />
+## v 0.9.5 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 更新了`设置`中左侧的`我的`按钮
+- 更新了 设置 中左侧的 我的 按钮
 - 新增彩蛋文件
-- `播放器`程序新增`使用 PPT 控件`按钮
+-  播放器 程序新增 使用 PPT 控件 按钮
 
 ### 🪐优化提升
 
-- 优化了`播放器`程序
+- 优化了 播放器 程序
 - 优化了锁屏细节
-- 优化了安全中心`权限界面`
+- 优化了安全中心 权限界面 
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -250,15 +249,15 @@ comments: false
 :::
 
 
-## ● 0.9.4 <Badge text="内测版" type="danger" />
+## v 0.9.4 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 同步新版`反馈`至锁屏
+- 同步新版 反馈 至锁屏
 
 ### 🪐优化提升
 
-- 优化了`锁屏 UI`
-- 将安装程序`单击以继续`改为`大幅度晃动鼠标以继续`
+- 优化了 锁屏 UI 
+- 将安装程序 单击以继续 改为 大幅度晃动鼠标以继续 
 - 优化了其他一部分内容
 
 ### 🐛BUG修复
@@ -270,15 +269,15 @@ comments: false
 :::
 
 
-## ● 0.9.3 <Badge text="内测版" type="danger" />
+## v 0.9.3 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 发布说明至`Github`
-- 发布版本历史至`Github`
+- 发布说明至 Github 
+- 发布版本历史至 Github 
 
 ### 🪐优化提升
 
-- 优化了`锁屏`的一些设置
+- 优化了 锁屏 的一些设置
 - 优化了其他一部分内容
 
 ::: right
@@ -286,15 +285,15 @@ comments: false
 :::
 
 
-## ● 0.9.2 <Badge text="内测版" type="danger" />
+## v 0.9.2 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 更新了`Yormong OS 宣传片`
+- 更新了 Yormong OS 宣传片 
 - 杂项更新
 
 ### 🪐优化提升
 
-- 优化了`虚拟电源`
+- 优化了 虚拟电源 
 - 优化了「BIOS」
 - 优化了其他一部分内容
 
@@ -303,22 +302,22 @@ comments: false
 :::
 
 
-## ● 0.9.0 <Badge text="内测版" type="danger" />
+## v 0.9.0 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 添加`虚拟电源`
-- 添加`BIOS`
+- 添加 虚拟电源 
+- 添加 BIOS 
 
 ### 🪐优化提升
 
-- 优化了`锁屏`
+- 优化了 锁屏 
 
 ::: right
 **2024.5.18**
 :::
 
 
-## ● 0.8.0 <Badge text="内测版" type="danger" />
+## v 0.8.0 <Badge text="内测版" type="danger" />
 ### ✨更新
 
 - 杂项更新
@@ -336,7 +335,7 @@ comments: false
 :::
 
 
-## ● 0.7.0 <Badge text="内测版" type="danger" />
+## v 0.7.0 <Badge text="内测版" type="danger" />
 ### ✨更新
 
 - 添加更多程序
@@ -350,7 +349,7 @@ comments: false
 :::
 
 
-## ● 0.6.0 <Badge text="内测版" type="danger" />
+## v 0.6.0 <Badge text="内测版" type="danger" />
 ### ✨更新
 
 - 添加「便笺」程序
@@ -362,7 +361,7 @@ comments: false
 :::
 
 
-## ● 0.5.3 <Badge text="内测版" type="danger" />
+## v 0.5.3 <Badge text="内测版" type="danger" />
 ### ✨更新
 
 - 优化「文件」程序
@@ -374,7 +373,7 @@ comments: false
 
 ## ◉ 继续更新
 ::: tip 继续更新
-- 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 继续更新作品 `Yormong OS`
+- ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 已继续更新作品  Yormong OS 
 
 ::: right
 **2024.2.19**
@@ -383,14 +382,14 @@ comments: false
 
 ## ◉ 暂停更新
 ::: warning 暂停更新
-- 因过年，已暂停更新作品 `Yormong OS`
+- 因过年，==Youming 工作室=={.warning} 已暂停更新作品
 
 ::: right
 **2023.2.9**
 :::
 
 
-## ● 0.5.2 <Badge text="内测版" type="danger" />
+## v 0.5.2 <Badge text="内测版" type="danger" />
 ### 🪐优化提升
 
 - 优化了其他一部分内容
@@ -400,18 +399,18 @@ comments: false
 :::
 
 
-## ● 0.8.0 <Badge text="内测版" type="danger" />
+## v 0.8.0 <Badge text="内测版" type="danger" />
 ### 🔥重磅更新
 
-- 更换 Yormong OS `LOGO`
-- 基于`Tuling 系统`进行更新
+- 更换 Yormong OS  LOGO 
+- 基于 Tuling 系统 进行更新
 
 ::: right
 **2024.2.6**
 :::
 
 
-## ● 0.4.0 <Badge text="内测版" type="danger" />
+## v 0.4.0 <Badge text="内测版" type="danger" />
 ### 🪐优化提升
 
 - 优化了其他一部分内容
@@ -421,10 +420,10 @@ comments: false
 :::
 
 
-## ● 0.3.0 <Badge text="内测版" type="danger" />
+## v 0.3.0 <Badge text="内测版" type="danger" />
 ### 🪐优化提升
 
-- 使用`安逸动画库`优化部分动画
+- 使用 安逸动画库 优化部分动画
 - 优化了其他一部分内容
 
 ::: right
@@ -432,30 +431,30 @@ comments: false
 :::
 
 
-## ● 0.2.0 <Badge text="内测版" type="danger" />
+## v 0.2.0 <Badge text="内测版" type="danger" />
 ### 🪐优化提升
 
-- 优化了`OOBE`
+- 优化了 OOBE 
 
 ::: right
 **2024.3.28**
 :::
 
 
-## ● 0.1.0 <Badge text="内测版" type="danger" />
+## v 0.1.0 <Badge text="内测版" type="danger" />
 ### 🔥重磅更新
 
-- 重做 `OOBE`
+- 重做  OOBE 
 
 ::: right
 **2024.1.26**
 :::
 
 
-## ● 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" type="danger" />
 ### ✨更新
 
-- 基于 `Mindows` 进行开发
+- 基于  Mindows  进行开发
 - 制作基本内容
 
 ::: right
@@ -465,7 +464,7 @@ comments: false
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="柚明" type="tip" /> 想到灵感，而后开始创作
+- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 想到灵感，而后开始创作
 
 ::: right
 **2024.1.24**

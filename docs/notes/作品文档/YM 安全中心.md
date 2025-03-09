@@ -6,10 +6,8 @@ createTime: 2024/07/27
 tags:
   - 暂停更新
   - YM PPT项目
-  - PPT
+  - 闭源
 permalink: /notes/YM-安全中心.html
-# 评论功能
-comments: true
 ---
 
 ::: warning 更新状态
@@ -19,7 +17,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM PPT项目`  
-这是一个闭源项目。
+这是一个闭源项目。[查看作品权限](#作品权限)
 :::
 
 ---
@@ -28,11 +26,10 @@ comments: true
 
 ## :[mingcute:document-line]: 简介
 
-==YM 安全中心== 是由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.5.2` 开始制作的一个 `PPT 装饰项目`；
+==YM 安全中心== 是由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.5.2=={.info} 开始制作的一个 ==PPT 装饰项目=={.info} ；
 
-- `YM 安全中心`是一个`YM PPT项目`旗下项目。
-- `YM 安全中心` 仅用于我们制作 PPT 系统 时弹出顶部的导航条，仅用于装饰。
-- 面前 `YM 安全中心` 暂无实际用途，仅用于装饰。
+- 仅用于我们制作 PPT 系统 时弹出顶部的导航条。
+- 目前暂无实际用途，仅用于 ==装饰=={.info} 。
 
 ::: tip 版本
 当前最新版本：`v0.0.3 内测版` `(v0.0.3.20240623.100)`
@@ -56,10 +53,6 @@ comments: true
 ::: warning 没有可用的预览。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
-
-[查看更新历史](/notes/更新历史/YM-安全中心.html)
-
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
 ::: warning 没有可用的下载链接。
@@ -67,3 +60,7 @@ comments: true
 
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
+
+## :[mingcute:history-anticlockwise-line]: 更新历史
+
+[查看更新历史](/notes/更新历史/YM-安全中心.html)

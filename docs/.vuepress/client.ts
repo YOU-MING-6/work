@@ -1,5 +1,5 @@
 import { defineClientConfig } from 'vuepress/client'
-import { defineWalineConfig } from '@vuepress/plugin-comment/client'
+// import { defineWalineConfig } from '@vuepress/plugin-comment/client' // 评论插件
 // import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 // import NpmBadge from 'vuepress-theme-plume/features/NpmBadge.vue'
 // import NpmBadgeGroup from 'vuepress-theme-plume/features/NpmBadgeGroup.vue'
@@ -22,12 +22,12 @@ export default defineClientConfig({
   },
 })
 
-export const walineConfig = defineWalineConfig({
-  serverURL: "https://waline.youming.v6.army/", // Waline评论后台
-  search: false,
-  pageview: true,
-  // @ts-expect-error
-  locale: {
-    placeholder: "来发条评论吧ヾ(≧▽≦*)o （评论仅做展示，交流请到 QQ 群）",
-  },
-})
+// export const walineConfig = defineWalineConfig({
+//   serverURL: "https://waline.youming.v6.army/", // Waline评论后台
+//   search: false,
+//   pageview: true,
+//   // @ts-expect-error
+//   locale: {
+//     placeholder: "来发条评论吧ヾ(≧▽≦*)o （评论仅做展示，交流请到 QQ 群）",
+//   },
+// })

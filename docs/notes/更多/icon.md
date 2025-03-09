@@ -3,8 +3,6 @@ title: Icon
 draft: true  # 标记为草稿
 createTime: 2025/01/11
 permalink: /notes/更多/icon.html
-# 评论功能
-comments: false
 ---
 
 ::: important 关于此页
@@ -52,7 +50,7 @@ mingcute:mail-line
 mingcute:mail-open-line
 - :[mingcute:bulb-line]: 发送灵感
 mingcute:bulb-line
-- :[mingcute:key-2-line]: 申请编辑发布权
+- :[mingcute:key-2-line]: 发送授权申请
 mingcute:key-2-line
 - :[mingcute:alert-line]: 举报违规行为
 mingcute:alert-line

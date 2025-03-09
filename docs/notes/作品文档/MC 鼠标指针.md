@@ -7,11 +7,7 @@ tags:
   - 正在更新
   - YM 作品项目
   - 开源
-  - 鼠标
-  - 我的世界
 permalink: /notes/MC-鼠标指针.html
-# 评论功能
-comments: true
 ---
 
 ::: tip 更新状态
@@ -21,7 +17,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM 作品项目`  
-这是一个开源项目。[查看作品使用权限](#作品权限)
+这是一个开源项目。[查看作品权限](#作品权限)
 :::
 
 ---
@@ -51,19 +47,18 @@ comments: true
 
 ## :[mingcute:document-line]: 简介
 
-==MC 鼠标指针== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2023.2` 开始制作的一个 `鼠标指针`。
+==MC 鼠标指针== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.2=={.info} 开始制作的一个 ==鼠标指针=={.info} 。
 
-- 使用了`「新版 MC 材质」`制作，~~而不是网上的 老版材质~~；
+- 使用了 ==「新版 MC 材质」=={.info} 制作，~~而不是网上的 老版材质~~；
 - 还有一部分鼠标是动态的；
 - 同时红石火把也为最新版的；
-- 在 `1.2` 版本中，支持了右键自动安装（.inf）；
-- 在鼠标文件 `忙.ani` 中，使用了超过 60 帧的动画；
-- 你还可以按 `文件名` 进行 `手动设置` 鼠标光标；
-- 你也可以自己根据 `更多选择` 来自定义鼠标光标；
+- 在 ==1.2=={.info} 版本中，支持了右键自动安装（.inf）；
+- 在鼠标文件 ==忙.ani=={.info} 中，使用了超过 60 帧的动画；
+- 你还可以按 ==文件名=={.info}  进行 ==手动设置=={.info} 鼠标光标；
+- 你也可以自己根据 ==更多选择=={.info} 来自定义鼠标光标；
 - 还有 附魔金苹果（动态）样式哦！
 
-::: tip 版本
-当前最新版本：`1.8 正式版`
+::: tip 当前最新版本：`1.8 正式版`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
@@ -79,7 +74,7 @@ comments: true
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
 
-::: card title="作品引用内容："
+::: card title="作品使用内容："
 
 - [Mojang Minecraft](https://www.minecraft.net/)  
   部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
@@ -142,10 +137,6 @@ comments: true
 @[bilibili](BV1EJegeBERB)
 
 :::
-
-## :[mingcute:history-anticlockwise-line]: 更新历史
-
-[查看更新历史](/notes/更新历史/MC-鼠标指针.html)
 
 ## :[mingcute:alert-line]: 已知问题
 
@@ -283,3 +274,7 @@ comments: true
 
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
+
+## :[mingcute:history-anticlockwise-line]: 更新历史
+
+[查看更新历史](/notes/更新历史/MC-鼠标指针.html)

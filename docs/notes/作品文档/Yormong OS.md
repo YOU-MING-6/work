@@ -6,10 +6,8 @@ createTime: 2024/07/27
 tags:
   - 暂停更新
   - YM PPT项目
-  - PPT
+  - 非开源
 permalink: /notes/Yormong-OS.html
-# 评论功能
-comments: true
 ---
 
 ::: warning 更新状态
@@ -19,7 +17,7 @@ comments: true
 
 ::: info 项目
 这是一个 `YM PPT项目`  
-这是一个非开源项目。[申请编辑发布权](#作品权限)
+这是一个非开源项目。[查看作品权限](#作品权限)
 :::
 
 ---
@@ -28,12 +26,12 @@ comments: true
 
 ## :[mingcute:document-line]: 简介
 
-==Yormong OS== 是一个由 <Badge text="Youming 工作室" type="tip" /> 的用户 <Badge text="YOU MING 柚明" type="info" /> 于 `2024.1.24` 开始制作的一个 `PPT 系统`。
+==Yormong OS== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2024.1.24=={.info} 开始制作的一个 ==PPT 系统=={.info} 。
 
-- `Yormong OS` 是一个基于 `Mindows** 制作的 `PPT 系统`
-- 此 PPT 图片及动图来源于网络      (侵删)
-- 界面设计参考于网络                 (侵删)
-- 此PPT使用了一些 PPT 插件
+- 基于 ==Mindows11=={.info} 制作的 ==PPT 系统=={.info} 。
+- 此 PPT 图片及动图来源于网络。
+- 界面设计参考于网络。
+- 此PPT使用了一些 PPT 插件。
 
 ::: tip 版本
 当前最新版本：`v1.0.4 公测版` `(v1.0.4.20240708.265)`
@@ -62,10 +60,12 @@ comments: true
 ::: important 要使用或修改此作品，请遵守 [《非开源作品授权协议》](/notes/协议/申请.html)。
 :::
 
-**作品引用内容：**
+::: card title="作品使用内容："
 
 - 图片及动图（网络）
 - 界面设计（网络）
+
+:::
 
 ## :[mingcute:eye-2-line]: 预览
 ::: tabs
@@ -82,17 +82,13 @@ comments: true
 
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
-
-[查看更新历史](/notes/更新历史/Yormong-OS.html)
-
 ## :[mingcute:arrow-to-down-line]: 下载链接
 
 :::: details :[mingcute:file-info-line]: 文件属性
 
 ::: card-masonry
 
-<Card title="公测版v1.0.0.20240622.343.exe" icon="mingcute:file-zip-line">
+<Card title="公测版v1.0.0.20240622.343.exe" icon="mingcute:file-zip-line"><Badge text="安全" type="tip" />
   自解压文件(.exe) 266.8 MB；
   连同其他文件共 267 MB
 </Card>
@@ -123,3 +119,7 @@ comments: true
 
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
+
+## :[mingcute:history-anticlockwise-line]: 更新历史
+
+[查看更新历史](/notes/更新历史/Yormong-OS.html)
