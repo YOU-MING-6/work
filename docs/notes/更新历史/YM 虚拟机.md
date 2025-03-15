@@ -19,6 +19,15 @@ permalink: /notes/更新历史/YM-虚拟机.html
 </div>
 
 
+## ◉ 暂停更新
+::: warning 暂停更新
+- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 YM 虚拟机
+
+::: right
+**2024.9.1**
+:::
+
+
 ## ◉ 共同更新
 ::: tip 共同更新
 - ==Youming 工作室=={.warning} 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品  YM 虚拟机 

@@ -99,7 +99,7 @@ export default defineUserConfig({
 
       comment: {
         // provider: "Waline",
-        // serverURL: "https://waline.youming.v6.army/", // Waline评论后台
+        // serverURL: "", // Waline评论后台
         // requiredMeta: ['nick'],
         // emoji: false,
         // reaction: [],

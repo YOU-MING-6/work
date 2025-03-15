@@ -28,7 +28,7 @@ export default defineThemeConfig({
   navbarSocialInclude: ['github', 'qq', 'bilibili'], // 导航栏社交链接
 
   footer: {
-    message: '<a href="https://icp.gov.moe/?keyword=20250036" target="_blank">萌ICP备20250036号</a> - Powered by <a href="https://theme-plume.vuejs.press/" target="_blank">vuepress-theme-plume</a>',
+    message: 'Powered by <a href="https://theme-plume.vuejs.press/" target="_blank">vuepress-theme-plume</a> - <a href="https://icp.gov.moe/?keyword=20250036" target="_blank">萌ICP备20250036号</a> - <a href="https://web.youming.v6.army" target="_blank">YM 站点监控</a>',
     copyright: 'Copyright © 2022-present <a href="/notes/更多/工作室.html">Youming 工作室</a>'
   },
   
