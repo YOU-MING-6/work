@@ -57,7 +57,7 @@ permalink: /notes/Yormong-OS.html
 
 ## :[mingcute:pencil-3-line]: 作品权限
 
-::: important 要使用或修改此作品，请遵守 [《非开源作品授权协议》](/notes/协议/申请.html)。
+::: important 要使用或修改此作品，请遵守 [《非开源作品使用授权协议》](/notes/协议/申请.html)。
 :::
 
 ::: card title="作品使用内容："

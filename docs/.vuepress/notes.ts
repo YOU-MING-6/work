@@ -133,7 +133,7 @@ const demofeedback = defineNoteConfig({
       text: '协议',
       items: [
         { text: '开源作品使用权限协议', link: '/notes/协议/开源.html'},
-        { text: '非开源作品授权协议', link: '/notes/协议/申请.html'},
+        { text: '非开源作品使用授权协议', link: '/notes/协议/申请.html'},
         { text: '闭源作品使用权限协议', link: '/notes/协议/闭源.html'},
         { text: '转载文章内容协议', link: '/notes/协议/转载.html'},
       ]
@@ -165,7 +165,7 @@ const demoagreement = defineNoteConfig({
       text: '协议',
       items: [
         { text: '开源作品使用权限协议', link: '开源.html'},
-        { text: '非开源作品授权协议', link: '申请.html'},
+        { text: '非开源作品使用授权协议', link: '申请.html'},
         { text: '闭源作品使用权限协议', link: '闭源.html'},
         { text: '转载文章内容协议', link: '/notes/协议/转载.html'},
       ],
