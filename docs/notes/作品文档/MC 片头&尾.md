@@ -98,7 +98,7 @@ permalink: /notes/MC-片头-尾.html
 - 备用下载链接：[https://www.123865.com/s/9ZtpTd-7Rqov](https://www.123865.com/s/9ZtpTd-7Rqov)
 - 提取码：`3neM`
 
-<a href="/必看-开源.html" style="
+<a href="/必看.html" style="
     display: inline-block;
     padding: 10px 20px;
     border: 1px solid var(--vp-c-divider);
