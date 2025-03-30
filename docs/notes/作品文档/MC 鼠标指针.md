@@ -51,14 +51,13 @@ permalink: /notes/MC-鼠标指针.html
 
 - 使用了 ==「新版 MC 材质」=={.info} 制作，~~而不是网上的 老版材质~~；
 - 还有一部分鼠标是动态的；
-- 同时红石火把也为最新版的；
 - 在 ==1.2=={.info} 版本中，支持了右键自动安装（.inf）；
 - 在鼠标文件 ==忙.ani=={.info} 中，使用了超过 60 帧的动画；
 - 你还可以按 ==文件名=={.info}  进行 ==手动设置=={.info} 鼠标光标；
 - 你也可以自己根据 ==更多选择=={.info} 来自定义鼠标光标；
 - 还有 附魔金苹果（动态）样式哦！
 
-::: tip 当前最新版本：`1.8 正式版`
+::: tip 当前最新版本：`1.9 正式版`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
@@ -105,20 +104,16 @@ permalink: /notes/MC-鼠标指针.html
 }
 </style>
 <div class="light-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz-yl.png" width="500px"><!-- 浅色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz-yl.png" width="350px"><!-- 浅色主题图片 -->
 </div>
 <div class="dark-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz-yl-dark.png" width="500px"><!-- 深色主题图片 -->
+  <img src="https://ri.youming.v6.army/sbzz-yl-dark.png" width="350px"><!-- 深色主题图片 -->
 </div>
 
 @tab :[mingcute:mouse-line]: 实时预览
 
-::: steps
-- <p style="font-size: 16px;">在左侧选择要预览的鼠标样式</p>
-- <p style="font-size: 16px;">将鼠标光标放置在右边的窗口中，即可预览当前鼠标样式</p><p style="font-size: 16px;">注意是实时预览当前「你」设置的鼠标样式</p>
-:::
-
-<iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="420px" frameborder="0"></iframe>
+<LinkCard title="新标签页打开" icon="mingcute:arrow-right-up-line" href="https://ri.youming.v6.army/鼠标样式预览.html"></LinkCard>
+<iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="740px" frameborder="0"></iframe>
 
 @tab :[mingcute:film-line]: 视频预览&宣传片
 
@@ -207,68 +202,28 @@ permalink: /notes/MC-鼠标指针.html
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
-<a href="/必看.html" style="
-    display: inline-block;
-    padding: 10px 20px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 6px;
-    font-size: 16px;
-    text-decoration: none;
-    background-color: var(--vp-c-bg-safe);
-    color: var(--vp-c-text-primary);">
-    下载后必看（开源作品）
-</a>
+<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
 @tab :[mingcute:cloud-line]: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
-<a href="/必看.html" style="
-    display: inline-block;
-    padding: 10px 20px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 6px;
-    font-size: 16px;
-    text-decoration: none;
-    background-color: var(--vp-c-bg-safe);
-    color: var(--vp-c-text-primary);">
-    下载后必看（开源作品）
-</a>
+<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
 @tab :[mingcute:cloud-line]: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
-<a href="/必看.html" style="
-    display: inline-block;
-    padding: 10px 20px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 6px;
-    font-size: 16px;
-    text-decoration: none;
-    background-color: var(--vp-c-bg-safe);
-    color: var(--vp-c-text-primary);">
-    下载后必看（开源作品）
-</a>
+<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
 @tab :[mingcute:cloud-line]: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
 
-<a href="/必看.html" style="
-    display: inline-block;
-    padding: 10px 20px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 6px;
-    font-size: 16px;
-    text-decoration: none;
-    background-color: var(--vp-c-bg-safe);
-    color: var(--vp-c-text-primary);">
-    下载后必看（开源作品）
-</a>
+<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
 :::
 

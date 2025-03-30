@@ -46,13 +46,18 @@ export default defineUserConfig({
 
       git: false, // git 功能
 
-      // Shiki 代码高亮
+      // Shiki 代码高亮 (内置) @vuepress-plume/plugin-shikiji
       // @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
+      // 
+      // shiki: {
+      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
+      // },
 
-      shiki: {
-        languages: ['shell', 'bash', 'typescript', 'javascript'],
-      },
 
+      // shiki 代码高亮 @vuepress/plugin-shiki@next
+      // @see https://theme-plume.vuejs.press/guide/code/intro/
+      // https://ecosystem.vuejs.press/zh/plugins/markdown/shiki.html
+      // 
 
       // markdown enhance
       // @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
@@ -85,8 +90,10 @@ export default defineUserConfig({
         // jsfiddle: true, // @[jsfiddle](id)  嵌入 jsfiddle
         // caniuse: true, // @[caniuse](feature)  嵌入 caniuse
         // imageSize: true, // 在构建阶段为 图片添加 width/height 属性
-        abbr: true, // *[缩写词]: 描述 缩写
-        annotation: true, // [+label]: 内容 注解
+        abbr: true, // *[缩写词]: 缩写词
+        annotation: true, // [+label]: 内容注释
+        timeline: true, // :::timeline  时间线
+        collapse: true, // :::collapse  折叠面板
         repl: {
           go: false,
           rust: false,

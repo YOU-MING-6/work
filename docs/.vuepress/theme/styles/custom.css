@@ -21,9 +21,9 @@
 
  /** 背景颜色 */
   --vp-c-bg: #ffffff;
-  --vp-c-bg-alt: #f6f6f7;
+  --vp-c-bg-alt: #f8f9fa;
   --vp-c-bg-elv: #ffffff;
-  --vp-c-bg-soft: #f6f6f7;
+  --vp-c-bg-soft: #f8f9fa;
 
   /** 文本颜色 */
   --vp-c-text-1: rgba(60, 60, 67);
