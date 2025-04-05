@@ -33,19 +33,18 @@ permalink: /notes/Yormong-OS-NEXT.html
 - 界面设计参考于网络。
 - 此PPT使用了一些 PPT 插件。
 
-::: tip 版本
-当前最新版本：`v0.0.2 概念版` `(v0.0.1.20240718.054)`
+::: tip 当前最新版本：`v0.0.2 概念版` `(v0.0.1.20240718.054)`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-发起者：<Badge text="YOU MING 柚明" type="warning" />
-
-参与创作的人员：<Badge text="某团一笑" type="info" />
+发起者：
 
 <LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
+
+参与创作的人员：
 
 <LinkCard title="某团一笑" icon="https://ri.youming.v6.army/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
     现在，让我们来看看答案。

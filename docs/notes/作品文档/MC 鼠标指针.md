@@ -62,7 +62,7 @@ permalink: /notes/MC-鼠标指针.html
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-发起者：<Badge text="YOU MING 柚明" type="warning" />
+发起者：
 
 <LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者

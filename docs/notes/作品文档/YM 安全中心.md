@@ -31,13 +31,12 @@ permalink: /notes/YM-安全中心.html
 - 仅用于我们制作 PPT 系统 时弹出顶部的导航条。
 - 目前暂无实际用途，仅用于 ==装饰=={.info} 。
 
-::: tip 版本
-当前最新版本：`v0.0.3 内测版` `(v0.0.3.20240623.100)`
+::: tip 当前最新版本：`v0.0.3 内测版` `(v0.0.3.20240623.100)`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-发起者：<Badge text="YOU MING 柚明" type="warning" />
+发起者：
 
 <LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者

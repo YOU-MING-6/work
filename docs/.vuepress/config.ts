@@ -2,7 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 import { path } from "vuepress/utils";
-import { commentPlugin } from '@vuepress/plugin-comment' // 评论插件
+// import { commentPlugin } from '@vuepress/plugin-comment' // 评论插件
 // import { getDirname } from "vuepress/utils"; // 灯笼装饰
 
 export default defineUserConfig({
@@ -28,11 +28,25 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: plumeTheme({
-    // 添加您的部署域名
-    hostname: 'https://work.youming.v6.army',
+    hostname: 'https://work.youming.v6.army', // 部署域名
     
-    // docsRepo: '',
-    // docsDir: '',
+    docsRepo: 'https://github.com/YOU-MING-6/work',
+    docsDir: 'docs',
+
+    // 贡献者
+    contributors: {
+      mode: 'inline',
+      info: [
+        {
+          username: 'you-ming-6', // 显示的名字
+          alias: ['YOU MING 柚明'], // 别名
+        },
+        {
+          username: 'Afly-dream', // 显示的名字
+          alias: ['Aflydream'], // 别名
+        }
+      ]
+    },
 
     blog: false, // 是否开启博客功能
 
@@ -44,7 +58,7 @@ export default defineUserConfig({
 
     plugins: {
 
-      git: false, // git 功能
+      git: true, // git 功能
 
       // Shiki 代码高亮 (内置) @vuepress-plume/plugin-shikiji
       // @see https://theme-plume.vuejs.press/config/plugins/code-highlight/

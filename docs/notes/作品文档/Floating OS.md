@@ -32,15 +32,18 @@ permalink: /notes/Floating-OS.html
 - [停止构建](#停止构建)
 
 
-::: tip 版本
-当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024121207)`
+::: tip 当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024121207)`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
 
-发起者：<Badge text="Afly-dream" type="warning" />
+发起者：
 
-参与创作的人员：<Badge text="某团一笑" type="info" />
+<LinkCard title="Afly-dream" icon="https://ri.youming.v6.army/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
+    有梦想，才能有希望。
+</LinkCard>
+
+参与创作的人员：
 
 <LinkCard title="Afly-dream" icon="https://ri.youming.v6.army/tx-3-ys.png" href="/notes/更多/工作室.html#afly-dream">
     有梦想，才能有希望。
