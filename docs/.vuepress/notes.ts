@@ -26,7 +26,7 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11'},
+            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止支持', type: 'danger' }},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},
             { text: 'YM 安全中心', link: 'YM-安全中心'},
             { text: 'Yormong OS', link: 'Yormong-OS'},
@@ -39,7 +39,7 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页'},
+            { text: '柚明主页', link: '柚明主页', badge: { text: '停止支持', type: 'danger' }},
             { text: '作品文档', link: '作品文档'}
           ]
         },
@@ -83,7 +83,7 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11'},
+            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止支持', type: 'danger' }},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},
             { text: 'YM 安全中心', link: 'YM-安全中心'},
             { text: 'Yormong OS', link: 'Yormong-OS'},
@@ -96,7 +96,7 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页'},
+            { text: '柚明主页', link: '柚明主页', badge: { text: '停止支持', type: 'danger' }},
             { icon: 'mingcute:book-2-line', text: '作品文档', link: '/notes/更多/更新日志.html'}
           ]
         },

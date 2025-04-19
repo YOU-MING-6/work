@@ -38,8 +38,8 @@ export default defineUserConfig({
       mode: 'inline',
       info: [
         {
-          username: 'you-ming-6', // 显示的名字
-          alias: ['YOU MING 柚明'], // 别名
+          username: 'YOU MING 柚明', // 显示的名字
+          alias: ['you-ming-6'], // 别名
         },
         {
           username: 'Afly-dream', // 显示的名字

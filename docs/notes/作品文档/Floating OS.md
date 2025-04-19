@@ -68,7 +68,7 @@ permalink: /notes/Floating-OS.html
 
 ::: tabs
 
-@tab :[mingcute:pic-line]: 图片预览
+@tab :[mingcute:pic-line]: 图片展示
 
 ![](https://ri.youming.v6.army/ft-yl.png)
 

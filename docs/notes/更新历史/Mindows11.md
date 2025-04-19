@@ -21,7 +21,7 @@ permalink: /notes/更新历史/Mindows11.html
 
 ## ◉ 停止支持
 ::: caution 停止支持
-- 用户 <Badge text="柚明" type="tip" /> 已停止更新作品  Mindows11 
+- 用户 <Badge text="柚明" type="tip" /> 已停止更新作品 Mindows11
 
 ::: right
 **2024.1.23**

@@ -77,9 +77,9 @@ mingcute:pencil-3-line
 
 - :[mingcute:eye-2-line]: 预览
 mingcute:eye-2-line
-- :[mingcute:film-line]: 视频预览 宣传片
+- :[mingcute:film-line]: 视频演示 宣传片
 mingcute:film-line
-- :[mingcute:pic-line]: 图片预览
+- :[mingcute:pic-line]: 图片展示
 "mingcute:pic-line
 - :[mingcute:pic-ai-line]: GIF预览
 mingcute:pic-ai-line

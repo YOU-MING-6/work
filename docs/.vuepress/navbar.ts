@@ -40,6 +40,7 @@ export const navbar = defineNavbarConfig([
             text: 'Mindows11',
             link: '/notes/Mindows11.html',
             icon: 'mingcute:layout-grid-line',
+            badge: { text: '停止支持', type: 'danger' },
           },
           {
             text: 'YM 虚拟机',
@@ -71,6 +72,7 @@ export const navbar = defineNavbarConfig([
             text: '柚明主页',
             link: '/notes/柚明主页.html',
             icon: 'mingcute:home-4-line',
+            badge: { text: '停止支持', type: 'danger' },
           },
           {
             text: '作品文档',
@@ -114,6 +116,7 @@ export const navbar = defineNavbarConfig([
             text: 'Mindows11',
             link: '/notes/更新历史/Mindows11.html',
             icon: 'mingcute:layout-grid-line',
+            badge: { text: '停止支持', type: 'danger' },
           },
           {
             text: 'YM 虚拟机',
@@ -145,6 +148,7 @@ export const navbar = defineNavbarConfig([
             text: '柚明主页',
             link: '/notes/更新历史/柚明主页.html',
             icon: 'mingcute:home-4-line',
+            badge: { text: '停止支持', type: 'danger' },
           },
           {
             text: '作品文档',

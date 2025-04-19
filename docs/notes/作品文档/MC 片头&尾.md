@@ -57,7 +57,7 @@ permalink: /notes/MC-片头-尾.html
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 视频预览
+@tab :[mingcute:film-line]: 视频演示
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
 

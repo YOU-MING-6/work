@@ -66,7 +66,7 @@ permalink: /notes/Mindows11.html
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 视频预览
+@tab :[mingcute:film-line]: 视频演示
 
 <LinkCard title="哔哩哔哩 - 合集" icon="mingcute:bilibili-fill" href="https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698"></LinkCard>
 

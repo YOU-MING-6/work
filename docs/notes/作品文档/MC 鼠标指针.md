@@ -57,7 +57,7 @@ permalink: /notes/MC-鼠标指针.html
 - 你也可以自己根据 ==更多选择=={.info} 来自定义鼠标光标；
 - 还有 附魔金苹果（动态）样式哦！
 
-::: tip 当前最新版本：`1.9 正式版`
+::: tip 当前最新版本：`1.9 内测版`
 :::
 
 ## :[mingcute:contacts-3-line]: 创作人员
@@ -86,7 +86,7 @@ permalink: /notes/MC-鼠标指针.html
 
 :::: tabs
 
-@tab :[mingcute:pic-line]: 图片预览
+@tab :[mingcute:pic-line]: 图片展示
 
 <!-- 根据主题深浅自动切换图片 -->
 <style>
@@ -115,7 +115,7 @@ permalink: /notes/MC-鼠标指针.html
 <LinkCard title="新标签页打开" icon="mingcute:arrow-right-up-line" href="https://ri.youming.v6.army/鼠标样式预览.html"></LinkCard>
 <iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="740px" frameborder="0"></iframe>
 
-@tab :[mingcute:film-line]: 视频预览&宣传片
+@tab :[mingcute:film-line]: 视频演示&宣传片
 
 <LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
 
