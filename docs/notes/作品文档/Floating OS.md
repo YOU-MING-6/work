@@ -24,7 +24,7 @@ permalink: /notes/Floating-OS.html
 
 ![](https://ri.youming.v6.army/ft.png)
 
-## :[mingcute:document-line]: 简介
+## ::mingcute:document-line:: 简介
 
 ==Floating OS== 是一个由 ==Youming 工作室=={.warning} 的用户 <Badge text="Afly-dream" type="info" /> 于 ==2024=={.info} 开始制作的一个 ==自研二创系统=={.info}。
 
@@ -35,7 +35,7 @@ permalink: /notes/Floating-OS.html
 ::: tip 当前最新版本：`v0.0.1 构建版` `(v0.0.1 Build 2024121207)`
 :::
 
-## :[mingcute:contacts-3-line]: 创作人员
+## ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
@@ -53,7 +53,7 @@ permalink: /notes/Floating-OS.html
     现在，让我们来看看答案。
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 目前为构建版，暂不支持使用或修改此作品。
 :::
@@ -64,21 +64,21 @@ permalink: /notes/Floating-OS.html
 
 :::
 
-## :[mingcute:eye-2-line]: 预览
+## ::mingcute:eye-2-line:: 预览
 
 ::: tabs
 
-@tab :[mingcute:pic-line]: 图片展示
+@tab ::mingcute:pic-line:: 图片展示
 
 ![](https://ri.youming.v6.army/ft-yl.png)
 
 :::
 
-## :[mingcute:alert-line]: 停止构建
+## ::mingcute:alert-line:: 停止构建
 
 - 非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到 `v0.0.1 Build 2024121207` 。
 
-## :[mingcute:arrow-to-down-line]: 下载链接
+## ::mingcute:arrow-to-down-line:: 下载链接
 
 ::: warning 没有可用的下载链接。
 :::
@@ -86,6 +86,6 @@ permalink: /notes/Floating-OS.html
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
+## ::mingcute:history-anticlockwise-line:: 更新历史
 
 [查看更新历史](/notes/更新历史/Floating-OS.html)

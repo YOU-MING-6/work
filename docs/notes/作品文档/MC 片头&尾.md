@@ -24,7 +24,7 @@ permalink: /notes/MC-片头-尾.html
 
 ![](https://ri.youming.v6.army/mc-pt.png)
 
-## :[mingcute:document-line]: 简介
+## ::mingcute:document-line:: 简介
 
 ==MC 片头&片尾== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2024=={.info} 开始制作的一个 ==MC 片头&尾 素材=={.info} 。
 
@@ -33,7 +33,7 @@ permalink: /notes/MC-片头-尾.html
 ::: tip 当前最新版本：`正式版`
 :::
 
-## :[mingcute:contacts-3-line]: 创作人员
+## ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
@@ -41,7 +41,7 @@ permalink: /notes/MC-片头-尾.html
     一个不知名创作者
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
@@ -53,11 +53,11 @@ permalink: /notes/MC-片头-尾.html
 
 :::
 
-## :[mingcute:eye-2-line]: 预览
+## ::mingcute:eye-2-line:: 预览
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 视频演示
+@tab ::mingcute:film-line:: 视频演示
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
 
@@ -65,11 +65,11 @@ permalink: /notes/MC-片头-尾.html
 
 :::
 
-## :[mingcute:bulb-line]: 教程
+## ::mingcute:bulb-line:: 教程
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 视频教程
+@tab ::mingcute:film-line:: 视频教程
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1UzmBY2ErD"></LinkCard>
 
@@ -77,9 +77,9 @@ permalink: /notes/MC-片头-尾.html
 
 :::
 
-## :[mingcute:arrow-to-down-line]: 下载链接
+## ::mingcute:arrow-to-down-line:: 下载链接
 
-:::: details :[mingcute:file-info-line]: 文件属性
+:::: details ::mingcute:file-info-line:: 文件属性
 
 ::: card-masonry
 
@@ -91,7 +91,7 @@ permalink: /notes/MC-片头-尾.html
 
 ::: tabs
 
-@tab :[mingcute:cloud-line]: 123 网盘
+@tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123684.com/s/9ZtpTd-7Rqov](https://www.123684.com/s/9ZtpTd-7Rqov)
 - 备用下载链接：[https://www.123865.com/s/9ZtpTd-7Rqov](https://www.123865.com/s/9ZtpTd-7Rqov)
@@ -104,6 +104,6 @@ permalink: /notes/MC-片头-尾.html
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
+## ::mingcute:history-anticlockwise-line:: 更新历史
 
 [查看更新历史](/notes/更新历史/MC-片头_尾.html)

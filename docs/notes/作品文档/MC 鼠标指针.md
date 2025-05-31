@@ -45,7 +45,7 @@ permalink: /notes/MC-鼠标指针.html
 </div>
 
 
-## :[mingcute:document-line]: 简介
+## ::mingcute:document-line:: 简介
 
 ==MC 鼠标指针== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.2=={.info} 开始制作的一个 ==鼠标指针=={.info} 。
 
@@ -60,7 +60,7 @@ permalink: /notes/MC-鼠标指针.html
 ::: tip 当前最新版本：`1.9 内测版`
 :::
 
-## :[mingcute:contacts-3-line]: 创作人员
+## ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
@@ -68,7 +68,7 @@ permalink: /notes/MC-鼠标指针.html
     一个不知名创作者
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
@@ -82,11 +82,11 @@ permalink: /notes/MC-鼠标指针.html
 
 :::
 
-## :[mingcute:eye-2-line]: 预览
+## ::mingcute:eye-2-line:: 预览
 
 :::: tabs
 
-@tab :[mingcute:pic-line]: 图片展示
+@tab ::mingcute:pic-line:: 图片展示
 
 <!-- 根据主题深浅自动切换图片 -->
 <style>
@@ -110,22 +110,22 @@ permalink: /notes/MC-鼠标指针.html
   <img src="https://ri.youming.v6.army/sbzz-yl-dark.png" width="350px"><!-- 深色主题图片 -->
 </div>
 
-@tab :[mingcute:mouse-line]: 实时预览
+@tab ::mingcute:mouse-line:: 实时预览
 
 <LinkCard title="新标签页打开" icon="mingcute:arrow-right-up-line" href="https://ri.youming.v6.army/鼠标样式预览.html"></LinkCard>
 <iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="740px" frameborder="0"></iframe>
 
-@tab :[mingcute:film-line]: 视频演示&宣传片
+@tab ::mingcute:film-line:: 视频演示&宣传片
 
 <LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
 
 ::::
 
-## :[mingcute:bulb-line]: 教程
+## ::mingcute:bulb-line:: 教程
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 通用安装方式
+@tab ::mingcute:film-line:: 通用安装方式
 
 <LinkCard title="哔哩哔哩-链接" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV1EJegeBERB"></LinkCard>
 
@@ -133,13 +133,13 @@ permalink: /notes/MC-鼠标指针.html
 
 :::
 
-## :[mingcute:alert-line]: 已知问题
+## ::mingcute:alert-line:: 已知问题
 
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
 
-## :[mingcute:mailbox-line]: 粉丝建议
+## ::mingcute:mailbox-line:: 粉丝建议
 
 ::: demo-wrapper
 
@@ -180,9 +180,9 @@ permalink: /notes/MC-鼠标指针.html
 如果你不想在这里展示，请向我们发送反馈以删除此信息。
 :::
 
-## :[mingcute:arrow-to-down-line]: 下载链接
+## ::mingcute:arrow-to-down-line:: 下载链接
 
-:::: details :[mingcute:file-info-line]: 文件属性
+:::: details ::mingcute:file-info-line:: 文件属性
 
 ::: card-masonry
 
@@ -197,28 +197,28 @@ permalink: /notes/MC-鼠标指针.html
 
 ::: tabs
 
-@tab :[mingcute:cloud-line]: 蓝奏云
+@tab ::mingcute:cloud-line:: 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 123 网盘
+@tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 夸克网盘
+@tab ::mingcute:cloud-line:: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 百度网盘
+@tab ::mingcute:cloud-line:: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
@@ -230,6 +230,6 @@ permalink: /notes/MC-鼠标指针.html
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
+## ::mingcute:history-anticlockwise-line:: 更新历史
 
 [查看更新历史](/notes/更新历史/MC-鼠标指针.html)

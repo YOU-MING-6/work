@@ -15,13 +15,13 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: 'https://ri.youming.v6.army/work.png' }],
   ],
 
-  // 取消灯笼装饰请删除 alias 的配置、删除本文件中第四行的内容、docs\.vuepress\theme\components\lantern.vue 的文件
-  // alias: {
-  //   "@theme/Nav/VPNavBarTitle.vue": path.resolve(
-  //     __dirname,
-  //     "./theme/components/lantern.vue"
-  //   ),
-  // },
+  alias: {
+    // 灯笼装饰（docs\.vuepress\theme\components\lantern.vue）
+    // "@theme/Nav/VPNavBarTitle.vue": path.resolve(
+    //   __dirname,
+    //   "./theme/components/lantern.vue"
+    // ),
+  },
 
   shouldPrefetch: false, // 是否开启预加载
 
@@ -56,6 +56,35 @@ export default defineUserConfig({
       contentFile: path.join(__dirname, 'bulletin.md'),
     },
 
+    markdown: {
+      fileTree: true, // ::: file-tree  文件树容器
+      plot: true, // !!plot!! 隐秘文本
+      icons: true, // ::collect:name::   内联 iconify 图标
+      artPlayer: true, // @[art-player](url)  嵌入 art-player 视频
+      audioReader: true, // @[audio-reader](url)  嵌入 audio-reader 音频
+      // pdf: true, // @[pdf](url)  嵌入 PDF 文件
+      bilibili: true, // @[bilibili](bvid)  嵌入 bilibili 视频
+      // youtube: true, // @[youtube](id)  嵌入 youtube 视频
+      // codepen: true, // @[codepen](user/slash)  嵌入 codepen
+      // replit: true, // @[replit](user/repl-name)  嵌入 Replit
+      // codeSandbox: true, // @[codesandbox](id)  嵌入 CodeSandbox
+      // jsfiddle: true, // @[jsfiddle](id)  嵌入 jsfiddle
+      // caniuse: true, // @[caniuse](feature)  嵌入 caniuse
+      // imageSize: true, // 在构建阶段为 图片添加 width/height 属性
+      abbr: true, // *[缩写词]: 缩写词
+      annotation: true, // [+label]: 内容注释
+      codeTree: true, // ::: code-tree  代码树
+      field: true, // ::: field  字段容器
+      timeline: true, // ::: timeline  时间线
+      collapse: true, // ::: collapse  折叠面板
+      chat: true, // ::: chat  对话记录
+      repl: {
+        go: false,
+        rust: false,
+        kotlin: false,
+      },
+    },
+
     plugins: {
 
       git: true, // git 功能
@@ -86,35 +115,6 @@ export default defineUserConfig({
       //   flowchart: true,
       },
 
-
-      // markdown power
-      // @see https://theme-plume.vuejs.press/config/plugin/markdown-power/
-
-      markdownPower: {
-        fileTree: true, // :::file-tree  文件树容器
-        plot: true, // !!plot!! 隐秘文本
-        icons: true, // :[collect:name]:   内联 iconify 图标
-        artPlayer: true, // @[art-player](url)  嵌入 art-player 视频
-        audioReader: true, // @[audio-reader](url)  嵌入 audio-reader 音频
-        // pdf: true, // @[pdf](url)  嵌入 PDF 文件
-        bilibili: true, // @[bilibili](bvid)  嵌入 bilibili 视频
-        // youtube: true, // @[youtube](id)  嵌入 youtube 视频
-        // codepen: true, // @[codepen](user/slash)  嵌入 codepen
-        // replit: true, // @[replit](user/repl-name)  嵌入 Replit
-        // codeSandbox: true, // @[codesandbox](id)  嵌入 CodeSandbox
-        // jsfiddle: true, // @[jsfiddle](id)  嵌入 jsfiddle
-        // caniuse: true, // @[caniuse](feature)  嵌入 caniuse
-        // imageSize: true, // 在构建阶段为 图片添加 width/height 属性
-        abbr: true, // *[缩写词]: 缩写词
-        annotation: true, // [+label]: 内容注释
-        timeline: true, // :::timeline  时间线
-        collapse: true, // :::collapse  折叠面板
-        repl: {
-          go: false,
-          rust: false,
-          kotlin: false,
-        },
-      },
 
       // 评论 comments
       // @see https://theme-plume.vuejs.press/guide/features/comments/

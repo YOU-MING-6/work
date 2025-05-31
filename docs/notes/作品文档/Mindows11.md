@@ -25,7 +25,7 @@ permalink: /notes/Mindows11.html
 
 ![](https://ri.youming.v6.army/min11.png)
 
-## :[mingcute:document-line]: 简介
+## ::mingcute:document-line:: 简介
 
 ==Mindows11== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.4.14=={.info} 开始制作的  ==PPT 系统=={.info} 。
 
@@ -37,7 +37,7 @@ permalink: /notes/Mindows11.html
 当前最新版本：`4.2 正式版`
 :::
 
-## :[mingcute:contacts-3-line]: 创作人员
+## ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
@@ -51,7 +51,7 @@ permalink: /notes/Mindows11.html
     现在，让我们来看看答案。
 </LinkCard>
 
-## :[mingcute:pencil-3-line]: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
 :::
@@ -62,19 +62,19 @@ permalink: /notes/Mindows11.html
 
 :::
 
-## :[mingcute:eye-2-line]: 预览
+## ::mingcute:eye-2-line:: 预览
 
 ::: tabs
 
-@tab :[mingcute:film-line]: 视频演示
+@tab ::mingcute:film-line:: 视频演示
 
 <LinkCard title="哔哩哔哩 - 合集" icon="mingcute:bilibili-fill" href="https://space.bilibili.com/1337092956/channel/collectiondetail?sid=1514698"></LinkCard>
 
 :::
 
-## :[mingcute:arrow-to-down-line]: 下载链接
+## ::mingcute:arrow-to-down-line:: 下载链接
 
-:::: details :[mingcute:file-info-line]: 文件属性
+:::: details ::mingcute:file-info-line:: 文件属性
 
 ::: card-masonry
 
@@ -98,28 +98,28 @@ permalink: /notes/Mindows11.html
 
 ::: tabs
 
-@tab :[mingcute:cloud-line]: 蓝奏云
+@tab ::mingcute:cloud-line:: 蓝奏云
 
 - 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
 - 提取码：`hi3x`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 123 网盘
+@tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 夸克网盘
+@tab ::mingcute:cloud-line:: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
 
 <a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
 
-@tab :[mingcute:cloud-line]: 百度网盘
+@tab ::mingcute:cloud-line:: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`
@@ -131,6 +131,6 @@ permalink: /notes/Mindows11.html
 ::: important 下载即代表你已阅读并同意 [作品权限](#作品权限) 中的内容。
 :::
 
-## :[mingcute:history-anticlockwise-line]: 更新历史
+## ::mingcute:history-anticlockwise-line:: 更新历史
 
 [查看更新历史](/notes/更新历史/Mindows11.html)

@@ -129,7 +129,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## ◉ 更新记录损坏 :[mingcute:alert-line]:
+## ◉ 更新记录损坏 ::mingcute:alert-line::
 ::: caution 此处的更新记录已损坏。
 ::: right
 **2023**
