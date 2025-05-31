@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://ri.youming.v6.army/work.png',
+  logo: 'https://ri.youming.v6.army/docs.png',
 
   appearance: true,
 
@@ -21,7 +21,7 @@ export default defineThemeConfig({
   },
   // 社交链接
   social: [
-    { icon: 'github', link: 'https://github.com/YOU-MING-6/work' },
+    { icon: 'github', link: 'https://github.com/YOU-MING-6/docs' },
     { icon: 'qq', link: '链接.html#qq-群' },
     { icon: 'bilibili', link: 'https://space.bilibili.com/1337092956' },
     ],

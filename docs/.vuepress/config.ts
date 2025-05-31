@@ -12,7 +12,7 @@ export default defineUserConfig({
   description: 'Youming 工作室的作品文档',
 
   head: [
-    ['link', { rel: 'icon', href: 'https://ri.youming.v6.army/work.png' }],
+    ['link', { rel: 'icon', href: 'https://ri.youming.v6.army/docs.png' }],
   ],
 
   alias: {
@@ -28,9 +28,9 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: plumeTheme({
-    hostname: 'https://work.youming.v6.army', // 部署域名
+    hostname: 'https://docs.youming.v6.army', // 部署域名
     
-    docsRepo: 'https://github.com/YOU-MING-6/work',
+    docsRepo: 'https://github.com/YOU-MING-6/docs',
     docsDir: 'docs',
 
     // 贡献者

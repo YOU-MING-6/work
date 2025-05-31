@@ -62,8 +62,8 @@ mingcute:horn-2-line
 - ::mingcute:compass-3-line:: 指南
 mingcute:compass-3-line
 
-- ::https://ri.youming.v6.army/ym-work-icon.svg:: 工作室
-https://ri.youming.v6.army/ym-work-icon.svg
+- ::https://ri.youming.v6.army/ym-docs-icon.svg:: 工作室
+https://ri.youming.v6.army/ym-docs-icon.svg
 
 - ::mingcute:link-2-line:: 链接
 mingcute:link-2-line
