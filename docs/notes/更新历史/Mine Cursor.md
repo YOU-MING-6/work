@@ -151,7 +151,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 [hite4044](/friends/) 想到灵感，而后开始创作
+- 由 [hite404](/friends/) 想到灵感，而后开始创作
 
 ::: right
 **2025.4.25**

@@ -17,7 +17,7 @@ permalink: /notes/Mine-Cursor.html
 
 ## ::mingcute:document-line:: 简介
 
-==Mine Cursor== 是由 [hite4044](/friends/) 于 ==2025.4.25=={.info} 开始制作的一个 ==实用软件工具=={.info} 。  
+==Mine Cursor== 是由 [hite404](/friends/) 于 ==2025.4.25=={.info} 开始制作的一个 ==实用软件工具=={.info} 。  
 （本文的 “鼠标指针” 指的是 鼠标光标。）
 
 - 一个基于 wxpython 开发，可随意使用原版 MC 物品贴图的自定义鼠标指针的软件；
@@ -27,7 +27,7 @@ permalink: /notes/Mine-Cursor.html
 
 ::: card
 ::mingcute:book-3-line:: **作品名称：** Mine Cursor  
-::mingcute:contacts-2-line:: **发起者：** hite4044 - [查看全部](#创作人员)  
+::mingcute:contacts-2-line:: **发起者：** hite404 - [查看全部](#创作人员)  
 ::mingcute:calendar-time-add-line:: **发起时间：** *2025.4.25*  
 ::mingcute:pencil-ruler-line:: **当前状态：** ::mingcute:check-circle-line /#40c057:: ==正在更新=={.tip}  
 ::mingcute:time-duration-line:: **上次更新时间：** *2025.5.22* - [查看更新历史](#更新历史)  
@@ -47,7 +47,7 @@ permalink: /notes/Mine-Cursor.html
 
 发起者：
 
-<LinkCard title="hite4044" icon="/rc/tx-4.png" href="/friends/">
+<LinkCard title="hite404" icon="/rc/tx-4.png" href="/friends/">
     不忘初心，方得始终。
 </LinkCard>
 
