@@ -18,17 +18,23 @@ export const navbar = defineNavbarConfig([
           {
             text: 'MC 鼠标指针',
             link: '/notes/MC-鼠标指针.html',
-            icon: 'mingcute:mouse-line',
+            icon: 'mingcute:cursor-3-line',
           },
           {
             text: 'Floating OS',
             link: '/notes/Floating-OS.html',
             icon: 'mingcute:album-line',
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: 'MC-片头&尾',
             link: '/notes/MC-片头-尾.html',
             icon: 'mingcute:video-line',
+          },
+          {
+            text: 'Mine Cursor',
+            link: '/notes/Mine-Cursor.html',
+            icon: 'mingcute:mouse-line',
           },
         ],
       },
@@ -40,17 +46,7 @@ export const navbar = defineNavbarConfig([
             text: 'Mindows11',
             link: '/notes/Mindows11.html',
             icon: 'mingcute:layout-grid-line',
-            badge: { text: '停止支持', type: 'danger' },
-          },
-          {
-            text: 'YM 虚拟机',
-            link: '/notes/YM-虚拟机.html',
-            icon: 'mingcute:chart-pie-2-line',
-          },
-          {
-            text: 'YM 安全中心',
-            link: '/notes/YM-安全中心.html',
-            icon: 'mingcute:safety-certificate-line',
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: 'Yormong OS',
@@ -62,6 +58,16 @@ export const navbar = defineNavbarConfig([
             link: '/notes/Yormong-OS-NEXT.html',
             icon: 'mingcute:round-line',
           },
+          {
+            text: 'YM 虚拟机',
+            link: '/notes/YM-虚拟机.html',
+            icon: 'mingcute:chart-pie-2-line',
+          },
+          {
+            text: 'YM 安全中心',
+            link: '/notes/YM-安全中心.html',
+            icon: 'mingcute:safety-certificate-line',
+          },
         ],
       },
       {
@@ -72,12 +78,17 @@ export const navbar = defineNavbarConfig([
             text: '柚明主页',
             link: '/notes/柚明主页.html',
             icon: 'mingcute:home-4-line',
-            badge: { text: '停止支持', type: 'danger' },
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: '作品文档',
             link: '/notes/作品文档.html',
             icon: 'mingcute:book-2-line',
+          },
+          {
+            text: 'YM 站点监控',
+            link: '/notes/YM-站点监控.html',
+            icon: 'mingcute:monitor-line',
           },
         ],
       }
@@ -94,17 +105,23 @@ export const navbar = defineNavbarConfig([
           {
             text: 'MC 鼠标指针',
             link: '/notes/更新历史/MC-鼠标指针.html',
-            icon: 'mingcute:mouse-line',
+            icon: 'mingcute:cursor-3-line',
           },
           {
             text: 'Floating OS',
             link: '/notes/更新历史/Floating-OS.html',
             icon: 'mingcute:album-line',
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: 'MC-片头&尾',
             link: '/notes/更新历史/MC-片头-尾.html',
             icon: 'mingcute:video-line',
+          },
+          {
+            text: 'Mine Cursor',
+            link: '/notes/更新历史/Mine-Cursor.html',
+            icon: 'mingcute:mouse-line',
           },
         ],
       },
@@ -116,17 +133,7 @@ export const navbar = defineNavbarConfig([
             text: 'Mindows11',
             link: '/notes/更新历史/Mindows11.html',
             icon: 'mingcute:layout-grid-line',
-            badge: { text: '停止支持', type: 'danger' },
-          },
-          {
-            text: 'YM 虚拟机',
-            link: '/notes/更新历史/YM-虚拟机.html',
-            icon: 'mingcute:chart-pie-2-line',
-          },
-          {
-            text: 'YM 安全中心',
-            link: '/notes/更新历史/YM-安全中心.html',
-            icon: 'mingcute:safety-certificate-line',
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: 'Yormong OS',
@@ -138,6 +145,16 @@ export const navbar = defineNavbarConfig([
             link: '/notes/更新历史/Yormong-OS-NEXT.html',
             icon: 'mingcute:round-line',
           },
+          {
+            text: 'YM 虚拟机',
+            link: '/notes/更新历史/YM-虚拟机.html',
+            icon: 'mingcute:chart-pie-2-line',
+          },
+          {
+            text: 'YM 安全中心',
+            link: '/notes/更新历史/YM-安全中心.html',
+            icon: 'mingcute:safety-certificate-line',
+          },
         ],
       },
       {
@@ -148,12 +165,17 @@ export const navbar = defineNavbarConfig([
             text: '柚明主页',
             link: '/notes/更新历史/柚明主页.html',
             icon: 'mingcute:home-4-line',
-            badge: { text: '停止支持', type: 'danger' },
+            badge: { text: '停止', type: 'danger' },
           },
           {
             text: '作品文档',
             link: '/notes/更多/更新日志.html',
             icon: 'mingcute:book-2-line',
+          },
+          {
+            text: 'YM 站点监控',
+            link: '/notes/更新历史/YM-站点监控.html',
+            icon: 'mingcute:monitor-line',
           },
         ],
       }
@@ -270,7 +292,7 @@ export const navbar = defineNavbarConfig([
           {
             text: '工作室',
             link: '/notes/更多/工作室.html',
-            icon: 'https://ri.youming.v6.army/ym-docs-icon.svg',
+            icon: '/rc/ym-docs-icon.svg',
           },
           {
             text: '此网站',
@@ -283,7 +305,7 @@ export const navbar = defineNavbarConfig([
             icon: 'mingcute:history-anticlockwise-line',
           },
           {
-            text: '工作室 成员',
+            text: '成员页面',
             link: '/friends/',
             icon: 'mingcute:contacts-3-line',
           }

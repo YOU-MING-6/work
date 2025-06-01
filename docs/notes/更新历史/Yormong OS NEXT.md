@@ -3,7 +3,7 @@ title: Yormong OS NEXT
 author: YOU MING 柚明
 icon: mingcute:round-line
 outline: 2
-createTime: 2024/07/27
+createTime: 2024/07/16
 tags:
 - 更新历史
 permalink: /notes/更新历史/Yormong-OS-NEXT.html
@@ -69,7 +69,7 @@ permalink: /notes/更新历史/Yormong-OS-NEXT.html
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 想到灵感，而后开始创作
+- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
 
 ::: right
 **2024.7.16**

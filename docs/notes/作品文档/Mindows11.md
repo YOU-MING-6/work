@@ -2,61 +2,64 @@
 title: Mindows11
 author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:layout-grid-line
-createTime: 2024/07/27
+createTime: 2023/04/14
 tags:
   - 停止支持
-  - YM PPT项目
+  - YM-PPT项目
   - 开源
 permalink: /notes/Mindows11.html
 ---
 
-::: caution 状态
-这是一个早期作品  
-此作品目前已 `停止支持`  
-当前为 `正式版`
+::: caution 此作品目前已 `停止支持`
 :::
 
-::: info 项目
-这是一个 `YM PPT项目`  
-这是一个开源项目。[查看作品权限](#作品权限)
-:::
-
----
-
-![](https://ri.youming.v6.army/min11.png)
+![](/rc/min11.png)
 
 ## ::mingcute:document-line:: 简介
 
-==Mindows11== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.4.14=={.info} 开始制作的  ==PPT 系统=={.info} 。
+==Mindows11== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.4.14=={.info} 开始制作的  ==PPT 系统=={.info} 。
 
 - 此 PPT 图片及动图来源于网络
 - 界面设计参考于网络
 - 此PPT使用了一些 PPT 插件
 
-::: tip 版本
-当前最新版本：`4.2 正式版`
+::: warning 这是一个早期作品
 :::
 
-## ::mingcute:contacts-3-line:: 创作人员
+::: card
+::mingcute:book-3-line:: **作品名称：** Mindows11  
+::mingcute:contacts-2-line:: **发起者：** YOU MING 柚明 - [查看全部](#创作人员)  
+::mingcute:calendar-time-add-line:: **发起时间：** *2023.4.14*  
+::mingcute:pencil-ruler-line:: **当前状态：** ::mingcute:close-circle-line /#fa5252:: ==停止支持=={.caution}  
+::mingcute:time-duration-line:: **上次更新时间：** *2023.8.07* - [查看更新历史](#更新历史)  
+::mingcute:board-line:: **当前版本：** ==正式版 - v4.2==
+
+---
+
+::mingcute:layout-3-line:: **项目分类：** `YM-PPT项目`  
+::mingcute:quill-pen-line:: **项目类型：** ::mingcute:quill-pen-line /#40c057:: 开源项目 - [查看作品权限](#作品权限)  
+:::
+
+### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
 参与创作的人员：
 
-<LinkCard title="某团一笑" icon="https://ri.youming.v6.army/tx-2-ys.png" href="/notes/更多/工作室.html#某团一笑">
+<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">
     现在，让我们来看看答案。
 </LinkCard>
 
-## ::mingcute:pencil-3-line:: 作品权限
+### ::mingcute:pencil-3-line:: 作品权限
 
-::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
+::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品使用内容："
+::: card title="作品引用或使用内容："
 
 - 图片及动图（网络）
 

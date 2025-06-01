@@ -3,7 +3,7 @@ title: YM 虚拟机
 author: YOU MING 柚明
 icon: mingcute:chart-pie-2-line
 outline: 2
-createTime: 2024/07/27
+createTime: 2023/05/02
 tags:
 - 更新历史
 permalink: /notes/更新历史/YM-虚拟机.html
@@ -28,10 +28,8 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## ◉ 共同更新
-::: tip 共同更新
-- ==Youming 工作室=={.warning} 的用户 <Badge text="某团一笑" type="info" /> 共同更新作品  YM 虚拟机 
-
+## ◉ 合作
+::: info 用户 [某团一笑](/friends/) 与我们一起更新作品
 ::: right
 **2024.7.7**
 :::
@@ -158,7 +156,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 想到灵感，而后开始创作
+- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
 
 ::: right
 **2023.5**

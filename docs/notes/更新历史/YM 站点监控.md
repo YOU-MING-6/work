@@ -1,0 +1,80 @@
+---
+title: YM-站点监控
+author: YOU MING 柚明
+icon: mingcute:monitor-line
+outline: 2
+createTime: 2025/04/10
+tags:
+- 更新历史
+permalink: /notes/更新历史/YM-站点监控.html
+---
+
+::: important 这是哪？
+这是作品文档的更新历史文档  
+[返回主文档](/notes/YM-站点监控.html)
+:::
+
+<div style="text-align: center; ">
+    <p style="font-size: 56px; font-weight: 650; margin-top: 60px">2025</p>
+</div>
+
+
+## 6月1日 <Badge text="正式版" type="tip" />
+### ✨更新
+
+- 删除 资源接口 RI 域名
+
+::: right
+**2025.6.1**
+:::
+
+
+## 5月31日 <Badge text="正式版" type="tip" />
+### ✨更新
+
+- 更新作品文档域名
+
+::: right
+**2025.5.31**
+:::
+
+
+## 4月20日 <Badge text="正式版" type="tip" />
+### ✨更新
+
+- 新增、修改删除了一些内容
+- 删除密码保护
+
+### 🪐优化提升
+
+- 优化了一些内容
+
+::: right
+**2025.4.20**
+:::
+
+
+## 4月11日 <Badge text="正式版" type="tip" />
+### ✨更新
+
+- 在 UptimeRobot 添加部分域名进行监控
+- 修改了一些内容
+
+::: right
+**2025.4.11**
+:::
+
+
+## ◉ 开始创作
+::: tip 开始创作
+- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+
+::: right
+**2025.4.10**
+:::
+
+<p style="margin-top: 100px"></p>
+
+---
+
+> 你已经到了世界的尽头，没有更多的东西了。

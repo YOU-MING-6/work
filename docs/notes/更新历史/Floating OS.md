@@ -19,9 +19,9 @@ permalink: /notes/更新历史/Floating-OS.html
 </div>
 
 
-## ◉ 停止构建
-::: warning 停止构建
-- 用户 <Badge text="Afly-dream" type="tip" /> 已停止构建作品  Floating OS 
+## ◉ 停止支持(构建)
+::: warning 停止支持(构建)
+- 用户 [Afly-dream](/friends/) 已停止支持(构建)作品  Floating OS 
 
 非常抱歉，由于版权问题，时间问题，我们停止了构建，此项目暂时废弃，最新版本停止到  v0.0.1 Build 2024121207  。
 
@@ -50,7 +50,7 @@ permalink: /notes/更新历史/Floating-OS.html
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="Afly-dream" type="info" /> 想到灵感，而后开始创作
+- 由 Afly-dream 想到灵感，而后开始创作
 
 ::: right
 **2024**

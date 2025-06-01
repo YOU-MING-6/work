@@ -42,7 +42,7 @@ const routeLocale = useRouteLocale();
     </div>
   </div>
 
-<AudioReader src="https://ri.youming.v6.army/gxfc.mp3">
+<AudioReader src="/rc/gxfc.mp3">
   <!-- 灯笼2 -->
   <div class="deng-box1">
     <div class="deng">
@@ -58,7 +58,7 @@ const routeLocale = useRouteLocale();
   </div>
 </AudioReader>
 
-<AudioReader src="https://ri.youming.v6.army/gxfc.mp3">
+<AudioReader src="/rc/gxfc.mp3">
   <!-- 灯笼3 -->
   <div class="deng-box2">
     <div class="deng">

@@ -79,7 +79,7 @@ permalink: /notes/更新历史/MC-片头-尾.html
 
 ## ◉ 开始创作
 ::: tip 开始创作
-- 由 ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 想到灵感，而后开始创作
+- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
 
 ::: right
 **2023**

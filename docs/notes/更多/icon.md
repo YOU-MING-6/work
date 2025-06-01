@@ -16,8 +16,8 @@ permalink: /notes/更多/icon.html
 - ::mingcute:navigation-line:: 导航
 mingcute:navigation-line
 
-- ::mingcute:mouse-line:: MC 鼠标指针
-mingcute:mouse-line
+- ::mingcute:cursor-3-line:: MC 鼠标指针
+mingcute:cursor-3-line
 - ::mingcute:album-line:: Floating OS
 mingcute:album-line
 - ::mingcute:video-line:: MC 片头&尾
@@ -62,8 +62,8 @@ mingcute:horn-2-line
 - ::mingcute:compass-3-line:: 指南
 mingcute:compass-3-line
 
-- ::https://ri.youming.v6.army/ym-docs-icon.svg:: 工作室
-https://ri.youming.v6.army/ym-docs-icon.svg
+- ::/rc/ym-docs-icon.svg:: 工作室
+/rc/ym-docs-icon.svg
 
 - ::mingcute:link-2-line:: 链接
 mingcute:link-2-line
@@ -105,12 +105,12 @@ mingcute:document-line
 mingcute:contacts-3-line
 - ::mingcute:contacts-2-line:: 成员
 mingcute:contacts-2-line
-- ::https://ri.youming.v6.army/ym-ys.png:: YOU MING 柚明
-https://ri.youming.v6.army/ym-ys.png
-- ::https://ri.youming.v6.army/tx-2-ys.png:: 某团一笑
-https://ri.youming.v6.army/tx-2-ys.png
-- ::https://ri.youming.v6.army/tx-3-ys.png:: Afly-dream
-https://ri.youming.v6.army/tx-3-ys.png
+- ::/rc/ym-ys.png:: YOU MING 柚明
+/rc/ym-ys.png
+- ::/rc/tx-2-ys.png:: 某团一笑
+/rc/tx-2-ys.png
+- ::/rc/tx-3-ys.png:: Afly-dream
+/rc/tx-3-ys.png
 
 - ::mingcute:more-3-line:: 更多
 mingcute:more-3-line

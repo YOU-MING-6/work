@@ -1,53 +1,42 @@
 ---
 title: MC 鼠标指针
 author: YOU MING 柚明
-icon: mingcute:mouse-line
-createTime: 2024/07/27
+icon: mingcute:cursor-3-line
+createTime: 2023/02
 tags:
   - 正在更新
-  - YM 作品项目
+  - YM-作品项目
   - 开源
 permalink: /notes/MC-鼠标指针.html
 ---
 
-::: tip 更新状态
-此作品目前 `正在更新`  
-当前为 `正式版`
-:::
-
-::: info 项目
-这是一个 `YM 作品项目`  
-这是一个开源项目。[查看作品权限](#作品权限)
-:::
-
----
-
-<!-- 根据主题深浅自动切换图片 -->
 <style>
-[data-theme="dark"] .light-theme-image {
-  display: none;
-}
-[data-theme="light"] .dark-theme-image {
-  display: none;
-}
-[data-theme="dark"] .dark-theme-image {
-  display: block;
-}
-[data-theme="light"] .light-theme-image {
-  display: block;
-}
+  .light-theme-image { 
+    display: block !important; 
+  }
+  .dark-theme-image { 
+    display: none !important; 
+  }
+  html.dark .light-theme-image { 
+    display: none !important; 
+  }
+  html.dark .dark-theme-image { 
+    display: block !important; 
+  }
 </style>
+
+<!-- 根据网站主题切换图片 -->
 <div class="light-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz.png"><!-- 浅色主题图片 -->
+  <img src="/rc/sbzz.png">
 </div>
 <div class="dark-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz-dark.png"><!-- 深色主题图片 -->
+  <img src="/rc/sbzz-dark.png">
 </div>
-
 
 ## ::mingcute:document-line:: 简介
 
-==MC 鼠标指针== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.2=={.info} 开始制作的一个 ==鼠标指针=={.info} 。
+==MC 鼠标指针== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.2=={.info} 开始制作的一个 ==鼠标指针=={.info} 。  
+（本文的 “鼠标指针” 指的是 鼠标光标。）
 
 - 使用了 ==「新版 MC 材质」=={.info} 制作，~~而不是网上的 老版材质~~；
 - 还有一部分鼠标是动态的；
@@ -57,23 +46,38 @@ permalink: /notes/MC-鼠标指针.html
 - 你也可以自己根据 ==更多选择=={.info} 来自定义鼠标光标；
 - 还有 附魔金苹果（动态）样式哦！
 
-::: tip 当前最新版本：`1.9 内测版`
+::: card
+::mingcute:book-3-line:: **作品名称：** MC 鼠标指针  
+::mingcute:contacts-2-line:: **发起者：** YOU MING 柚明 - [查看全部](#创作人员)  
+::mingcute:calendar-time-add-line:: **发起时间：** *2023.2*  
+::mingcute:pencil-ruler-line:: **当前状态：** ::mingcute:check-circle-line /#40c057:: ==正在更新=={.tip}  
+::mingcute:time-duration-line:: **上次更新时间：** *2025.2.06* - [查看更新历史](#更新历史)  
+::mingcute:board-line:: **当前版本：** ==正式版 - v1.8==（内测版 - v1.9）
+
+---
+
+::mingcute:layout-3-line:: **项目分类：** `YM-作品项目`  
+::mingcute:quill-pen-line:: **项目类型：** ::mingcute:quill-pen-line /#40c057:: 开源项目 - [查看作品权限](#作品权限)  
 :::
 
-## ::mingcute:contacts-3-line:: 创作人员
+::: card
+**相关作品：** [Mine Cursor](/notes/Mine-Cursor.html)
+:::
+
+### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-## ::mingcute:pencil-3-line:: 作品权限
+### ::mingcute:pencil-3-line:: 作品权限
 
-::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
+::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品使用内容："
+::: card title="作品引用或使用内容："
 
 - [Mojang Minecraft](https://www.minecraft.net/)  
   部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
@@ -88,32 +92,32 @@ permalink: /notes/MC-鼠标指针.html
 
 @tab ::mingcute:pic-line:: 图片展示
 
-<!-- 根据主题深浅自动切换图片 -->
 <style>
-[data-theme="dark"] .light-theme-image {
-  display: none;
-}
-[data-theme="light"] .dark-theme-image {
-  display: none;
-}
-[data-theme="dark"] .dark-theme-image {
-  display: block;
-}
-[data-theme="light"] .light-theme-image {
-  display: block;
-}
+  .light-theme-image { 
+    display: block !important; 
+  }
+  .dark-theme-image { 
+    display: none !important; 
+  }
+  html.dark .light-theme-image { 
+    display: none !important; 
+  }
+  html.dark .dark-theme-image { 
+    display: block !important; 
+  }
 </style>
+
+<!-- 根据网站主题切换图片 -->
 <div class="light-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz-yl.png" width="350px"><!-- 浅色主题图片 -->
+  <img src="/rc/sbzz-yl.png" width="350px">
 </div>
 <div class="dark-theme-image">
-  <img src="https://ri.youming.v6.army/sbzz-yl-dark.png" width="350px"><!-- 深色主题图片 -->
+  <img src="/rc/sbzz-yl-dark.png" width="350px">
 </div>
 
-@tab ::mingcute:mouse-line:: 实时预览
+@tab ::mingcute:cursor-3-line:: 实时预览
 
-<LinkCard title="新标签页打开" icon="mingcute:arrow-right-up-line" href="https://ri.youming.v6.army/鼠标样式预览.html"></LinkCard>
-<iframe src="https://ri.youming.v6.army/鼠标样式预览.html" width="100%" height="740px" frameborder="0"></iframe>
+<iframe src="/rc/鼠标样式预览.html" width="100%" height="790px" frameborder="0"></iframe>
 
 @tab ::mingcute:film-line:: 视频演示&宣传片
 
@@ -121,7 +125,7 @@ permalink: /notes/MC-鼠标指针.html
 
 ::::
 
-## ::mingcute:bulb-line:: 教程
+### ::mingcute:bulb-line:: 教程
 
 ::: tabs
 
@@ -139,7 +143,9 @@ permalink: /notes/MC-鼠标指针.html
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
 
-## ::mingcute:mailbox-line:: 粉丝建议
+---
+
+### ::mingcute:mailbox-line:: 粉丝建议
 
 ::: demo-wrapper
 

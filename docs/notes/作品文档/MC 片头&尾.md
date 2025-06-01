@@ -5,48 +5,50 @@ icon: mingcute:video-line
 createTime: 2024/11/09
 tags:
   - 正在更新
-  - YM 作品项目
+  - YM-作品项目
   - 开源
 permalink: /notes/MC-片头-尾.html
 ---
 
-::: warning 更新状态
-此作品目前 `暂停更新`  
-当前为 `正式版`
+::: warning 此作品目前 `暂停更新`
 :::
 
-::: info 项目
-这是一个 `YM 作品项目`  
-这是一个开源项目。[查看作品权限](#作品权限)
-:::
-
----
-
-![](https://ri.youming.v6.army/mc-pt.png)
+![](/rc/mc-pt.png)
 
 ## ::mingcute:document-line:: 简介
 
-==MC 片头&片尾== 是一个由 ==Youming 工作室=={.warning} 的用户 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2024=={.info} 开始制作的一个 ==MC 片头&尾 素材=={.info} 。
+==MC 片头&片尾== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2024=={.info} 开始制作的一个 ==MC 片头&尾 素材=={.info} 。
 
 - 此项目原本为仅供内部使用，后来由于粉丝的强烈要求，于 ==2024.11.09=={.info} 公开。
 
-::: tip 当前最新版本：`正式版`
+::: card
+::mingcute:book-3-line:: **作品名称：** MC 片头&尾  
+::mingcute:contacts-2-line:: **发起者：** YOU MING 柚明 - [查看全部](#创作人员)  
+::mingcute:calendar-time-add-line:: **发起时间：** *2024*  
+::mingcute:pencil-ruler-line:: **当前状态：** ::mingcute:pause-circle-line /#ff922b:: ==暂停更新=={.warning}  
+::mingcute:time-duration-line:: **上次更新时间：** *2024.11.09* - [查看更新历史](#更新历史)  
+::mingcute:board-line:: **当前版本：** ==正式版==
+
+---
+
+::mingcute:layout-3-line:: **项目分类：** `YM-作品项目`  
+::mingcute:quill-pen-line:: **项目类型：** ::mingcute:quill-pen-line /#40c057:: 开源项目 - [查看作品权限](#作品权限)  
 :::
 
-## ::mingcute:contacts-3-line:: 创作人员
+### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="https://ri.youming.v6.army/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
     一个不知名创作者
 </LinkCard>
 
-## ::mingcute:pencil-3-line:: 作品权限
+### ::mingcute:pencil-3-line:: 作品权限
 
-::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html)。
+::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品使用内容："
+::: card title="作品引用或使用内容："
 
 - [Mojang Minecraft](https://www.minecraft.net/)  
   视频开头（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
@@ -65,7 +67,7 @@ permalink: /notes/MC-片头-尾.html
 
 :::
 
-## ::mingcute:bulb-line:: 教程
+### ::mingcute:bulb-line:: 教程
 
 ::: tabs
 

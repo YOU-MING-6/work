@@ -12,7 +12,7 @@ export default defineUserConfig({
   description: 'Youming 工作室的作品文档',
 
   head: [
-    ['link', { rel: 'icon', href: 'https://ri.youming.v6.army/docs.png' }],
+    ['link', { rel: 'icon', href: '/rc/docs.png' }],
   ],
 
   alias: {

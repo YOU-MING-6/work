@@ -16,8 +16,9 @@ const demoNotes = defineNoteConfig({
           prefix: '',
           items: [
             { text: 'MC 鼠标指针', link: 'MC-鼠标指针'},
-            { text: 'Floating OS', link: 'Floating-OS'},
-            { text: 'MC-片头&尾', link: 'MC-片头-尾'}
+            { text: 'Floating OS', link: 'Floating-OS', badge: { text: '停止', type: 'danger' }},
+            { text: 'MC-片头&尾', link: 'MC-片头-尾'},
+            { text: 'Mine Cursor', link: 'Mine-Cursor'},
           ]
         },
         {
@@ -26,11 +27,11 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止支持', type: 'danger' }},
+            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止', type: 'danger' }},
+            { text: 'Yormong OS', link: 'Yormong-OS'},
+            { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},
             { text: 'YM 安全中心', link: 'YM-安全中心'},
-            { text: 'Yormong OS', link: 'Yormong-OS'},
-            { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'}
           ]
         },
         {
@@ -39,8 +40,9 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页', badge: { text: '停止支持', type: 'danger' }},
-            { text: '作品文档', link: '作品文档'}
+            { text: '柚明主页', link: '柚明主页', badge: { text: '停止', type: 'danger' }},
+            { text: '作品文档', link: '作品文档'},
+            { text: 'YM 站点监控', link: 'YM-站点监控'},
           ]
         },
       ]
@@ -73,8 +75,9 @@ const demoHistory = defineNoteConfig({
           prefix: '',
           items: [
             { text: 'MC 鼠标指针', link: 'MC-鼠标指针'},
-            { text: 'Floating OS', link: 'Floating-OS'},
-            { text: 'MC-片头&尾', link: 'MC-片头-尾'}
+            { text: 'Floating OS', link: 'Floating-OS', badge: { text: '停止', type: 'danger' }},
+            { text: 'MC-片头&尾', link: 'MC-片头-尾'},
+            { text: 'Mine Cursor', link: 'Mine-Cursor'},
           ]
         },
         {
@@ -83,11 +86,11 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止支持', type: 'danger' }},
+            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止', type: 'danger' }},
+            { text: 'Yormong OS', link: 'Yormong-OS'},
+            { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},
             { text: 'YM 安全中心', link: 'YM-安全中心'},
-            { text: 'Yormong OS', link: 'Yormong-OS'},
-            { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'}
           ]
         },
         {
@@ -96,8 +99,9 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页', badge: { text: '停止支持', type: 'danger' }},
-            { icon: 'mingcute:book-2-line', text: '作品文档', link: '/notes/更多/更新日志.html'}
+            { text: '柚明主页', link: '柚明主页', badge: { text: '停止', type: 'danger' }},
+            { icon: 'mingcute:book-2-line', text: '作品文档', link: '/notes/更多/更新日志.html'},
+            { text: 'YM 站点监控', link: 'YM-站点监控'},
           ]
         },
       ]
@@ -191,7 +195,7 @@ const demoMore = defineNoteConfig({
       prefix: '',
       items: [
         { text: '工作室', link: '工作室'},
-        { text: '工作室 成员', link: '/friends/', icon: 'mingcute:contacts-3-line'},
+        { text: '成员页面', link: '/friends/', icon: 'mingcute:contacts-3-line'},
         { icon: 'mingcute:history-anticlockwise-line', text: '更新日志', link: '更新日志'},
       ]
     },
