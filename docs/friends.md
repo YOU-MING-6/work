@@ -53,7 +53,7 @@ groups:
             icon: github
             link: https://github.com/Afly-dream
       -
-        name: hite4044 # 2025.4.27 18:24
+        name: hite404 # 2025.4.27 18:24
         avatar: /rc/tx-4-ys.png
         location: 中国
         desc: “不忘初心，方得始终！”
