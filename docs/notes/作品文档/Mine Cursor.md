@@ -25,6 +25,9 @@ permalink: /notes/Mine-Cursor.html
 - 素材库包含了 Minecraft 原版物品、生物、方块、粒子等贴图；
 - 支持导出主题分享给好友，让好友也来使用你自定义的鼠标指针。
 
+::: info 本项目属于合作性质，我们并非发起方。
+:::
+
 ::: card
 ::mingcute:book-3-line:: **作品名称：** Mine Cursor  
 ::mingcute:contacts-2-line:: **发起者：** hite404 - [查看全部](#创作人员)  

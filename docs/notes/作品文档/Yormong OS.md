@@ -57,7 +57,7 @@ permalink: /notes/Yormong-OS.html
 
 ### ::mingcute:pencil-3-line:: 作品权限
 
-::: important 要使用或修改此作品，请遵守 [《非开源作品使用授权协议》](/notes/协议/申请.html) 。
+::: important 要使用或修改此作品，请遵守 [《非开源作品使用授权协议》](/notes/协议/非开源.html) 。
 :::
 
 ::: card title="作品引用或使用内容："
@@ -104,7 +104,7 @@ permalink: /notes/Yormong-OS.html
 
   - 当前文件为公测版，不代表最终产品。
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 夸克网盘
 
@@ -113,7 +113,7 @@ permalink: /notes/Yormong-OS.html
 
   - 当前文件为公测版，不代表最终产品。
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 :::
 

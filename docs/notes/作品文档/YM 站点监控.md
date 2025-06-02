@@ -83,7 +83,7 @@ permalink: /notes/YM-站点监控.html
 - 本项目链接：[https://github.com/YOU-MING-6/docs](https://github.com/YOU-MING-6/docs)
 - 部署此项目：官方教程 [Cloudflare Vercel 部署教程](https://github.com/imsyy/site-status/blob/master/README.zh-CN.md)
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 ::::
 

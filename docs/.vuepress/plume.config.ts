@@ -21,15 +21,15 @@ export default defineThemeConfig({
   },
   // 社交链接
   social: [
-    { icon: 'github', link: 'https://github.com/YOU-MING-6/docs' },
-    { icon: 'qq', link: '链接.html#qq-群' },
     { icon: 'bilibili', link: 'https://space.bilibili.com/1337092956' },
+    { icon: 'qq', link: '链接.html#qq-群' },
+    { icon: 'github', link: 'https://github.com/YOU-MING-6/docs' },
     ],
   navbarSocialInclude: ['github', 'qq', 'bilibili'], // 导航栏社交链接
 
   footer: {
-    message: 'Powered by <a href="https://theme-plume.vuejs.press/" target="_blank">vuepress-theme-plume</a> - <a href="https://icp.gov.moe/?keyword=20250036" target="_blank">萌ICP备20250036号</a> - <a href="https://web.youming.v6.army" target="_blank">YM YM-站点监控</a>',
-    copyright: 'Copyright © 2022-present <a href="/notes/更多/工作室.html">Youming 工作室</a>'
+    message: 'Powered by <a href="https://theme-plume.vuejs.press/" target="_blank">vuepress-theme-plume</a> | <a href="https://icp.gov.moe/?keyword=20250036" target="_blank">萌ICP备20250036号</a> | <a href="https://web.youming.v6.army" target="_blank">YM YM-站点监控</a>',
+    copyright: 'Copyright © 2023-present <a href="/notes/更多/工作室.html">Youming 工作室</a>'
   },
   
   navbar,

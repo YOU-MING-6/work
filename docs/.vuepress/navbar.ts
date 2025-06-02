@@ -225,7 +225,7 @@ export const navbar = defineNavbarConfig([
           },
           {
             text: '非开源作品使用授权协议',
-            link: '/notes/协议/申请.html',
+            link: '/notes/协议/非开源.html',
             icon: 'mingcute:lock-line',
           },
           {
@@ -271,7 +271,7 @@ export const navbar = defineNavbarConfig([
           },
           {
             text: '非开源作品使用授权协议',
-            link: '/notes/协议/申请.html',
+            link: '/notes/协议/非开源.html',
             icon: 'mingcute:key-2-line',
           },
           {

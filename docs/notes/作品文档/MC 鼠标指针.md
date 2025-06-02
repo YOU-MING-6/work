@@ -208,28 +208,28 @@ permalink: /notes/MC-鼠标指针.html
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 :::
 

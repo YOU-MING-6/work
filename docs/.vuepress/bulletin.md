@@ -34,5 +34,5 @@ UP 目前正在备考，所有项目暂停更新
 <p style="font-size: 26px; font-weight: 650; margin-top: 20px; ">更多</p>
 <p style="margin-top: 15px; "></p>
 
-- QQ群：<a href="/链接.html">立即加入</a> - `248965719`
 - 查看此网站的 <a href="/链接.html">社交链接页</a>
+- 给我们发 <a href="/链接.html#邮箱">邮件</a> 反馈

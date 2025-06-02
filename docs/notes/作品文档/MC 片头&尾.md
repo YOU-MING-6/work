@@ -99,7 +99,7 @@ permalink: /notes/MC-片头-尾.html
 - 备用下载链接：[https://www.123865.com/s/9ZtpTd-7Rqov](https://www.123865.com/s/9ZtpTd-7Rqov)
 - 提取码：`3neM`
 
-<a href="/必看.html" style=" display: inline-block; padding: 10px 20px; border: 1px solid var(--vp-c-divider); border-radius: 6px; font-size: 16px; text-decoration: none; background-color: var(--vp-c-bg-safe); color: var(--vp-c-text-primary);">下载后必看</a>
+[下载后必看](/必看.html){.read-more}
 
 :::
 
