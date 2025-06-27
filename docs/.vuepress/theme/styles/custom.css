@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'WLY SC';
-  src: url('/fonts/WeiLaiYuan_SC_Regular.ttf') format('truetype');
+  font-family: '未来圆 SC';
+  src: url('/fonts/未来圆_SC_Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -8,8 +8,8 @@
 
 :root {
   /** 字体 */
-  --vp-font-family-base: "WLY SC", "Punctuation SC", "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --vp-font-family-mono: ui-monospace, "WLY SC", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
+  --vp-font-family-base: "未来圆 SC", "Punctuation SC", "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --vp-font-family-mono: ui-monospace, "未来圆 SC", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace;
 
   /** 主题颜色 */
   --vp-c-brand-1: #228be6;
