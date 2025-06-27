@@ -80,8 +80,12 @@ permalink: /notes/YM-站点监控.html
 
 @tab ::mingcute:fork-knife-line:: GitHub fork
 
-- 本项目链接：[https://github.com/YOU-MING-6/docs](https://github.com/YOU-MING-6/docs)
+- 原项目链接：[https://github.com/imsyy/site-status](https://github.com/imsyy/site-status)
 - 部署此项目：官方教程 [Cloudflare Vercel 部署教程](https://github.com/imsyy/site-status/blob/master/README.zh-CN.md)
+
+---
+
+- 本项目链接：[https://github.com/YOU-MING-6/docs](https://github.com/YOU-MING-6/docs)
 
 [下载后必看](/必看.html){.read-more}
 

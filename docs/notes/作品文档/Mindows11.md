@@ -10,7 +10,7 @@ tags:
 permalink: /notes/Mindows11.html
 ---
 
-::: caution 此作品目前已 `停止支持`
+::: caution 此作品目前已 `停止支持` （你仍可进行下载）
 :::
 
 ![](/rc/min11.png)

@@ -103,19 +103,6 @@ export default defineUserConfig({
       // 
 
 
-      // markdown enhance
-      // @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
-
-      markdownEnhance: {
-        demo: true,
-      //   include: true,
-      //   chart: true,
-      //   echarts: true,
-      //   mermaid: true,
-      //   flowchart: true,
-      },
-
-
       // 评论 comments
       // @see https://theme-plume.vuejs.press/guide/features/comments/
 

@@ -10,7 +10,7 @@ tags:
 permalink: /notes/Floating-OS.html
 ---
 
-::: caution 此作品目前已 `停止支持`
+::: caution 此作品目前已 `停止支持` （你仍可进行下载）
 :::
 
 ![](/rc/ft.png)

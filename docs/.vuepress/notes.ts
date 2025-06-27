@@ -68,6 +68,7 @@ const demoHistory = defineNoteConfig({
       text: '更新历史',
       prefix: '',
       items: [
+        { text: '返回作品文档', link: '/notes/'},
         {
           text: 'YM 作品项目',
           icon: 'mingcute:book-line',

@@ -5,10 +5,6 @@
 
 - 查看 <a href="/指南.html">新人指南</a> | <a href="/notes/协议/转载.html">转载须知</a>
 
-::: warning 暂停更新
-UP 目前正在备考，所有项目暂停更新
-:::
-
 ***
 
 <p style="font-size: 26px; font-weight: 650; margin-top: 20px; ">公告</p>
