@@ -29,7 +29,7 @@ export const navbar = defineNavbarConfig([
         items: [
           {
             text: '公告',
-            link: '/公告.html',
+            link: '/notes/更多/公告.html',
             icon: 'mingcute:horn-2-line',
           },
           {
@@ -94,7 +94,7 @@ export const navbar = defineNavbarConfig([
         items: [
           {
             text: '社交链接页',
-            link: '/链接.html',
+            link: '/notes/更多/链接.html',
             icon: 'mingcute:link-2-line',
           }
         ],

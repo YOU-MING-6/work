@@ -3,14 +3,14 @@
 
 欢迎来到 ==Youming 工作室== 的官方作品文档！
 
-- 查看 <a href="/指南.html">新人指南</a> | <a href="/notes/协议/转载.html">转载须知</a>
+- 查看 <a href="/notes/协议/转载.html">转载须知</a> | ~~<a href="/指南.html" style="color: #555;">新人指南</a>~~(弃用)
 
 ***
 
 <p style="font-size: 26px; font-weight: 650; margin-top: 20px; ">公告</p>
 <p style="margin-top: 16px; "></p>
 
-【<a href="/公告.html">查看全部公告</a>】
+【<a href="/notes/更多/公告.html">查看全部公告</a>】
 
 ::: info 我们已于 `2025.5.31` 更换网站域名
 :::
@@ -30,5 +30,5 @@
 <p style="font-size: 26px; font-weight: 650; margin-top: 20px; ">更多</p>
 <p style="margin-top: 15px; "></p>
 
-- 查看此网站的 <a href="/链接.html">社交链接页</a>
-- 给我们发 <a href="/链接.html#邮箱">邮件</a> 反馈
+- 查看此网站的 <a href="/notes/更多/链接.html">社交链接页</a>
+- 给我们发 <a href="/notes/更多/链接.html#邮箱">邮件</a> 反馈

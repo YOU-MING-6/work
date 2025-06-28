@@ -104,7 +104,7 @@ permalink: /notes/Yormong-OS.html
 
   - 当前文件为公测版，不代表最终产品。
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 夸克网盘
 
@@ -113,7 +113,7 @@ permalink: /notes/Yormong-OS.html
 
   - 当前文件为公测版，不代表最终产品。
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 :::
 

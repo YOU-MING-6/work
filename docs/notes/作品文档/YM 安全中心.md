@@ -16,6 +16,7 @@ permalink: /notes/YM-安全中心.html
 
 ==YM 安全中心== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.5.2=={.info} 开始制作的一个 ==PPT 装饰项目=={.info} ；
 
+- 此项目由部分 PPT 系统延申而来，用于 ==装饰=={.info} 。
 - 仅用于我们制作 PPT 系统 时弹出顶部的导航条。
 - 目前暂无实际用途，仅用于 ==装饰=={.info} 。
 

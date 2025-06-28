@@ -20,9 +20,8 @@ permalink: /notes/更新历史/Mindows11.html
 
 
 ## ◉ 停止支持
-::: caution 停止支持
-- 用户 <Badge text="柚明" type="tip" /> 已停止更新作品 Mindows11
-
+::: caution 用户 <Badge text="柚明" type="tip" /> 已停止更新作品 Mindows11
+:::
 ::: right
 **2024.1.23**
 :::
@@ -113,7 +112,7 @@ permalink: /notes/更新历史/Mindows11.html
 :::
 
 
-## v 1.0 <Badge text="内测版" type="danger" />
+## v 1.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作更多内容
@@ -123,7 +122,7 @@ permalink: /notes/更新历史/Mindows11.html
 :::
 
 
-## v 0.8 <Badge text="内测版" type="danger" />
+## v 0.8 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作更多内容
@@ -136,7 +135,7 @@ permalink: /notes/更新历史/Mindows11.html
 :::
 
 
-## v 0.3 <Badge text="内测版" type="danger" />
+## v 0.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作 安装程序 
@@ -145,7 +144,7 @@ permalink: /notes/更新历史/Mindows11.html
 :::
 
 
-## v 0.1 <Badge text="内测版" type="danger" />
+## v 0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作基本内容
@@ -155,9 +154,8 @@ permalink: /notes/更新历史/Mindows11.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2023.4.14**
 :::

@@ -40,7 +40,7 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页', badge: { text: '停止', type: 'danger' }},
+            { text: '柚明主页', link: '柚明主页'},
             { text: '作品文档', link: '作品文档'},
             { text: 'YM 站点监控', link: 'YM-站点监控'},
           ]
@@ -52,9 +52,9 @@ const demoNotes = defineNoteConfig({
       collapsed: false,
       prefix: '',
       items: [
-        { text: '公告', link: '/公告.html'},
+        { text: '公告', link: '/notes/更多/公告.html'},
         { text: '工作室', link: '更多/工作室.html'},
-        { text: '社交链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/notes/更多/链接.html'}
       ]
     },
   ],
@@ -65,10 +65,16 @@ const demoHistory = defineNoteConfig({
   link: '/notes/更新历史',
   sidebar: [
     {
+      text: '主文档',
+      prefix: '',
+      items: [
+        { text: '作品文档', link: '/notes/'},
+      ]
+    },
+    {
       text: '更新历史',
       prefix: '',
       items: [
-        { text: '返回作品文档', link: '/notes/'},
         {
           text: 'YM 作品项目',
           icon: 'mingcute:book-line',
@@ -100,7 +106,7 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: '柚明主页', link: '柚明主页', badge: { text: '停止', type: 'danger' }},
+            { text: '柚明主页', link: '柚明主页'},
             { icon: 'mingcute:book-2-line', text: '作品文档', link: '/notes/更多/更新日志.html'},
             { text: 'YM 站点监控', link: 'YM-站点监控'},
           ]
@@ -113,7 +119,7 @@ const demoHistory = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/notes/更多/链接.html'}
       ]
     },
   ],
@@ -149,7 +155,7 @@ const demofeedback = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/notes/更多/链接.html'}
       ]
     },
   ],
@@ -181,7 +187,7 @@ const demoagreement = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/notes/更多/链接.html'}
       ]
     },
   ],
@@ -206,7 +212,7 @@ const demoMore = defineNoteConfig({
       prefix: '',
       items: [
         { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/链接.html'}
+        { text: '社交链接页', link: '/notes/更多/链接.html'}
       ]
     },
   ],

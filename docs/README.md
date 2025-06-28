@@ -30,7 +30,7 @@ config:
         title: 公告
         icon: fluent-emoji:megaphone
         details: 立即查看最新公告
-        link: /公告.html
+        link: /notes/更多/公告.html
       -
         title: YM 作品项目
         icon: fluent-emoji:open-book

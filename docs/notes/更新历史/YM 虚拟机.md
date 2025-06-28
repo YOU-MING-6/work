@@ -20,9 +20,8 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 YM 虚拟机
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 YM 虚拟机
+:::
 ::: right
 **2024.9.1**
 :::
@@ -30,12 +29,13 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 ## ◉ 合作
 ::: info 用户 [某团一笑](/friends/) 与我们一起更新作品
+:::
 ::: right
 **2024.7.7**
 :::
 
 
-## v 2.0.0 <Badge text="内测版" type="danger" />
+## v 2.0.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 优化了 关于 的一些内容
@@ -46,7 +46,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 1.9.0 <Badge text="内测版" type="danger" />
+## v 1.9.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 彻底删除 旧 UI 及旧内容
@@ -57,7 +57,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 1.7.0 <Badge text="内测版" type="danger" />
+## v 1.7.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了 虚拟机 页面
@@ -70,7 +70,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 1.5.0 <Badge text="内测版" type="danger" />
+## v 1.5.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了 主页   虚拟机   设置   关于 等内容
@@ -84,7 +84,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 1.3.0 <Badge text="内测版" type="danger" />
+## v 1.3.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 重新制作基本内容
@@ -94,7 +94,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 1.2.0 <Badge text="内测版" type="danger" />
+## v 1.2.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 使用新的 UI 重做框架
@@ -105,9 +105,8 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 
 ## ◉ 继续更新
-::: tip 继续更新
-- 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  YM 虚拟机 
-
+::: tip 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  YM 虚拟机 
+:::
 ::: right
 **2024.6.15**
 :::
@@ -119,9 +118,8 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 因过年，==Youming 工作室=={.warning} 已暂停更新作品
-
+::: warning 因过年，用户 <Badge text="柚明" type="tip" /> 已暂停更新作品
+:::
 ::: right
 **2023**
 :::
@@ -134,7 +132,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 0.1.0 <Badge text="内测版" type="danger" />
+## v 0.1.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作基本内容
@@ -144,7 +142,7 @@ permalink: /notes/更新历史/YM-虚拟机.html
 :::
 
 
-## v 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作基本框架
@@ -155,9 +153,8 @@ permalink: /notes/更新历史/YM-虚拟机.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2023.5**
 :::

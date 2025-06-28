@@ -106,28 +106,28 @@ permalink: /notes/Mindows11.html
 - 下载链接：[https://mclanzou.lanzouo.com/b002u65ope](https://mclanzou.lanzouo.com/b002u65ope)
 - 提取码：`hi3x`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-unLov.html](https://www.123pan.com/s/9ZtpTd-unLov.html)
 - 提取码：`ZLdd`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/57eb8cbc4a36](https://pan.quark.cn/s/57eb8cbc4a36)
 - 提取码：`qtfP`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA](https://pan.baidu.com/s/1xJRlv2yjQgnnrKAixp4kXA)
 - 提取码：`9ba8`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 :::
 

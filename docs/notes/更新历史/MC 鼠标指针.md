@@ -19,7 +19,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 </div>
 
 
-## v 1.9 <Badge text="内测版" type="danger" />
+## v 1.9 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 删除 “16,8 M 颜色” 更改为 “RJB/A 颜色”
@@ -59,7 +59,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 </div>
 
 
-## v 1.7 <Badge text="内测版" type="danger" />
+## v 1.7 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 删除了 更多选择 的部分精确选择样式
@@ -73,7 +73,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 :::
 
 
-## v 1.6 <Badge text="内测版" type="danger" />
+## v 1.6 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了更多的 精确选择 样式
@@ -96,7 +96,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 
 
 
-## v 1.5 <Badge text="内测版" type="danger" />
+## v 1.5 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 
 ### 🪐优化提升
 
@@ -123,18 +123,16 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 
 
 ## ◉ 继续更新
-::: tip 继续更新
-- 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  MC 鼠标指针 
-
+::: tip 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  MC 鼠标指针 
+:::
 ::: right
 **2024.8.19**
 :::
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 鼠标指针 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 鼠标指针 
+:::
 ::: right
 **2024.7.26**
 :::
@@ -160,18 +158,16 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 :::
 
 ## ◉ 继续更新
-::: tip 继续更新
-- 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  MC 鼠标指针 
-
+::: tip 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  MC 鼠标指针 
+:::
 ::: right
 **2024.1.12**
 :::
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 鼠标指针 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 鼠标指针 
+:::
 ::: right
 **2023.5**
 :::
@@ -187,7 +183,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 :::
 
 
-## v 0.5 <Badge text="公测版" type="info" />
+## v 0.5 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 将"忙"的鼠标指针画到64帧
@@ -197,7 +193,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 :::
 
 
-## v 0.3 <Badge text="内测版" type="danger" />
+## v 0.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🚀优化提升
 
 - 优化有动画的鼠标指针的外观
@@ -207,7 +203,7 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 :::
 
 
-## v 0.1 <Badge text="内测版" type="danger" />
+## v 0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 下载素材图片并按照图片制作鼠标指针外观
@@ -222,9 +218,8 @@ permalink: /notes/更新历史/MC-鼠标指针.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2023.2**
 :::

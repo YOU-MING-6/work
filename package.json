@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "description": "YOU MING",
   "packageManager": "pnpm@9.5.0",
-  "author": "you-ming-6 <3597489556@qq.com>",
+  "author": "Youming-studio <mail@youming.dpdns.org>",
   "license": "MIT",
   "engines": {
     "node": "^18.20.0 || >=20.0.0"
@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.23",
+    "@vuepress/plugin-redirect": "2.0.0-rc.110",
     "http-server": "14.1.1",
     "less": "4.3.0",
     "sass": "1.89.2",

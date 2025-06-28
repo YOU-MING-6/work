@@ -1,7 +1,7 @@
 ---
 title: YM 站点监控
 author: YOU MING 柚明
-icon: mingcute:monitor-line
+icon: mingcute:computer-camera-line
 createTime: 2025/04/10
 tags:
   - 正在更新
@@ -60,7 +60,7 @@ permalink: /notes/YM-站点监控.html
 
 @tab ::mingcute:earth-line:: 网站预览
 
-<LinkCard title="YM 站点监控" icon="mingcute:monitor-line" href="https://web.youming.v6.army"></LinkCard>
+<LinkCard title="YM 站点监控" icon="mingcute:computer-camera-line" href="https://web.youming.v6.army"></LinkCard>
 
 ::::
 
@@ -87,7 +87,7 @@ permalink: /notes/YM-站点监控.html
 
 - 本项目链接：[https://github.com/YOU-MING-6/docs](https://github.com/YOU-MING-6/docs)
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 ::::
 

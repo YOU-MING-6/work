@@ -20,15 +20,14 @@ permalink: /notes/更新历史/YM-安全中心.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 YM 虚拟机
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品 YM 虚拟机
+:::
 ::: right
 **2024.9.1**
 :::
 
 
-## v 0.0.3 <Badge text="内测版" type="danger" />
+## v 0.0.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 更换新的「LOGO」
@@ -38,7 +37,7 @@ permalink: /notes/更新历史/YM-安全中心.html
 :::
 
 
-## v 0.0.3 <Badge text="内测版" type="danger" />
+## v 0.0.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 更换新的「LOGO」
@@ -49,9 +48,8 @@ permalink: /notes/更新历史/YM-安全中心.html
 
 
 ## ◉ 继续更新
-::: tip 继续更新
-- 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  YM 安全中心 
-
+::: tip 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  YM 安全中心 
+:::
 ::: right
 **2024.6.23**
 :::
@@ -63,9 +61,8 @@ permalink: /notes/更新历史/YM-安全中心.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  YM 安全中心 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  YM 安全中心 
+:::
 ::: right
 **2023**
 :::
@@ -78,7 +75,7 @@ permalink: /notes/更新历史/YM-安全中心.html
 :::
 
 
-## v 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 制作基本内容
@@ -89,9 +86,8 @@ permalink: /notes/更新历史/YM-安全中心.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2023.5.2**
 :::

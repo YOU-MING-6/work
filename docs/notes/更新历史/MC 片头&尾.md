@@ -20,9 +20,8 @@ permalink: /notes/更新历史/MC-片头-尾.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 片头&尾 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  MC 片头&尾 
+:::
 ::: right
 **2024.11.10**
 :::
@@ -37,7 +36,7 @@ permalink: /notes/更新历史/MC-片头-尾.html
 **2024.11.09**
 :::
 
-## 2024年? <Badge text="内测版" type="danger" />
+## 2024年? <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🚀优化提升
 
 - 优化了一些内容
@@ -52,7 +51,7 @@ permalink: /notes/更新历史/MC-片头-尾.html
 </div>
 
 
-## 2023年? <Badge text="内测版" type="danger" />
+## 2023年? <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🚀优化提升
 
 - 优化了一些内容
@@ -62,7 +61,7 @@ permalink: /notes/更新历史/MC-片头-尾.html
 :::
 
 
-## 2023年? <Badge text="内测版" type="danger" />
+## 2023年? <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 下载素材并抠图
@@ -78,9 +77,8 @@ permalink: /notes/更新历史/MC-片头-尾.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2023**
 :::

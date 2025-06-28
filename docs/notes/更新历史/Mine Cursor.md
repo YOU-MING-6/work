@@ -19,7 +19,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 </div>
 
 
-## v 0.0.8 <Badge text="内测版" type="danger" />
+## v 0.0.8 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 优化了一些内容
@@ -29,7 +29,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.7 <Badge text="内测版" type="danger" />
+## v 0.0.7 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了新建、保存主题功能
@@ -47,7 +47,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.6 <Badge text="内测版" type="danger" />
+## v 0.0.6 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了一些内容
@@ -62,7 +62,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.5 <Badge text="内测版" type="danger" />
+## v 0.0.5 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 杂项更新
@@ -77,7 +77,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.4 <Badge text="内测版" type="danger" />
+## v 0.0.4 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 支持一键应用当前鼠标
@@ -89,7 +89,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.3 <Badge text="内测版" type="danger" />
+## v 0.0.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新软件图标
@@ -107,7 +107,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.2 <Badge text="内测版" type="danger" />
+## v 0.0.2 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 完善基础功能
@@ -118,7 +118,7 @@ permalink: /notes/更新历史/Mine-Cursor.html
 :::
 
 
-## v 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 基于 wxpython 开发
@@ -133,12 +133,13 @@ permalink: /notes/更新历史/Mine-Cursor.html
 
 ## ◉ 合作
 ::: info 用户 [hite4044](/friends/) 邀请我们一起更新作品
+:::
 ::: right
 **2025.4.27**
 :::
 
 
-## v 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 基于 wxpython 开发
@@ -150,9 +151,8 @@ permalink: /notes/更新历史/Mine-Cursor.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [hite404](/friends/) 想到灵感，而后开始创作
-
+::: tip 由 [hite404](/friends/) 想到灵感，而后开始创作
+:::
 ::: right
 **2025.4.25**
 :::

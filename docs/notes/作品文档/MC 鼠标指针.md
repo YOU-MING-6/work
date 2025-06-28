@@ -121,7 +121,7 @@ permalink: /notes/MC-鼠标指针.html
 
 @tab ::mingcute:film-line:: 视频演示&宣传片
 
-<LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://www.bilibili.com/video/BV11FwPejEcj/"></LinkCard>
+<LinkCard title="哔哩哔哩" icon="mingcute:bilibili-fill" href="https://space.bilibili.com/1337092956/lists/5398777"></LinkCard>
 
 ::::
 
@@ -142,49 +142,7 @@ permalink: /notes/MC-鼠标指针.html
 - 右键安装功能对某些用户无效。
 - `文本选择` 样式的鼠标样式为强行拉直的木棍样式，有点奇怪。
 - `沿角调整大小 1 2` 样式的鼠标样式为变弯的红石火把样式，面前还没有观众反馈说不好看。
-
----
-
-### ::mingcute:mailbox-line:: 粉丝建议
-
-::: demo-wrapper
-
-<div class="pointer-container" style="display: flex; align-items: flex-start; user-select: none; position: relative;">
-    <div>
-        <div class="pointer-title" style="font-size: 14px; color: gray; font-weight: bold;">
-            Minecraft唯艺
-            <Badge type="warning" text="等待使用" />
-        </div>
-        <div class="pointer-comment">
-            这种指针最好不要玩PVP应为看不清，UP能搞一个手柄指针吗？
-        </div>
-        <div class="pointer-date" style="font-size: 12px; color: gray;">
-            2024-10-13 14:46
-        </div>
-    </div>
-    <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; user-select: none; z-index: 1;"></div>
-</div>
-<hr>
-<div class="pointer-container" style="display: flex; align-items: flex-start; user-select: none; position: relative;">
-    <div>
-        <div class="pointer-title" style="font-size: 14px; color: gray; font-weight: bold;">
-            VIP-ID
-            <Badge type="warning" text="等待使用" />
-        </div>
-        <div class="pointer-comment">
-            能不能把钟改成动的指南针
-        </div>
-        <div class="pointer-date" style="font-size: 12px; color: gray;">
-            2024-09-07 15:40
-        </div>
-    </div>
-    <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: transparent; user-select: none; z-index: 1;"></div>
-</div>
-
-::: info 这是你吗？
-我们会在状态为已使用后删除。  
-如果你不想在这里展示，请向我们发送反馈以删除此信息。
-:::
+- 部分用户觉得部分鼠标太大。
 
 ## ::mingcute:arrow-to-down-line:: 下载链接
 
@@ -208,28 +166,28 @@ permalink: /notes/MC-鼠标指针.html
 - 下载链接：[https://mclanzou.lanzouo.com/b002u3f1ra](https://mclanzou.lanzouo.com/b002u3f1ra)
 - 提取码：`7dfd`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 123 网盘
 
 - 下载链接：[https://www.123pan.com/s/9ZtpTd-KnLov.html](https://www.123pan.com/s/9ZtpTd-KnLov.html)
 - 提取码：`hkFc`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 夸克网盘
 
 - 下载链接：[https://pan.quark.cn/s/35737e6a987a](https://pan.quark.cn/s/35737e6a987a)
 - 提取码：`tXYn`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 @tab ::mingcute:cloud-line:: 百度网盘
 
 - 下载链接：[https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg](https://pan.baidu.com/s/1c9FdVtfhWWvECdFlN_V-eg)
 - 提取码：`i7o8`
 
-[下载后必看](/必看.html){.read-more}
+[下载后必看](/notes/更多/必看.html){.read-more}
 
 :::
 

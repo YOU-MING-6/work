@@ -1,7 +1,7 @@
 ---
 title: YM-站点监控
 author: YOU MING 柚明
-icon: mingcute:monitor-line
+icon: mingcute:computer-camera-line
 outline: 2
 createTime: 2025/04/10
 tags:
@@ -66,9 +66,8 @@ permalink: /notes/更新历史/YM-站点监控.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2025.4.10**
 :::

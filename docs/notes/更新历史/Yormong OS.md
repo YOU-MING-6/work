@@ -20,15 +20,14 @@ permalink: /notes/更新历史/Yormong-OS.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  Yormong OS 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  Yormong OS 
+:::
 ::: right
 **2024.8.1**
 :::
 
 
-## v 1.0.4 <Badge text="公测版" type="info" />
+## v 1.0.4 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 全局  深色模式  基本修改完成
@@ -50,12 +49,13 @@ permalink: /notes/更新历史/Yormong-OS.html
 
 ## ◉ 合作
 ::: info 用户 [某团一笑](/friends/) 与我们一起更新作品
+:::
 ::: right
 **2024.7.7**
 :::
 
 
-## v 1.0.3 <Badge text="公测版" type="info" />
+## v 1.0.3 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 使用 YM UI 制作 深色模式 并应用于全局
@@ -75,7 +75,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 1.0.2 <Badge text="公测版" type="info" />
+## v 1.0.2 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 全面更新并应用新的 YM UI 
@@ -95,7 +95,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 1.0.1 <Badge text="公测版" type="info" />
+## v 1.0.1 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 系统全面应用 深色模式   (半成品) 
@@ -113,7 +113,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 1.0.0 <Badge text="公测版" type="info" />
+## v 1.0.0 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 全面使用并修改 YM虚拟机 弹出提示及其 LOGO 
@@ -135,7 +135,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.9 <Badge text="公测版" type="info" />
+## v 0.9.9 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 新增 木鱼.exe 程序  彩蛋 
@@ -163,7 +163,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.8 <Badge text="公测版" type="info" />
+## v 0.9.8 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 -  文件 新增图片全屏显示
@@ -184,7 +184,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.7 <Badge text="公测版" type="info" />
+## v 0.9.7 <Badge text="公测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了 安装程序 - PE 的部分图标
@@ -203,7 +203,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.6 <Badge text="内测版" type="danger" />
+## v 0.9.6 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 在文件打开页添加 文件属性 按钮
@@ -224,7 +224,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.5 <Badge text="内测版" type="danger" />
+## v 0.9.5 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了 设置 中左侧的 我的 按钮
@@ -247,7 +247,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.4 <Badge text="内测版" type="danger" />
+## v 0.9.4 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 同步新版 反馈 至锁屏
@@ -267,7 +267,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.3 <Badge text="内测版" type="danger" />
+## v 0.9.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 发布说明至 Github 
@@ -283,7 +283,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.2 <Badge text="内测版" type="danger" />
+## v 0.9.2 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 更新了 Yormong OS 宣传片 
@@ -300,7 +300,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.9.0 <Badge text="内测版" type="danger" />
+## v 0.9.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 添加 虚拟电源 
@@ -315,7 +315,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.8.0 <Badge text="内测版" type="danger" />
+## v 0.8.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 杂项更新
@@ -333,7 +333,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.7.0 <Badge text="内测版" type="danger" />
+## v 0.7.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 添加更多程序
@@ -347,7 +347,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.6.0 <Badge text="内测版" type="danger" />
+## v 0.6.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 添加「便笺」程序
@@ -359,7 +359,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.5.3 <Badge text="内测版" type="danger" />
+## v 0.5.3 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 优化「文件」程序
@@ -370,24 +370,22 @@ permalink: /notes/更新历史/Yormong-OS.html
 
 
 ## ◉ 继续更新
-::: tip 继续更新
-- ==Youming 工作室=={.warning} 的用户 <Badge text="柚明" type="tip" /> 已继续更新作品  Yormong OS 
-
+::: tip 用户 <Badge text="柚明" type="tip" /> 已继续更新作品  Yormong OS 
+:::
 ::: right
 **2024.2.19**
 :::
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 因过年，==Youming 工作室=={.warning} 已暂停更新作品
-
+::: warning 因过年，用户 <Badge text="柚明" type="tip" /> 已暂停更新作品
+:::
 ::: right
 **2023.2.9**
 :::
 
 
-## v 0.5.2 <Badge text="内测版" type="danger" />
+## v 0.5.2 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 优化了其他一部分内容
@@ -397,7 +395,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.8.0 <Badge text="内测版" type="danger" />
+## v 0.8.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 更换 Yormong OS  LOGO 
@@ -408,7 +406,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.4.0 <Badge text="内测版" type="danger" />
+## v 0.4.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 优化了其他一部分内容
@@ -418,7 +416,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.3.0 <Badge text="内测版" type="danger" />
+## v 0.3.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 使用 安逸动画库 优化部分动画
@@ -429,7 +427,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.2.0 <Badge text="内测版" type="danger" />
+## v 0.2.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🪐优化提升
 
 - 优化了 OOBE 
@@ -439,7 +437,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.1.0 <Badge text="内测版" type="danger" />
+## v 0.1.0 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### 🔥重磅更新
 
 - 重做  OOBE 
@@ -449,7 +447,7 @@ permalink: /notes/更新历史/Yormong-OS.html
 :::
 
 
-## v 0.0.1 <Badge text="内测版" type="danger" />
+## v 0.0.1 <Badge text="内测版" color="#8e5cd9" bg-color="rgba(159, 122, 234, 0.16)" />
 ### ✨更新
 
 - 基于  Mindows  进行开发
@@ -461,9 +459,8 @@ permalink: /notes/更新历史/Yormong-OS.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2024.1.24**
 :::

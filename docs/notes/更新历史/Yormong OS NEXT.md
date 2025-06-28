@@ -20,9 +20,8 @@ permalink: /notes/更新历史/Yormong-OS-NEXT.html
 
 
 ## ◉ 暂停更新
-::: warning 暂停更新
-- 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  Yormong OS NEXT 
-
+::: warning 用户 <Badge text="柚明" type="tip" /> 已暂停更新作品  Yormong OS NEXT 
+:::
 ::: right
 **2024.8.1**
 :::
@@ -68,9 +67,8 @@ permalink: /notes/更新历史/Yormong-OS-NEXT.html
 
 
 ## ◉ 开始创作
-::: tip 开始创作
-- 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
-
+::: tip 由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 想到灵感，而后开始创作
+:::
 ::: right
 **2024.7.16**
 :::

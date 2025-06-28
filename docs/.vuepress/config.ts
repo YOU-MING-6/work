@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 import { path } from "vuepress/utils";
+import { redirectPlugin } from '@vuepress/plugin-redirect'
 // import { commentPlugin } from '@vuepress/plugin-comment' // 评论插件
 // import { getDirname } from "vuepress/utils"; // 灯笼装饰
 
@@ -26,6 +27,21 @@ export default defineUserConfig({
   shouldPrefetch: false, // 是否开启预加载
 
   bundler: viteBundler(),
+
+  plugins: [
+    redirectPlugin({
+      config: {
+        '/%E5%BF%85%E7%9C%8B-%E5%BC%80%E6%BA%90.html': '/notes/更多/必看.html', // /必看-开源.html
+        '/%e5%bf%85%e7%9c%8b-%e9%9d%9e%e5%bc%80%e6%ba%90.html': '/notes/更多//必看.html',  // /必看-非开源.html
+        '/%E6%9B%B4%E5%A4%9A-%E5%BF%85%E7%9C%8B-%E5%BC%80%E6%BA%90.html': '/notes/更多//必看.html',  // /更多-必看-开源.html
+        '/%e6%9b%b4%e5%a4%9a-%e5%bf%85%e7%9c%8b.html': '/notes/更多//必看.html',  // /更多-必看.html
+        '/%E5%BF%85%E7%9C%8B.html': '/notes/更多/必看.html',  // /必看.html
+        '/%E5%85%AC%E5%91%8A.html': '/notes/更多/公告.html',  // /公告.html
+        '/%E9%93%BE%E6%8E%A5.html': '/notes/更多/链接.html',  // /链接.html
+        '/%E7%A4%BE%E4%BA%A4%E9%93%BE%E6%8E%A5%E9%A1%B5.html': '/notes/更多/链接.html',  // /社交链接页.html
+      },
+    }),
+  ],
 
   theme: plumeTheme({
     hostname: 'https://docs.youming.v6.army', // 部署域名
