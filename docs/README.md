@@ -28,32 +28,32 @@ config:
     features:
       -
         title: 公告
-        icon: fluent-emoji:megaphone
+        icon: mingcute:horn-2-line
         details: 立即查看最新公告
         link: /notes/更多/公告.html
       -
         title: YM 作品项目
-        icon: fluent-emoji:open-book
+        icon: mingcute:book-line
         details: 我们制作的可以使用的作品项目
         link: /notes/#ym-作品项目
       -
         title: YM PPT项目
-        icon: fluent-emoji:keyboard
+        icon: mingcute:chart-pie-line
         details: 我们使用PPT制作的项目
         link: /notes/#ym-ppt项目
       -
         title: YM 网站项目
-        icon: fluent-emoji:globe-showing-asia-australia
+        icon: mingcute:earth-line
         details: 我们制作的 website 项目
         link: /notes/#ym-网站项目
       -
         title: 反馈中心
-        icon: fluent-emoji:envelope
+        icon: mingcute:mail-open-line
         details: 欢迎给我们反馈你的意见和建议
         link: /notes/反馈中心/
       -
         title: Youming 工作室
-        icon: fluent-emoji:house-with-garden
+        icon: mingcute:pencil-ruler-line
         details: 关于我们的工作室
         link: /notes/更多/工作室.md
 ---
