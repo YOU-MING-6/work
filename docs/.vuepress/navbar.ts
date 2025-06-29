@@ -68,11 +68,6 @@ export const navbar = defineNavbarConfig([
         text: '关于',
         items: [
           {
-            text: '工作室',
-            link: '/notes/更多/工作室.html',
-            icon: '/rc/ym-docs-icon.svg',
-          },
-          {
             text: '此网站',
             link: '/notes/作品文档.html',
             icon: 'mingcute:book-2-line',
@@ -81,6 +76,11 @@ export const navbar = defineNavbarConfig([
             text: '更新日志',
             link: '/notes/更多/更新日志.html',
             icon: 'mingcute:history-anticlockwise-line',
+          },
+          {
+            text: '工作室',
+            link: '/notes/更多/工作室.html',
+            icon: '/rc/ym-docs-icon.svg',
           },
           {
             text: '成员页面',

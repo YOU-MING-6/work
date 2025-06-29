@@ -3,7 +3,6 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 import { path } from "vuepress/utils";
 import { redirectPlugin } from '@vuepress/plugin-redirect'
-// import { commentPlugin } from '@vuepress/plugin-comment' // 评论插件
 // import { getDirname } from "vuepress/utils"; // 灯笼装饰
 
 export default defineUserConfig({
@@ -66,11 +65,14 @@ export default defineUserConfig({
 
     blog: false, // 是否开启博客功能
 
+    // 公告栏
     bulletin: {
-      layout: 'top-right',
-      title: '',
-      contentFile: path.join(__dirname, 'bulletin.md'),
+      layout: 'top-right', // 公告位置
+      border: true, // 是否显示渐变边框
+      title: '', // 公告标题
+      contentFile: path.join(__dirname, 'bulletin.md'), // 公告内容文件路径
     },
+
 
     markdown: {
       fileTree: true, // ::: file-tree  文件树容器

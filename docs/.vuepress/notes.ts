@@ -47,16 +47,6 @@ const demoNotes = defineNoteConfig({
         },
       ]
     },
-    {
-      text: '更多',
-      collapsed: false,
-      prefix: '',
-      items: [
-        { text: '公告', link: '/notes/更多/公告.html'},
-        { text: '工作室', link: '更多/工作室.html'},
-        { text: '社交链接页', link: '/notes/更多/链接.html'}
-      ]
-    },
   ],
 })
 
@@ -65,7 +55,7 @@ const demoHistory = defineNoteConfig({
   link: '/notes/更新历史',
   sidebar: [
     {
-      text: '主文档',
+      text: '返回',
       prefix: '',
       items: [
         { text: '作品文档', link: '/notes/'},
@@ -113,15 +103,6 @@ const demoHistory = defineNoteConfig({
         },
       ]
     },
-    {
-      text: '更多',
-      collapsed: false,
-      prefix: '',
-      items: [
-        { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/notes/更多/链接.html'}
-      ]
-    },
   ],
 })
 
@@ -129,6 +110,13 @@ const demofeedback = defineNoteConfig({
   dir: '/notes/反馈中心',
   link: '/notes/反馈中心',
   sidebar: [
+    {
+      text: '返回',
+      prefix: '',
+      items: [
+        { text: '作品文档', link: '/notes/'},
+      ]
+    },
     {
       text: '反馈中心',
       prefix: '',
@@ -149,15 +137,6 @@ const demofeedback = defineNoteConfig({
         { text: '转载文章内容协议', link: '/notes/协议/转载.html'},
       ]
     },
-    {
-      text: '更多',
-      collapsed: false,
-      prefix: '',
-      items: [
-        { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/notes/更多/链接.html'}
-      ]
-    },
   ],
 })
 
@@ -166,9 +145,10 @@ const demoagreement = defineNoteConfig({
   link: '/notes/协议',
   sidebar: [
     {
-      text: '反馈中心',
+      text: '返回',
       prefix: '',
       items: [
+        { text: '作品文档', link: '/notes/'},
         { text: '反馈中心', link: '/notes/反馈中心/'}
       ]
     },
@@ -181,15 +161,6 @@ const demoagreement = defineNoteConfig({
         { text: '转载文章内容协议', link: '/notes/协议/转载.html'},
       ],
     },
-    {
-      text: '更多',
-      collapsed: false,
-      prefix: '',
-      items: [
-        { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/notes/更多/链接.html'}
-      ]
-    },
   ],
 })
 
@@ -198,21 +169,21 @@ const demoMore = defineNoteConfig({
   link: '/notes/更多',
   sidebar: [
     {
-      text: '关于',
+      text: '去这里',
       prefix: '',
       items: [
-        { text: '工作室', link: '工作室'},
-        { text: '成员页面', link: '/friends/', icon: 'mingcute:contacts-3-line'},
-        { icon: 'mingcute:history-anticlockwise-line', text: '更新日志', link: '更新日志'},
+        { text: '作品文档', link: '/notes/'},
+        { text: '反馈中心', link: '/notes/反馈中心/'}
       ]
     },
     {
-      text: '更多',
-      collapsed: false,
+      text: '关于',
       prefix: '',
       items: [
-        { text: '主文档', link: '/notes/MC-鼠标指针'},
-        { text: '社交链接页', link: '/notes/更多/链接.html'}
+        { text: '此网站', link: '/notes/作品文档.html'},
+        { icon: 'mingcute:history-anticlockwise-line', text: '更新日志', link: '更新日志'},
+        { text: '工作室', link: '工作室'},
+        { text: '成员页面', link: '/friends/', icon: 'mingcute:contacts-3-line'},
       ]
     },
   ],
