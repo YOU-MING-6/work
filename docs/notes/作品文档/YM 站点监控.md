@@ -24,7 +24,7 @@ permalink: /notes/YM-站点监控.html
 ::mingcute:contacts-2-line:: **发起者：** YOU MING 柚明 - [查看全部](#创作人员)  
 ::mingcute:calendar-time-add-line:: **发起时间：** *2025.4.10*  
 ::mingcute:pencil-ruler-line:: **当前状态：** ::mingcute:check-circle-line /#40c057:: ==正在更新=={.tip}  
-::mingcute:time-duration-line:: **上次更新时间：** *2025.5.31* - [查看更新历史](#更新历史)  
+::mingcute:time-duration-line:: **上次更新时间：** *2025.6.29* - [查看更新历史](#更新历史)  
 ::mingcute:board-line:: **当前版本：** ==正式版==
 
 ---

@@ -19,6 +19,16 @@ permalink: /notes/更新历史/YM-站点监控.html
 </div>
 
 
+## 6月29日 <Badge text="正式版" type="tip" />
+### ✨更新
+
+- 添加 柚明|主页 域名
+
+::: right
+**2025.6.29**
+:::
+
+
 ## 6月1日 <Badge text="正式版" type="tip" />
 ### ✨更新
 
