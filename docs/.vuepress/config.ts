@@ -38,6 +38,15 @@ export default defineUserConfig({
         '/%E5%85%AC%E5%91%8A.html': '/notes/更多/公告.html',  // /公告.html
         '/%E9%93%BE%E6%8E%A5.html': '/notes/更多/链接.html',  // /链接.html
         '/%E7%A4%BE%E4%BA%A4%E9%93%BE%E6%8E%A5%E9%A1%B5.html': '/notes/更多/链接.html',  // /社交链接页.html
+        // 重复
+        '/必看-开源.html': '/notes/更多/必看.html',
+        '/必看-非开源.html': '/notes/更多//必看.html',
+        '/更多-必看-开源.html': '/notes/更多//必看.html',
+        '/更多-必看.html': '/notes/更多//必看.html',
+        '/必看.html': '/notes/更多/必看.html',
+        '/公告.html': '/notes/更多/公告.html',
+        '/链接.html': '/notes/更多/链接.html',
+        '/社交链接页.html': '/notes/更多/链接.html',
       },
     }),
   ],
