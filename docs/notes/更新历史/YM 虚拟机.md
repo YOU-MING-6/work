@@ -9,9 +9,8 @@ tags:
 permalink: /notes/更新历史/YM-虚拟机.html
 ---
 
-::: important 这是哪？
-这是作品文档的更新历史文档  
-[返回主文档](/notes/YM-虚拟机.html)
+::: card title="返回" icon="mingcute:back-line"
+这里是该项目的 **更新历史** 文档 | [返回主文档](/notes/YM-虚拟机.html)
 :::
 
 <div style="text-align: center; ">

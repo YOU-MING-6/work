@@ -10,28 +10,8 @@ tags:
 permalink: /notes/MC-鼠标指针.html
 ---
 
-<style>
-  .light-theme-image { 
-    display: block !important; 
-  }
-  .dark-theme-image { 
-    display: none !important; 
-  }
-  html.dark .light-theme-image { 
-    display: none !important; 
-  }
-  html.dark .dark-theme-image { 
-    display: block !important; 
-  }
-</style>
-
-<!-- 根据网站主题切换图片 -->
-<div class="light-theme-image">
-  <img src="/rc/sbzz.png">
-</div>
-<div class="dark-theme-image">
-  <img src="/rc/sbzz-dark.png">
-</div>
+![](/rc/sbzz.png#light)
+![](/rc/sbzz-dark.png#dark)
 
 ## ::mingcute:document-line:: 简介
 
@@ -92,28 +72,8 @@ permalink: /notes/MC-鼠标指针.html
 
 @tab ::mingcute:pic-line:: 图片展示
 
-<style>
-  .light-theme-image { 
-    display: block !important; 
-  }
-  .dark-theme-image { 
-    display: none !important; 
-  }
-  html.dark .light-theme-image { 
-    display: none !important; 
-  }
-  html.dark .dark-theme-image { 
-    display: block !important; 
-  }
-</style>
-
-<!-- 根据网站主题切换图片 -->
-<div class="light-theme-image">
-  <img src="/rc/sbzz-yl.png" width="350px">
-</div>
-<div class="dark-theme-image">
-  <img src="/rc/sbzz-yl-dark.png" width="350px">
-</div>
+![=450x](/rc/sbzz-yl.png#light)
+![=450x](/rc/sbzz-yl-dark.png#dark)
 
 @tab ::mingcute:cursor-3-line:: 实时预览
 

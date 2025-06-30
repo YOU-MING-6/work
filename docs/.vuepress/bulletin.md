@@ -12,13 +12,8 @@
 
 【<a href="/notes/更多/公告.html">查看全部公告</a>】
 
-::: info 我们已于 `2025.5.31` 更换网站域名
-:::
-
 - 所有协议上次更新时间：`2025.6.02`
 协议：<a href="/notes/协议/开源.html">开源</a> | <a href="/notes/协议/非开源.html">非开源</a> | <a href="/notes/协议/闭源.html">闭源</a> | <a href="/notes/协议/转载.html">转载</a>
-
-<p style="margin-top: 16px; "></p>
 
 <p style="margin-top: 16px; "></p>
 
@@ -32,3 +27,7 @@
 
 - 查看此网站的 <a href="/notes/更多/链接.html">社交链接页</a>
 - 给我们发 <a href="/notes/更多/链接.html#邮箱">邮件</a> 反馈
+
+::: warning 注意
+如果为备用线路，可能存在些许卡顿，请耐心等待！
+:::

@@ -16,7 +16,7 @@ const demoNotes = defineNoteConfig({
           prefix: '',
           items: [
             { text: 'MC 鼠标指针', link: 'MC-鼠标指针'},
-            { text: 'Floating OS', link: 'Floating-OS', badge: { text: '停止', type: 'danger' }},
+            { text: 'Floating OS', link: 'Floating-OS'},
             { text: 'MC-片头&尾', link: 'MC-片头-尾'},
             { text: 'Mine Cursor', link: 'Mine-Cursor'},
           ]
@@ -27,7 +27,7 @@ const demoNotes = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止', type: 'danger' }},
+            { text: 'Mindows11', link: 'Mindows11'},
             { text: 'Yormong OS', link: 'Yormong-OS'},
             { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},
@@ -72,7 +72,7 @@ const demoHistory = defineNoteConfig({
           prefix: '',
           items: [
             { text: 'MC 鼠标指针', link: 'MC-鼠标指针'},
-            { text: 'Floating OS', link: 'Floating-OS', badge: { text: '停止', type: 'danger' }},
+            { text: 'Floating OS', link: 'Floating-OS'},
             { text: 'MC-片头&尾', link: 'MC-片头-尾'},
             { text: 'Mine Cursor', link: 'Mine-Cursor'},
           ]
@@ -83,7 +83,7 @@ const demoHistory = defineNoteConfig({
           collapsed: false,
           prefix: '',
           items: [
-            { text: 'Mindows11', link: 'Mindows11', badge: { text: '停止', type: 'danger' }},
+            { text: 'Mindows11', link: 'Mindows11'},
             { text: 'Yormong OS', link: 'Yormong-OS'},
             { text: 'Yormong OS NEXT', link: 'Yormong-OS-NEXT'},
             { text: 'YM 虚拟机', link: 'YM-虚拟机'},

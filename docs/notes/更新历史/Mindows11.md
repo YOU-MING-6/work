@@ -4,14 +4,16 @@ author: YOU MING 柚明
 icon: mingcute:layout-grid-line
 outline: 2
 createTime: 2023/04/14
+badge:
+  text: 停止
+  type: danger
 tags:
 - 更新历史
 permalink: /notes/更新历史/Mindows11.html
 ---
 
-::: important 这是哪？
-这是作品文档的 更新历史 文档  
-[返回主文档](/notes/Mindows11.html)
+::: card title="返回" icon="mingcute:back-line"
+这里是该项目的 **更新历史** 文档 | [返回主文档](/notes/Mindows11.html)
 :::
 
 <div style="text-align: center; ">

@@ -10,6 +10,9 @@ tags:
 permalink: /notes/YM-虚拟机.html
 ---
 
+::: warning 此作品目前 `暂停更新`
+:::
+
 ![](/rc/xnj.png)
 
 ## ::mingcute:document-line:: 简介

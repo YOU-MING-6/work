@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <footer>
+  <div>
     <p style="color: var(--vp-c-text-2);">
       <span class="icon"></span>
       转载本站任何内容请遵守
@@ -9,7 +9,7 @@
         《转载文章内容协议》
       </VPLink>
     </p>
-  </footer>
+  </div>
   <hr class="hr"></hr>
 </template>
 

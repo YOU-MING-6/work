@@ -96,11 +96,12 @@ export default defineUserConfig({
       timeline: true, // ::: timeline  时间线
       collapse: true, // ::: collapse  折叠面板
       chat: true, // ::: chat  对话记录
-      repl: {
-        go: false,
-        rust: false,
-        kotlin: false,
-      },
+      image: {
+        figure: true,  // 启用 figure
+        lazyload: true,  // 启用图片懒加载
+        mark: true,  // 启用图片标记
+        size: true,  // 启用图片大小
+      }
     },
 
     plugins: {

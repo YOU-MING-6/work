@@ -3,6 +3,9 @@ title: Mindows11
 author: YOU MING 柚明 ︱ 某团一笑
 icon: mingcute:layout-grid-line
 createTime: 2023/04/14
+badge:
+  text: 停止
+  type: danger
 tags:
   - 停止支持
   - YM-PPT项目

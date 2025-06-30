@@ -10,6 +10,9 @@ tags:
 permalink: /notes/Yormong-OS.html
 ---
 
+::: warning 此作品目前 `暂停更新`
+:::
+
 ![](/rc/ym-os.png)
 
 ## ::mingcute:document-line:: 简介

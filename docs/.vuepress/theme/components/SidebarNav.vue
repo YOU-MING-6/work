@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import { VPLink } from 'vuepress-theme-plume/client'
 import { useRouteLocale } from 'vuepress/client'
 
 interface Locale {
@@ -10,7 +11,7 @@ interface Locale {
 }
 
 const locales: Record<string, Locale> = {
-  '/': {  horn: '公告', link: '社交链接页', amil: '反馈中心', ym: '工作室' },
+  '/': {  horn: '公告', link: '社交链接页', amil: '反馈中心', ym: 'Youming-工作室' },
 }
 
 const lang = useRouteLocale()
@@ -35,7 +36,7 @@ const locale = computed(() => locales[lang.value])
       <span class="vpi-arrow-right" />
     </VPLink>
         <VPLink class="link" href="/notes/更多/工作室.html">
-      <img class="vpi-ym" src="/rc/ym-docs-icon.svg" style="border-radius: 50%;" />
+      <img class="vpi-ym" style="border-radius: 50%;" />
       <span class="link-text">{{ locale.ym }}</span>
       <span class="vpi-arrow-right" />
     </VPLink>
@@ -79,6 +80,10 @@ const locale = computed(() => locales[lang.value])
 
 .vpi-amil {
   --icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIj48cGF0aCBkPSJtMTIuNTkzIDIzLjI1OGwtLjAxMS4wMDJsLS4wNzEuMDM1bC0uMDIuMDA0bC0uMDE0LS4wMDRsLS4wNzEtLjAzNXEtLjAxNi0uMDA1LS4wMjQuMDA1bC0uMDA0LjAxbC0uMDE3LjQyOGwuMDA1LjAybC4wMS4wMTNsLjEwNC4wNzRsLjAxNS4wMDRsLjAxMi0uMDA0bC4xMDQtLjA3NGwuMDEyLS4wMTZsLjAwNC0uMDE3bC0uMDE3LS40MjdxLS4wMDQtLjAxNi0uMDE3LS4wMThtLjI2NS0uMTEzbC0uMDEzLjAwMmwtLjE4NS4wOTNsLS4wMS4wMWwtLjAwMy4wMTFsLjAxOC40M2wuMDA1LjAxMmwuMDA4LjAwN2wuMjAxLjA5M3EuMDE5LjAwNS4wMjktLjAwOGwuMDA0LS4wMTRsLS4wMzQtLjYxNHEtLjAwNS0uMDE4LS4wMi0uMDIybS0uNzE1LjAwMmEuMDIuMDIgMCAwIDAtLjAyNy4wMDZsLS4wMDYuMDE0bC0uMDM0LjYxNHEuMDAxLjAxOC4wMTcuMDI0bC4wMTUtLjAwMmwuMjAxLS4wOTNsLjAxLS4wMDhsLjAwNC0uMDExbC4wMTctLjQzbC0uMDAzLS4wMTJsLS4wMS0uMDF6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTIwIDRhMiAyIDAgMCAxIDEuOTk1IDEuODVMMjIgNnYxMmEyIDIgMCAwIDEtMS44NSAxLjk5NUwyMCAyMEg0YTIgMiAwIDAgMS0xLjk5NS0xLjg1TDIgMThWNmEyIDIgMCAwIDEgMS44NS0xLjk5NUw0IDR6bTAgMy40MTRsLTYuOTQgNi45NGExLjUgMS41IDAgMCAxLTIuMTIgMEw0IDcuNDE0VjE4aDE2ek0xOC41ODYgNkg1LjQxNEwxMiAxMi41ODZ6Ii8+PC9nPjwvc3ZnPg==");
+}
+
+.vpi-ym {
+  --icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAwIiBoZWlnaHQ9IjMwMDAiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlPSJudWxsIiBkPSJNMjIxMCAxMDgwLjNjLTM0LjggMTcuMy01NiAyNi43LTc1LjUgMzgtMTkyLjggMTExLjQtMzg0LjggMjI0LjEtNTc4LjkgMzMyLjhhMTE1LjggMTE1LjggMCAwIDAtNjYuMiAxMTYuNGMyLjYgMzUwLjIgMSA2OTguNS44IDEwNDggMCAyMy4yLS4zIDQ2LjMtMS4zIDgyLTgzLjItNDctMTU5LjQtODguNy0yMzMuNi0xMzIuMy0yNDcuNS0xNDItNDkyLjktMjg1LjgtNzQwLjItNDI3LjJhMTA0LjYgMTA0LjYgMCAwIDEtNjIuNS0xMDQuNmMyLjktMzUxLjIgMi45LTcwMi4zLS4yLTEwNTMuM0ExMzAgMTMwIDAgMCAxIDUyNy4zIDg1MGE2NTg3Mi42IDY1ODcyLjYgMCAwIDAgOTEzLTUyNy40IDEwMi44IDEwMi44IDAgMCAxIDEyMi42LjRjODQuMyA1Mi4zIDE3MCAxMDAuNSAyNjguMiAxNTguMWwtNjkuOCA0MC4yYTMxNjk0Ny42IDMxNjk0Ny42IDAgMCAxLTkxMy45IDUyNi4zIDEwNyAxMDcgMCAwIDAtNjIgMTA2LjZjMi4zIDIzMC4zIDIuNiA0NjAuNS4zIDY5MC43YTkzLjcgOTMuNyAwIDAgMCA1Mi43IDk0LjNjNjUuNSAzNC41IDEyOC42IDczLjcgMTkzLjMgMTEwLjMgMTggMTAuMSAzNy4yIDE3LjcgNjcuMyAzMS4yIDEuMi01Ny40IDMtMTA1LjEgMy4zLTE1MyAuNy0xOTYuNSAyLTM5My42LjUtNTkwLjZhOTMuNyA5My43IDAgMCAxIDUzLjgtOTQuMiAxMTY0NTUuMyAxMTY0NTUuMyAwIDAgMCA5NDguNy01NDcuNCA4Ny40IDg3LjQgMCAwIDEgMTAyLjEtLjljOTYuMyA1OS4xIDE5NC44IDExNS4yIDI5My43IDE3MGE3NyA3NyAwIDAgMSA0Ni44IDc3LjNjLTIuMSAzNzEtLjYgNzQxLjEtMi4yIDExMTJhNzcgNzcgMCAwIDEtMjUuNCA1OS4yIDExOTExMy40IDExOTExMy40IDAgMCAxLTcxNS40IDQxNS4zYy0xLjMtOTYuMiA1LjItMTgzLjItMy42LTI2OC43LTguNS04NS4yIDI2LjQtMTMxIDEwMC42LTE2Ni4yIDg1LjgtNDEuNSAxNjUuNi05NS42IDI0OS43LTE0MS4xIDQzLjUtMTkgNjkuNS02NC4yIDY0LjItMTExLjMtMy4xLTIyMC4zLS4zLTQ0MC42IDAtNjYxLjItLjMtMjguOS0zLjQtNTctNi05OS41bC4xLS4xeiIvPjwvc3ZnPg==");
 }
 
 </style>

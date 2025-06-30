@@ -10,7 +10,7 @@ tags:
 permalink: /notes/YM-站点监控.html
 ---
 
-![](/rc/docs-yl.png)
+![](/rc/zdjk-yl.png)
 
 ## ::mingcute:document-line:: 简介
 

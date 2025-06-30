@@ -10,6 +10,9 @@ tags:
 permalink: /notes/YM-安全中心.html
 ---
 
+::: warning 此作品目前 `暂停更新`
+:::
+
 ![](/rc/aqzx.png)
 
 ## ::mingcute:document-line:: 简介
