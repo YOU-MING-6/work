@@ -39,20 +39,18 @@ permalink: /notes/MC-片头-尾.html
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品引用或使用内容："
+### ::mingcute:quote-right-line:: 引用内容
 
+::: card
 - [Mojang Minecraft](https://www.minecraft.net/)  
   视频开头（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
-
 :::
 
 ## ::mingcute:eye-2-line:: 预览

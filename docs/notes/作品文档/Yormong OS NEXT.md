@@ -20,9 +20,8 @@ permalink: /notes/Yormong-OS-NEXT.html
 ==Yormong OS NEXT== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2024.7.16=={.info} 开始制作的一个 ==PPT 系统=={.info} 。
 
 - 基于 ==Yormong OS=={.info} 制作的 ==PPT 系统=={.info}。
-- 此 PPT 图片及动图来源于网络。
-- 界面设计参考于网络。
-- 此PPT使用了一些 PPT 插件。
+- 此 PPT 部分图片及动图来源于网络。
+- 部分界面设计参考于网络。
 
 ::: card
 ::mingcute:book-3-line:: **作品名称：** Yormong OS NEXT  
@@ -38,23 +37,30 @@ permalink: /notes/Yormong-OS-NEXT.html
 ::mingcute:quill-pen-line:: **项目类型：** ::mingcute:forbid-circle-line /#fa5252:: 闭源项目 - [查看作品权限](#作品权限)  
 :::
 
+::: card
+**相关作品：** [Yormong OS](/notes/Yormong-OS.html)
+:::
+
 ### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
 参与创作的人员：
 
-<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">
-    现在，让我们来看看答案。
-</LinkCard>
+<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">现在，让我们来看看答案。</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用此作品，请遵守 [《闭源作品使用权限协议》](/notes/协议/闭源.html) 。
+:::
+
+### ::mingcute:quote-right-line:: 引用内容
+
+::: card
+- 图片及动图（网络）
+- 界面设计（网络）
 :::
 
 ## ::mingcute:eye-2-line:: 预览

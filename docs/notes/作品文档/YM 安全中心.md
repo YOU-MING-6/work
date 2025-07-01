@@ -37,15 +37,17 @@ permalink: /notes/YM-安全中心.html
 ::mingcute:quill-pen-line:: **项目类型：** ::mingcute:forbid-circle-line /#fa5252:: 闭源项目 - [查看作品权限](#作品权限)  
 :::
 
+::: card
+**相关作品：** [Yormong OS](/notes/Yormong-OS.html)
+:::
+
 ### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要查看此作品，请遵守 [《闭源作品使用权限协议》](/notes/协议/闭源.html) 。
 :::

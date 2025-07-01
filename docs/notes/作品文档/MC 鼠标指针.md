@@ -16,7 +16,7 @@ permalink: /notes/MC-鼠标指针.html
 ## ::mingcute:document-line:: 简介
 
 ==MC 鼠标指针== 是一个由 [YOU MING 柚明](/notes/更多/工作室.html#you-ming-柚明) 于 ==2023.2=={.info} 开始制作的一个 ==鼠标指针=={.info} 。  
-（本文的 “鼠标指针” 指的是 鼠标光标。）
+（本文的 “鼠标指针” 指的是 鼠标光标）
 
 - 使用了 ==「新版 MC 材质」=={.info} 制作，~~而不是网上的 老版材质~~；
 - 还有一部分鼠标是动态的；
@@ -48,22 +48,21 @@ permalink: /notes/MC-鼠标指针.html
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品引用或使用内容："
+### ::mingcute:quote-right-line:: 引用内容
 
+::: card
 - [Mojang Minecraft](https://www.minecraft.net/)  
   部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
+---
 - [中文Minecraft Wiki](https://zh.minecraft.wiki/)  
   部分图片内容（遵循[此条款](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%BD%AC%E8%BD%BD%E9%A1%BB%E7%9F%A5)）
-
 :::
 
 ## ::mingcute:eye-2-line:: 预览

@@ -45,25 +45,21 @@ permalink: /notes/Floating-OS.html
 
 发起者：
 
-<LinkCard title="Afly-dream" icon="/rc/tx-3-ys.png" href="/friends/">
-    有梦想，才能有希望。
-</LinkCard>
+<LinkCard title="Afly-dream" icon="/rc/tx-3-ys.png" href="/friends/">有梦想，才能有希望。</LinkCard>
 
 参与创作的人员：
 
-<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">
-    现在，让我们来看看答案。
-</LinkCard>
+<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">现在，让我们来看看答案。</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 目前为构建版，暂不支持使用或修改此作品。
 :::
 
-::: card title="作品引用或使用内容："
+### ::mingcute:quote-right-line:: 引用内容
 
-- Windows 11 操作系统
-
+::: card
+- Windows 11 操作系统 ISO 镜像
 :::
 
 ### ::mingcute:alert-line:: 停止支持(构建)

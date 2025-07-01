@@ -6,7 +6,7 @@ export const navbar = defineNavbarConfig([
     text: '作品文档',
     link: '/notes/',
     icon: 'mingcute:book-2-line',
-    activeMatch: '^/notes/[^/更新历史/|/反馈中心/]{1,}|/notes/$',
+    activeMatch: '^/notes/[^/更新历史/|/反馈中心/|/协议/|/更多/]{1,}|/notes/$',
   },
   {
     text: '更新历史',

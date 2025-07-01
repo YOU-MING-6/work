@@ -56,22 +56,21 @@ permalink: /notes/Mine-Cursor.html
 
 参与创作的人员：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [MPL 2.0 许可证](https://www.mozilla.org/en-US/MPL/2.0/) 。
 :::
 
-::: card title="作品引用或使用内容："
+### ::mingcute:quote-right-line:: 引用内容
 
+::: card
 - [Mojang Minecraft](https://www.minecraft.net/)  
   部分游戏贴图、粒子等内容（遵循[此条款](https://www.minecraft.net/usage-guidelines)）
+---
 - [中文Minecraft Wiki](https://zh.minecraft.wiki/)  
   部分图片内容（遵循[此条款](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%BD%AC%E8%BD%BD%E9%A1%BB%E7%9F%A5)）
-
 :::
 
 ## ::mingcute:eye-2-line:: 预览

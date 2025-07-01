@@ -43,29 +43,29 @@ permalink: /notes/Mindows11.html
 ::mingcute:quill-pen-line:: **项目类型：** ::mingcute:quill-pen-line /#40c057:: 开源项目 - [查看作品权限](#作品权限)  
 :::
 
+::: card
+**相关作品：** [Yormong OS](/notes/Yormong-OS.html)
+:::
+
 ### ::mingcute:contacts-3-line:: 创作人员
 
 发起者：
 
-<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">
-    一个不知名创作者
-</LinkCard>
+<LinkCard title="YOU MING 柚明" icon="/rc/ym-ys.png" href="/notes/更多/工作室.html#you-ming-柚明">一个不知名创作者</LinkCard>
 
 参与创作的人员：
 
-<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">
-    现在，让我们来看看答案。
-</LinkCard>
+<LinkCard title="某团一笑" icon="/rc/tx-2-ys.png" href="/friends/">现在，让我们来看看答案。</LinkCard>
 
-### ::mingcute:pencil-3-line:: 作品权限
+## ::mingcute:pencil-3-line:: 作品权限
 
 ::: important 要使用或修改此作品，请遵守 [《开源作品使用权限协议》](/notes/协议/开源.html) 。
 :::
 
-::: card title="作品引用或使用内容："
+### ::mingcute:quote-right-line:: 引用内容
 
+::: card
 - 图片及动图（网络）
-
 :::
 
 ## ::mingcute:eye-2-line:: 预览
